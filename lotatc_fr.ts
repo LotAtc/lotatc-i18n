@@ -50,7 +50,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="57"/>
         <source>blue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bleue</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="57"/>
@@ -109,37 +109,37 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="36"/>
         <source>Connect</source>
-        <translation type="unfinished">Connecter</translation>
+        <translation>Connecter</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="41"/>
         <source>Disconnect</source>
-        <translation type="unfinished">Déconnecter</translation>
+        <translation>Déconnecter</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="47"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="52"/>
         <source>News</source>
-        <translation type="unfinished">Nouvelles</translation>
+        <translation>Nouvelles</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="61"/>
         <source>Help</source>
-        <translation type="unfinished">Aide</translation>
+        <translation>Aide</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="91"/>
         <source>METRIC</source>
-        <translation type="unfinished">METRIQUE</translation>
+        <translation>METRIQUE</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="91"/>
         <source>IMPERIAL</source>
-        <translation type="unfinished">IMPERIAL</translation>
+        <translation>IMPERIAL</translation>
     </message>
 </context>
 <context>
