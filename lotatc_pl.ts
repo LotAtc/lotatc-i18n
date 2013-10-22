@@ -310,12 +310,12 @@
         <translation>Nazwa:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="58"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="60"/>
         <source>Apply</source>
         <translation>Zastosuj</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="69"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="72"/>
         <source>Symbol:</source>
         <translation>Symbol:</translation>
     </message>
