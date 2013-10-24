@@ -119,12 +119,12 @@
         <translation>Aiuto</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="91"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="92"/>
         <source>METRIC</source>
         <translation>METRICO</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="91"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="92"/>
         <source>IMPERIAL</source>
         <translation>IMPERIALE</translation>
     </message>
@@ -193,9 +193,14 @@
         <translation>Scegli una mappa:</translation>
     </message>
     <message>
+        <source>Choose an unit (Key: Alt+N)</source>
+        <translation type="obsolete">Scegli una unità (Key: Alt+N)</translation>
+    </message>
+    <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="119"/>
         <source>Choose an unit (Key: Alt+N)</source>
-        <translation>Scegli una unità (Key: Alt+N)</translation>
+        <comment>measurment: imperial or metric</comment>
+        <translation type="unfinished">Scegli una unità (Key: Alt+N)</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="131"/>
@@ -324,9 +329,13 @@
 <context>
     <name>PageWeather</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="127"/>
         <source>Clear sky</source>
-        <translation>Cieli sgombri</translation>
+        <translation type="obsolete">Cieli sgombri</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="127"/>
+        <source>Sky clear</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="128"/>
@@ -481,57 +490,81 @@
         <translation>Errore di Connessione:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="235"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="152"/>
+        <source>Arcade</source>
+        <comment>profile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="153"/>
+        <source>Basic</source>
+        <comment>profile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="154"/>
+        <source>Realistic</source>
+        <comment>profile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="155"/>
+        <source>Advanced</source>
+        <comment>profile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="243"/>
         <source>Not connected</source>
         <translation>Non connesso</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="405"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="413"/>
         <source>Change &amp;unit</source>
         <translation>Cambiare &amp;unità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="408"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="416"/>
         <source>Change unit</source>
         <translation>Cambiare unità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="412"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="420"/>
         <source>Circles on</source>
         <translation>Circoli ON</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="412"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="420"/>
         <source>Circles off</source>
         <translation>Circoli OFF</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="415"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="423"/>
         <source>Show/Hide detection/threat circles</source>
         <translation>Mostra/Nascondi i cerchi di identificazione/minaccia</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="419"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="427"/>
         <source>Show background label</source>
         <translation>Mostra le etichette di fondo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="422"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="430"/>
         <source>Show/Hide background labels</source>
         <translation>Mostra/Nascondi le etichette di fondo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="427"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="435"/>
         <source>Disable fullscreen</source>
         <translation>Disabilita tutto schermo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="427"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="435"/>
         <source>Enable fullscreen</source>
         <translation>Abilità tutto schermo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="440"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="448"/>
         <source>Show fullscreen</source>
         <translation>Mostra tutto schermo</translation>
     </message>
