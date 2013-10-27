@@ -263,14 +263,18 @@
         <translation>Defina o modo de velocidade vector (colocar a zeros para zoom independente)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="285"/>
         <source>Zoom independant</source>
-        <translation>Zoom independente</translation>
+        <translation type="obsolete">Zoom independente</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="285"/>
         <source>%1 seconds</source>
         <translation>%1 segundos</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="285"/>
+        <source>Zoom independent</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="296"/>

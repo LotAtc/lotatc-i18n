@@ -265,14 +265,18 @@
         <translation>Okreśł tryb wektora prędkości (wstaw 0 dla niezależnego od skali)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="285"/>
         <source>Zoom independant</source>
-        <translation>Niezależne od skali</translation>
+        <translation type="obsolete">Niezależne od skali</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="285"/>
         <source>%1 seconds</source>
         <translation>%1 sekund</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="285"/>
+        <source>Zoom independent</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="296"/>

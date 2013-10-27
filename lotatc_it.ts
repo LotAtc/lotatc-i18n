@@ -266,14 +266,18 @@
         <translation>Definire la modalità del vettore velocità (inserire 0s non dipendere dallo zoom)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="285"/>
         <source>Zoom independant</source>
-        <translation>Indipendente dallo Zoom</translation>
+        <translation type="obsolete">Indipendente dallo Zoom</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="285"/>
         <source>%1 seconds</source>
         <translation>%1 secondi</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="285"/>
+        <source>Zoom independent</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="296"/>

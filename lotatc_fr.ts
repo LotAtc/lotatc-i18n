@@ -260,12 +260,12 @@
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="285"/>
-        <source>Zoom independant</source>
+        <source>%1 seconds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="285"/>
-        <source>%1 seconds</source>
+        <source>Zoom independent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

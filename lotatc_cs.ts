@@ -265,14 +265,18 @@
         <translation>Definuj mód vektoru rychlosti (0 pro nezávislý na zoomu)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="285"/>
         <source>Zoom independant</source>
-        <translation>Nezávislý na zoomu</translation>
+        <translation type="obsolete">Nezávislý na zoomu</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="285"/>
         <source>%1 seconds</source>
         <translation>%1 sekundy</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="285"/>
+        <source>Zoom independent</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="296"/>
