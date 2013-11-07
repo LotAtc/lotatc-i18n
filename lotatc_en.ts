@@ -257,7 +257,7 @@
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="265"/>
-        <source>Define speed vector mode (put at 0s for zoom independant)</source>
+        <source>Define speed vector mode (put at 0s for zoom independent)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -297,106 +297,30 @@
 <context>
     <name>PageProperties</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="35"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="48"/>
         <source>Properties</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="44"/>
-        <source>Name:</source>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="41"/>
+        <source>Name: %1</source>
+        <comment>Name of the unit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="60"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="63"/>
+        <source>Name:</source>
+        <comment>Name of the unit</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="79"/>
         <source>Apply</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="72"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="91"/>
         <source>Symbol:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PageWeather</name>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="127"/>
-        <source>Sky clear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="128"/>
-        <source>Some clouds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="129"/>
-        <source>Clouds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="130"/>
-        <source>Overcast</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="131"/>
-        <source>Rain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="132"/>
-        <source>Snow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="133"/>
-        <source>Thunderstorms</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="134"/>
-        <source>Snow thunderstorms</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="151"/>
-        <source>Weather</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="164"/>
-        <source>Visibility</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="167"/>
-        <source>QNH</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="173"/>
-        <source>Wind from</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="178"/>
-        <source>0m</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="181"/>
-        <source>2000m</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="184"/>
-        <source>8000m</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="193"/>
-        <source>Waiting for mission datas...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
