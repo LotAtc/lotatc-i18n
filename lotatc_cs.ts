@@ -313,7 +313,7 @@
 <context>
     <name>PageProperties</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="48"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="50"/>
         <source>Properties</source>
         <translation>Nástroje</translation>
     </message>
@@ -322,24 +322,24 @@
         <translation type="obsolete">Jméno:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="41"/>
-        <source>Name: %1</source>
-        <comment>Name of the unit</comment>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="43"/>
+        <source>Id: %1</source>
+        <comment>Id of the unit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="63"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="65"/>
         <source>Name:</source>
         <comment>Name of the unit</comment>
         <translation type="unfinished">Jméno:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="79"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="81"/>
         <source>Apply</source>
         <translation>Použij</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="91"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="93"/>
         <source>Symbol:</source>
         <translation>Symbol:</translation>
     </message>
@@ -351,60 +351,84 @@
         <translation type="obsolete">Jasno</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="127"/>
+        <source>Sky clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="128"/>
         <source>Some clouds</source>
-        <translation type="obsolete">Polojasno</translation>
+        <translation type="unfinished">Polojasno</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="129"/>
         <source>Clouds</source>
-        <translation type="obsolete">Oblačno</translation>
+        <translation type="unfinished">Oblačno</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="130"/>
         <source>Overcast</source>
-        <translation type="obsolete">Zataženo</translation>
+        <translation type="unfinished">Zataženo</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="131"/>
         <source>Rain</source>
-        <translation type="obsolete">Déšť</translation>
+        <translation type="unfinished">Déšť</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="132"/>
         <source>Snow</source>
-        <translation type="obsolete">Sníh</translation>
+        <translation type="unfinished">Sníh</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="133"/>
         <source>Thunderstorms</source>
-        <translation type="obsolete">Bouřky</translation>
+        <translation type="unfinished">Bouřky</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="134"/>
         <source>Snow thunderstorms</source>
-        <translation type="obsolete">Sněhové bouře</translation>
+        <translation type="unfinished">Sněhové bouře</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="151"/>
         <source>Weather</source>
-        <translation type="obsolete">Počasí</translation>
+        <translation type="unfinished">Počasí</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="164"/>
         <source>Visibility</source>
-        <translation type="obsolete">Viditelnost</translation>
+        <translation type="unfinished">Viditelnost</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="167"/>
         <source>QNH</source>
-        <translation type="obsolete">QNH</translation>
+        <translation type="unfinished">QNH</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="173"/>
         <source>Wind from</source>
-        <translation type="obsolete">Vítr z</translation>
+        <translation type="unfinished">Vítr z</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="178"/>
         <source>0m</source>
-        <translation type="obsolete">0m</translation>
+        <translation type="unfinished">0m</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="181"/>
         <source>2000m</source>
-        <translation type="obsolete">2000m</translation>
+        <translation type="unfinished">2000m</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="184"/>
         <source>8000m</source>
-        <translation type="obsolete">8000m</translation>
+        <translation type="unfinished">8000m</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="193"/>
+        <source>Waiting for mission datas...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

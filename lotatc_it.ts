@@ -314,7 +314,7 @@
 <context>
     <name>PageProperties</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="48"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="50"/>
         <source>Properties</source>
         <translation>Proprietà</translation>
     </message>
@@ -323,24 +323,24 @@
         <translation type="obsolete">Nome:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="41"/>
-        <source>Name: %1</source>
-        <comment>Name of the unit</comment>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="43"/>
+        <source>Id: %1</source>
+        <comment>Id of the unit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="63"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="65"/>
         <source>Name:</source>
         <comment>Name of the unit</comment>
         <translation type="unfinished">Nome:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="79"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="81"/>
         <source>Apply</source>
         <translation>Applica</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="91"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="93"/>
         <source>Symbol:</source>
         <translation>Simbolo:</translation>
     </message>
@@ -352,44 +352,84 @@
         <translation type="obsolete">Cieli sgombri</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="127"/>
+        <source>Sky clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="128"/>
         <source>Some clouds</source>
-        <translation type="obsolete">Nuvole sparse</translation>
+        <translation type="unfinished">Nuvole sparse</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="129"/>
         <source>Clouds</source>
-        <translation type="obsolete">Nuvoloso</translation>
+        <translation type="unfinished">Nuvoloso</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="130"/>
         <source>Overcast</source>
-        <translation type="obsolete">Coperto</translation>
+        <translation type="unfinished">Coperto</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="131"/>
         <source>Rain</source>
-        <translation type="obsolete">Pioggia</translation>
+        <translation type="unfinished">Pioggia</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="132"/>
         <source>Snow</source>
-        <translation type="obsolete">Neve</translation>
+        <translation type="unfinished">Neve</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="133"/>
         <source>Thunderstorms</source>
-        <translation type="obsolete">Temporale</translation>
+        <translation type="unfinished">Temporale</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="134"/>
         <source>Snow thunderstorms</source>
-        <translation type="obsolete">Mostra i Temporali</translation>
+        <translation type="unfinished">Mostra i Temporali</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="151"/>
         <source>Weather</source>
-        <translation type="obsolete">Meteo</translation>
+        <translation type="unfinished">Meteo</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="164"/>
         <source>Visibility</source>
-        <translation type="obsolete">Visibilità</translation>
+        <translation type="unfinished">Visibilità</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="167"/>
+        <source>QNH</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="173"/>
         <source>Wind from</source>
-        <translation type="obsolete">Vento da</translation>
+        <translation type="unfinished">Vento da</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="178"/>
+        <source>0m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="181"/>
+        <source>2000m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="184"/>
+        <source>8000m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="193"/>
+        <source>Waiting for mission datas...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
