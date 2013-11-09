@@ -314,7 +314,7 @@
 <context>
     <name>PageProperties</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="50"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="67"/>
         <source>Properties</source>
         <translation>Proprietà</translation>
     </message>
@@ -323,24 +323,29 @@
         <translation type="obsolete">Nome:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="43"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="57"/>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="58"/>
         <source>Id: %1</source>
         <comment>Id of the unit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="65"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="82"/>
         <source>Name:</source>
         <comment>Name of the unit</comment>
         <translation type="unfinished">Nome:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="81"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="98"/>
         <source>Apply</source>
         <translation>Applica</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="93"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="110"/>
         <source>Symbol:</source>
         <translation>Simbolo:</translation>
     </message>
@@ -392,42 +397,42 @@
         <translation type="unfinished">Mostra i Temporali</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="151"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="152"/>
         <source>Weather</source>
         <translation type="unfinished">Meteo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="164"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="165"/>
         <source>Visibility</source>
         <translation type="unfinished">Visibilità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="167"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="168"/>
         <source>QNH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="173"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="174"/>
         <source>Wind from</source>
         <translation type="unfinished">Vento da</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="178"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="179"/>
         <source>0m</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="181"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="182"/>
         <source>2000m</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="184"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="185"/>
         <source>8000m</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="193"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="194"/>
         <source>Waiting for mission datas...</source>
         <translation type="unfinished"></translation>
     </message>
