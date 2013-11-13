@@ -7,7 +7,7 @@
         <location filename="../lotatc/client/block/BlockType.cpp" line="19"/>
         <source>UNK</source>
         <comment>Short version of unknow</comment>
-        <translatorcomment>Versão reduzida de desconhecido</translatorcomment>
+        <translatorcomment>Versão reduzida de Desconhecido</translatorcomment>
         <translation>DESC</translation>
     </message>
 </context>
@@ -260,7 +260,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="265"/>
         <source>Define speed vector mode (put at 0s for zoom independent)</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir modo vector velocidade (colocar a 0´s para zoom independente)</translation>
     </message>
     <message>
         <source>Define speed vector mode (put at 0s for zoom independant)</source>
@@ -278,7 +278,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="285"/>
         <source>Zoom independent</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom independente</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="296"/>
@@ -318,19 +318,21 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="57"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Desconhecido</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="58"/>
         <source>Id: %1</source>
         <comment>Id of the unit</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Id da unidade</translatorcomment>
+        <translation>Id:%1</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="82"/>
         <source>Name:</source>
         <comment>Name of the unit</comment>
-        <translation type="unfinished">Nome:</translation>
+        <translatorcomment>Nome da unidade</translatorcomment>
+        <translation>Nome:</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="98"/>
@@ -348,82 +350,82 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="127"/>
         <source>Sky clear</source>
-        <translation type="unfinished">Céu limpo</translation>
+        <translation>Céu limpo</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="128"/>
         <source>Some clouds</source>
-        <translation type="unfinished">Algumas núvens</translation>
+        <translation>Algumas núvens</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="129"/>
         <source>Clouds</source>
-        <translation type="unfinished">Núvens</translation>
+        <translation>Núvens</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="130"/>
         <source>Overcast</source>
-        <translation type="unfinished">Céu Nublado</translation>
+        <translation>Céu Nublado</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="131"/>
         <source>Rain</source>
-        <translation type="unfinished">Chuva</translation>
+        <translation>Chuva</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="132"/>
         <source>Snow</source>
-        <translation type="unfinished">Neve</translation>
+        <translation>Neve</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="133"/>
         <source>Thunderstorms</source>
-        <translation type="unfinished">Tempestades</translation>
+        <translation>Tempestades</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="134"/>
         <source>Snow thunderstorms</source>
-        <translation type="unfinished">Tempestades de Neve</translation>
+        <translation>Tempestades de Neve</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="152"/>
         <source>Weather</source>
-        <translation type="unfinished">Tempo</translation>
+        <translation>Tempo</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="165"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibilidade</translation>
+        <translation>Visibilidade</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="168"/>
         <source>QNH</source>
-        <translation type="unfinished">QNH</translation>
+        <translation>QNH</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="174"/>
         <source>Wind from</source>
-        <translation type="unfinished">Vento de</translation>
+        <translation>Vento de</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="179"/>
         <source>0m</source>
-        <translation type="unfinished">0m</translation>
+        <translation>0m</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="182"/>
         <source>2000m</source>
-        <translation type="unfinished">2000m</translation>
+        <translation>2000m</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="185"/>
         <source>8000m</source>
-        <translation type="unfinished">8000m</translation>
+        <translation>8000m</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="194"/>
         <source>Waiting for mission datas...</source>
-        <translation type="unfinished">Aguardando dados da missão...</translation>
+        <translation>Aguardando dados da missão...</translation>
     </message>
 </context>
 <context>
