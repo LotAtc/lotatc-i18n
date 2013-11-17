@@ -50,7 +50,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="57"/>
         <source>blue</source>
-        <translation>Bleue</translation>
+        <translation>bleue</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="57"/>
