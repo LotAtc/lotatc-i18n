@@ -349,69 +349,85 @@
 <context>
     <name>PageWeather</name>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="127"/>
         <source>Sky clear</source>
-        <translation type="obsolete">Klarer Himmel</translation>
+        <translation type="unfinished">Klarer Himmel</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="128"/>
         <source>Some clouds</source>
-        <translation type="obsolete">Einige Wolken</translation>
+        <translation type="unfinished">Einige Wolken</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="129"/>
         <source>Clouds</source>
-        <translation type="obsolete">Wolken</translation>
+        <translation type="unfinished">Wolken</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="130"/>
         <source>Overcast</source>
-        <translation type="obsolete">Bedeckt</translation>
+        <translation type="unfinished">Bedeckt</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="131"/>
         <source>Rain</source>
-        <translation type="obsolete">Regen</translation>
+        <translation type="unfinished">Regen</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="132"/>
         <source>Snow</source>
-        <translation type="obsolete">Schnee</translation>
+        <translation type="unfinished">Schnee</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="133"/>
         <source>Thunderstorms</source>
-        <translation type="obsolete">Gewitter</translation>
+        <translation type="unfinished">Gewitter</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="134"/>
         <source>Snow thunderstorms</source>
-        <translation type="obsolete">Schneesturm</translation>
+        <translation type="unfinished">Schneesturm</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="152"/>
         <source>Weather</source>
-        <translation type="obsolete">Wetter</translation>
+        <translation type="unfinished">Wetter</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="165"/>
         <source>Visibility</source>
-        <translation type="obsolete">Sichtbarkeit</translation>
+        <translation type="unfinished">Sichtbarkeit</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="168"/>
         <source>QNH</source>
-        <translation type="obsolete">QNH</translation>
+        <translation type="unfinished">QNH</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="174"/>
         <source>Wind from</source>
-        <translation type="obsolete">Wind aus</translation>
+        <translation type="unfinished">Wind aus</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="179"/>
         <source>0m</source>
-        <translation type="obsolete">0m</translation>
+        <translation type="unfinished">0m</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="182"/>
         <source>2000m</source>
-        <translation type="obsolete">2000m</translation>
+        <translation type="unfinished">2000m</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="185"/>
         <source>8000m</source>
-        <translation type="obsolete">8000m</translation>
+        <translation type="unfinished">8000m</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="194"/>
         <source>Waiting for mission datas...</source>
         <translatorcomment>Depends on the Context</translatorcomment>
-        <translation type="obsolete">Warte auf Missionsdaten...</translation>
+        <translation type="unfinished">Warte auf Missionsdaten...</translation>
     </message>
 </context>
 <context>
@@ -463,101 +479,122 @@
 <context>
     <name>main</name>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="11"/>
         <source>(Not registered)</source>
         <translatorcomment>Depends on the Context</translatorcomment>
-        <translation type="obsolete">(Nicht registriert)</translation>
+        <translation type="unfinished">(Nicht registriert)</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="84"/>
         <source>Disconnected</source>
-        <translation type="obsolete">Verbindung getrennt</translation>
+        <translation type="unfinished">Verbindung getrennt</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="91"/>
         <source>Connection and authentification OK</source>
-        <translation type="obsolete">Verbindung und Authentifizierung sind OK</translation>
+        <translation type="unfinished">Verbindung und Authentifizierung sind OK</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="97"/>
         <source>Connection and authentification error: </source>
         <translatorcomment>Is the AND clause intended? It makes it harder to troubleshoot - is the error in the connection or the auth?</translatorcomment>
-        <translation type="obsolete">Verbindungs- und Authentifizierungsfehler:</translation>
+        <translation type="unfinished">Verbindungs- und Authentifizierungsfehler:</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="112"/>
         <source>New mission received, load datas from server</source>
         <translatorcomment>Not directly translated, but close. (New mission is being transferred from the server)</translatorcomment>
-        <translation type="obsolete">Neue Missionsdatei wird vom Server übertragen</translation>
+        <translation type="unfinished">Neue Missionsdatei wird vom Server übertragen</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="123"/>
         <source>Connection error: </source>
-        <translation type="obsolete">Verbindungsfehler:</translation>
+        <translation type="unfinished">Verbindungsfehler:</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="157"/>
         <source>Arcade</source>
         <comment>profile</comment>
-        <translation type="obsolete">Arcade</translation>
+        <translation type="unfinished">Arcade</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="158"/>
         <source>Basic</source>
         <comment>profile</comment>
-        <translation type="obsolete">Basic</translation>
+        <translation type="unfinished">Basic</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="159"/>
         <source>Realistic</source>
         <comment>profile</comment>
-        <translation type="obsolete">Realistisch</translation>
+        <translation type="unfinished">Realistisch</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="160"/>
         <source>Advanced</source>
         <comment>profile</comment>
-        <translation type="obsolete">Fortgeschritten</translation>
+        <translation type="unfinished">Fortgeschritten</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="248"/>
         <source>Not connected</source>
-        <translation type="obsolete">Nicht verbunden</translation>
+        <translation type="unfinished">Nicht verbunden</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="418"/>
         <source>Change &amp;unit</source>
         <translatorcomment>Is this unit (like: Tank) or like measurement/METRIC?
 And I&apos;m not sure about the &amp;Operator placement in the translated phrase</translatorcomment>
-        <translation type="obsolete">&amp;Einheit ändern</translation>
+        <translation type="unfinished">&amp;Einheit ändern</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="421"/>
         <source>Change unit</source>
-        <translation type="obsolete">Einheit ändern</translation>
+        <translation type="unfinished">Einheit ändern</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="425"/>
         <source>Circles on</source>
         <translatorcomment>Is this On (state) or &quot;Toggle on&quot;?</translatorcomment>
-        <translation type="obsolete">Kreise an</translation>
+        <translation type="unfinished">Kreise an</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="425"/>
         <source>Circles off</source>
-        <translation type="obsolete">Kreise aus</translation>
+        <translation type="unfinished">Kreise aus</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="428"/>
         <source>Show/Hide detection/threat circles</source>
         <translatorcomment>Not quite correct I am afraid</translatorcomment>
-        <translation type="obsolete">Waffen-/Beobachtungsringe ein-/ausblenden</translation>
+        <translation type="unfinished">Waffen-/Beobachtungsringe ein-/ausblenden</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="432"/>
         <source>Show background label</source>
         <translatorcomment>Label OF the background or a background for/behind the label?</translatorcomment>
-        <translation type="obsolete">Hintergrundlabels anzeigen</translation>
+        <translation type="unfinished">Hintergrundlabels anzeigen</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="435"/>
         <source>Show/Hide background labels</source>
-        <translation type="obsolete">Hintergrundlabels ein-/ausblenden</translation>
+        <translation type="unfinished">Hintergrundlabels ein-/ausblenden</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="440"/>
         <source>Disable fullscreen</source>
-        <translation type="obsolete">Vollbildmodus deaktivieren</translation>
+        <translation type="unfinished">Vollbildmodus deaktivieren</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="440"/>
         <source>Enable fullscreen</source>
-        <translation type="obsolete">Vollbildmodus einschalten</translation>
+        <translation type="unfinished">Vollbildmodus einschalten</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="453"/>
         <source>Show fullscreen</source>
         <translatorcomment>I&apos;m not sure about this</translatorcomment>
-        <translation type="obsolete">Vollbild anzeigen</translation>
+        <translation type="unfinished">Vollbild anzeigen</translation>
     </message>
 </context>
 </TS>
