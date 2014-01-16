@@ -13,22 +13,14 @@
 <context>
     <name>ChatManager</name>
     <message>
-        <source>All</source>
-        <translation type="vanished">全部的</translation>
-    </message>
-    <message>
-        <source>Internal</source>
-        <translation type="vanished">内部的</translation>
-    </message>
-    <message>
         <location filename="../lotatc/client/chat/ChatManager.cpp" line="16"/>
-        <source>LotAtc (all) + DCS</source>
-        <translation type="unfinished"></translation>
+        <source>All</source>
+        <translation>全部的</translation>
     </message>
     <message>
         <location filename="../lotatc/client/chat/ChatManager.cpp" line="21"/>
-        <source>LotAtc (my side)</source>
-        <translation type="unfinished"></translation>
+        <source>Internal</source>
+        <translation>内部的</translation>
     </message>
 </context>
 <context>
@@ -122,17 +114,17 @@
         <translation>新闻</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="61"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="62"/>
         <source>Help</source>
         <translation>帮助</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="88"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="89"/>
         <source>METRIC</source>
         <translation>公制</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="88"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="89"/>
         <source>IMPERIAL</source>
         <translation>英制</translation>
     </message>
@@ -140,7 +132,7 @@
 <context>
     <name>MapItem</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItem.qml" line="45"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItem.qml" line="41"/>
         <source>%1</source>
         <translatorcomment>variable, so no translation</translatorcomment>
         <translation>%1</translation>
@@ -298,13 +290,18 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="28"/>
+        <source>Show BRAA text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="42"/>
         <source>List of all BRAA in use</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="49"/>
-        <source>Unit</source>
+        <source>Source</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -326,12 +323,12 @@
 <context>
     <name>PageChat</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageChat.qml" line="64"/>
+        <location filename="../lotatc/client/resources/qml/client/PageChat.qml" line="63"/>
         <source>Text to send...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageChat.qml" line="71"/>
+        <location filename="../lotatc/client/resources/qml/client/PageChat.qml" line="70"/>
         <source>Send</source>
         <translation>发送</translation>
     </message>
@@ -344,61 +341,49 @@
         <translation type="unfinished">选项</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="114"/>
-        <source>Choose an unit</source>
-        <comment>measurment: imperial or metric</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="147"/>
         <source>Filters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="152"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="151"/>
         <source>Altitude filter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="164"/>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="205"/>
-        <source>from</source>
-        <translation type="unfinished"></translation>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="114"/>
+        <source>Choose an unit (Key: Alt+N)</source>
+        <comment>measurment: imperial or metric</comment>
+        <translation type="unfinished">选择单位（快捷键：Alt+N）</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="178"/>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="219"/>
-        <source>to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="193"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="190"/>
         <source>Speed filter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="237"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="232"/>
         <source>Map</source>
         <translation type="unfinished">地图</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="243"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="238"/>
         <source>Choose a map:</source>
         <translation type="unfinished">选择地图：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="253"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="248"/>
         <source>Brightness</source>
         <translation type="unfinished">亮度</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="273"/>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="297"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="268"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="292"/>
         <source>Default</source>
         <translation type="unfinished">默认</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="277"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="272"/>
         <source>Contrast</source>
         <translation type="unfinished">对比度</translation>
     </message>
