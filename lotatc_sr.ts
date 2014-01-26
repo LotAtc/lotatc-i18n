@@ -36,47 +36,45 @@
 <context>
     <name>ConnectDlg</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="26"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="56"/>
         <source>Address:</source>
         <translation>Adresa:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="34"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="63"/>
         <source>Port:</source>
         <translation>Port:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="41"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="72"/>
         <source>Coalition:</source>
         <translation>Koalicija:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="58"/>
         <source>blue</source>
-        <translation>Plavi</translation>
+        <translation type="vanished">Plavi</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="58"/>
         <source>red</source>
-        <translation>Crveni</translation>
+        <translation type="vanished">Crveni</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="84"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="85"/>
         <source>Password:</source>
         <translation>Lozinka:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="93"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="94"/>
         <source>Pseudo:</source>
         <translation>Pseudonijum:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="102"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="104"/>
         <source>Connect</source>
         <translation>Poveži se</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="110"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="112"/>
         <source>Cancel</source>
         <translation>Otkaži</translation>
     </message>
@@ -172,7 +170,7 @@
 <context>
     <name>OptionsDlg</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="61"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="63"/>
         <source>General</source>
         <translation>Generalno</translation>
     </message>
@@ -181,17 +179,17 @@
         <translation type="vanished">Mapa</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="62"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="64"/>
         <source>Items</source>
         <translation>Stavke</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="63"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="65"/>
         <source>Labels</source>
         <translation>Etikete</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="86"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="88"/>
         <source>Choose a language (need application restart):</source>
         <translation>Izaberite jezik (zahtijeva restartovanje aplikacije):</translation>
     </message>
@@ -221,54 +219,54 @@
         <translation type="vanished">Kontrast</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="98"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="100"/>
         <source>Choose a theme for the application (need application restart):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="117"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="119"/>
         <source>Choose a skin</source>
         <translation>Izaberite izgled</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="131"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="133"/>
         <source>Define color for friends</source>
         <translation>Definišite boju za prijateljske</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="142"/>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="171"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="144"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="173"/>
         <source>Choose color</source>
         <translation>Odaberite boju</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="146"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="148"/>
         <source>Please choose a color for friend unit</source>
         <translation>Molim izaberite boju za prijateljske jedinice</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="152"/>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="181"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="154"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="183"/>
         <source>Default color</source>
         <translation>Zadata boja</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="161"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="163"/>
         <source>Define color for enemies</source>
         <translation>Definišite boju za neprijatelja</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="175"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="177"/>
         <source>Please choose a color for enemies unit</source>
         <translation>Molim odaberite boju za neprijateljske jedinice</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="188"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="190"/>
         <source>Define size of Item</source>
         <translation>Definište veličinu stavke</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="196"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="198"/>
         <source>Define speed vector mode (put at 0s for zoom independent)</source>
         <translation>Definišite mod vektora brzine (unesite 0s za nezavisno uvećanje)</translation>
     </message>
@@ -281,27 +279,27 @@
         <translation type="obsolete">Nezavisno zumiranje</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="216"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="218"/>
         <source>%1 seconds</source>
         <translation>%1 sekundi</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="216"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="218"/>
         <source>Zoom independent</source>
         <translation>Nezavisno uvećanje</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="227"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="229"/>
         <source>Define labels for friends</source>
         <translation>Definišite etikete za prijateljske</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="229"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="231"/>
         <source>Define labels for enemies</source>
         <translation>Definišite etikete za neprijateljske</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="233"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="235"/>
         <source>Show background for label (Key: Alt+L)</source>
         <translation>Prikaži pozadinu za etikete (Taster: Alt+L)</translation>
     </message>
@@ -684,37 +682,47 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="236"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="231"/>
+        <source>Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="232"/>
+        <source>Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="243"/>
         <source>Light</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="237"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="244"/>
         <source>Dark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="349"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="356"/>
         <source>Not connected</source>
         <translation type="unfinished">Veza nije uspostavljena</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="518"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="524"/>
         <source>Change &amp;unit</source>
         <translation type="unfinished">&amp;Promijeni mjerne jedinice</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="521"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="527"/>
         <source>Change unit</source>
         <translation type="unfinished">Promijeni mjerne jedinice</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="525"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="531"/>
         <source>Show circles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="528"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="534"/>
         <source>Show detection/threat circles</source>
         <translation type="unfinished"></translation>
     </message>
@@ -731,27 +739,27 @@
         <translation type="obsolete">Prikaži/Sakrij krugove detekcije/dejstva</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="532"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="538"/>
         <source>Show background label</source>
         <translation type="unfinished">Prikaži pozadinsku etiketu</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="535"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="541"/>
         <source>Show/Hide background labels</source>
         <translation type="unfinished">Prikaži/Sakrij pozadinske etikete</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="540"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="546"/>
         <source>Disable fullscreen</source>
         <translation type="unfinished">Isključi prikaz preko cijelog ekrana</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="540"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="546"/>
         <source>Enable fullscreen</source>
         <translation type="unfinished">Uključi prikaz preko cijelog ekrana</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="554"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="560"/>
         <source>Show fullscreen</source>
         <translation type="unfinished">Prikaži preko cijelog ekrana</translation>
     </message>
