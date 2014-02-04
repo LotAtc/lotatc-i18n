@@ -11,6 +11,33 @@
     </message>
 </context>
 <context>
+    <name>Braa</name>
+    <message>
+        <location filename="../lotatc/client/Braa.cpp" line="79"/>
+        <source>H</source>
+        <comment>Hot ex: 45/23Nm/1200ft/H</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/Braa.cpp" line="80"/>
+        <source>FL</source>
+        <comment>Flanking Left ex: 45/23Nm/1200ft/FL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/Braa.cpp" line="81"/>
+        <source>C</source>
+        <comment>Cold ex: 45/23Nm/1200ft/C</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/Braa.cpp" line="82"/>
+        <source>FR</source>
+        <comment>Flanking Right ex: 45/23Nm/1200ft/FR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ChatManager</name>
     <message>
         <location filename="../lotatc/client/chat/ChatManager.cpp" line="16"/>
