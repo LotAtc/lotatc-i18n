@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="de_DE">
+<TS version="2.1" language="de_DE">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -81,17 +81,15 @@
 <context>
     <name>ChatManager</name>
     <message>
-        <location filename="../lotatc/client/chat/ChatManager.cpp" line="16"/>
         <source>All</source>
-        <translation>Alle</translation>
+        <translation type="vanished">Alle</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/chat/ChatManager.cpp" line="21"/>
         <source>My side</source>
-        <translation>Meine Seite</translation>
+        <translation type="vanished">Meine Seite</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/chat/ChatManager.cpp" line="26"/>
+        <location filename="../lotatc/client/chat/ChatManager.cpp" line="22"/>
         <source>LotAtc only</source>
         <translation>Nur LotATC</translation>
     </message>
@@ -236,10 +234,9 @@
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/NewsDlg.qml" line="58"/>
         <source>See on LotAtc website: </source>
         <translatorcomment>Depends on the Context</translatorcomment>
-        <translation>Auf der LotAtc-Website:</translation>
+        <translation type="vanished">Auf der LotAtc-Website:</translation>
     </message>
 </context>
 <context>
@@ -417,7 +414,7 @@
 <context>
     <name>PageChat</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageChat.qml" line="48"/>
+        <location filename="../lotatc/client/resources/qml/client/PageChat.qml" line="62"/>
         <source>Text to send...</source>
         <translation>Zu sendender Text...</translation>
     </message>
@@ -684,175 +681,175 @@
         <translation>(Nicht registriert)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="85"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="86"/>
         <source>Disconnected</source>
         <translation>Verbindung getrennt</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="92"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="93"/>
         <source>Connection and authentification OK</source>
         <translation>Verbindung und Authentifizierung sind OK</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="98"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="99"/>
         <source>Connection and authentification error: </source>
         <translatorcomment>Is the AND clause intended? It makes it harder to troubleshoot - is the error in the connection or the auth?</translatorcomment>
         <translation>Verbindungs- und Authentifizierungsfehler:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="113"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="114"/>
         <source>New mission received, load datas from server</source>
         <translatorcomment>Not directly translated, but close. (New mission is being transferred from the server)</translatorcomment>
         <translation>Neue Missionsdatei wird vom Server übertragen</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="125"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="126"/>
         <source>Connection error: </source>
         <translation>Verbindungsfehler:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="194"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="195"/>
         <source>Arcade</source>
         <comment>profile</comment>
         <translation>Arcade</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="195"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="196"/>
         <source>Basic</source>
         <comment>profile</comment>
         <translation>Basic</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="196"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="197"/>
         <source>Realistic</source>
         <comment>profile</comment>
         <translation>Realistisch</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="197"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="198"/>
         <source>Advanced</source>
         <comment>profile</comment>
         <translation>Fortgeschritten</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="219"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="224"/>
         <source>Off</source>
         <translation>Aus</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="220"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="225"/>
         <source>On</source>
         <translation>Ein</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="226"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="231"/>
         <source>Hide</source>
         <translation>Verstecken</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="227"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="232"/>
         <source>Show</source>
         <translation>Anzeigen</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="233"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="238"/>
         <source>Blue</source>
         <translation>Blau</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="234"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="239"/>
         <source>Red</source>
         <translation>Rot</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="245"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="250"/>
         <source>Light</source>
         <translation>Hell</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="246"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="251"/>
         <source>Dark</source>
         <translation>Dunkel</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="253"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="258"/>
         <source>English</source>
         <translation>Englisch</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="254"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="259"/>
         <source>French</source>
         <translation>Französisch</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="255"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="260"/>
         <source>Deutsch</source>
         <translation>Deutsch</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="256"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="261"/>
         <source>Italian</source>
         <translation>Italienisch</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="257"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="262"/>
         <source>Polish</source>
         <translation>Polnisch</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="258"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="263"/>
         <source>Czech</source>
         <translation>Tschechisch</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="259"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="264"/>
         <source>Portuguese</source>
         <translation>Portugiesisch</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="260"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="265"/>
         <source>Serbian</source>
         <translation>Serbisch</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="261"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="266"/>
         <source>Spanish</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="262"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="267"/>
         <source>Chinese</source>
         <translation>Chinesisch</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="263"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="268"/>
         <source>Russian</source>
         <translation>Russisch</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="375"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="380"/>
         <source>Not connected</source>
         <translation>Nicht verbunden</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="558"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="563"/>
         <source>Change &amp;unit</source>
         <translatorcomment>Is this unit (like: Tank) or like measurement/METRIC?
 And I&apos;m not sure about the &amp;Operator placement in the translated phrase</translatorcomment>
         <translation>&amp;Einheit ändern</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="561"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="566"/>
         <source>Change unit</source>
         <translation>Einheit ändern</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="565"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="570"/>
         <source>Show circles</source>
         <translation>Kreise anzeigen</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="568"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="573"/>
         <source>Show detection/threat circles</source>
         <translation> Aufklärungs- und Reichweitenkreise anzeigen</translation>
     </message>
@@ -871,28 +868,28 @@ And I&apos;m not sure about the &amp;Operator placement in the translated phrase
         <translation type="obsolete">Waffen-/Beobachtungsringe ein-/ausblenden</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="572"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="577"/>
         <source>Show background label</source>
         <translatorcomment>Label OF the background or a background for/behind the label?</translatorcomment>
         <translation>Hintergrundlabels anzeigen</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="575"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="580"/>
         <source>Show/Hide background labels</source>
         <translation>Hintergrundlabels ein-/ausblenden</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="580"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="585"/>
         <source>Disable fullscreen</source>
         <translation>Vollbildmodus deaktivieren</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="580"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="585"/>
         <source>Enable fullscreen</source>
         <translation>Vollbildmodus einschalten</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="594"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="599"/>
         <source>Show fullscreen</source>
         <translatorcomment>I&apos;m not sure about this</translatorcomment>
         <translation>Vollbild anzeigen</translation>
