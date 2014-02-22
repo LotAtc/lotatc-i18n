@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt_BR">
+<TS version="2.0" language="pt_BR">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -84,11 +84,11 @@
     <name>ChatManager</name>
     <message>
         <source>All</source>
-        <translation type="vanished">Todos</translation>
+        <translation>Todos</translation>
     </message>
     <message>
         <source>My side</source>
-        <translation type="vanished">Meu lado</translation>
+        <translation>Meu lado</translation>
     </message>
     <message>
         <location filename="../lotatc/client/chat/ChatManager.cpp" line="22"/>
@@ -235,7 +235,7 @@
     </message>
     <message>
         <source>See on LotAtc website: </source>
-        <translation type="vanished">Ver no site LotAtc:</translation>
+        <translation>Ver no site LotAtc:</translation>
     </message>
 </context>
 <context>
@@ -335,7 +335,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="190"/>
         <source>Define size of Item</source>
-        <translation>Dsfina o tamanho do item</translation>
+        <translation>Defina o tamanho do item</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="198"/>

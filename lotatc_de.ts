@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de_DE">
+<TS version="2.0" language="de_DE">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -22,7 +22,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="33"/>
         <source>Special mention for Azrayen&apos; for the testing and documentation awesome work.</source>
-        <translation>Besonderen Dank an Arayen für seine Arbeit als Tester und seine Dokumentation.</translation>
+        <translation>Besonderen Dank an Azrayen für seine Arbeit als Tester und seine Dokumentation.</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="36"/>
@@ -47,7 +47,7 @@
         <source>UNK</source>
         <comment>Short version of unknow</comment>
         <translatorcomment>Does not exist in German</translatorcomment>
-        <translation>UNK</translation>
+        <translation>Unbekannt</translation>
     </message>
 </context>
 <context>
@@ -82,11 +82,11 @@
     <name>ChatManager</name>
     <message>
         <source>All</source>
-        <translation type="vanished">Alle</translation>
+        <translation>Alle</translation>
     </message>
     <message>
         <source>My side</source>
-        <translation type="vanished">Meine Seite</translation>
+        <translation>Meine Koalition</translation>
     </message>
     <message>
         <location filename="../lotatc/client/chat/ChatManager.cpp" line="22"/>
@@ -175,7 +175,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="41"/>
         <source>Disconnect</source>
-        <translation>Trennen</translation>
+        <translation>Verbindung trennen</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="47"/>
@@ -236,7 +236,7 @@
     <message>
         <source>See on LotAtc website: </source>
         <translatorcomment>Depends on the Context</translatorcomment>
-        <translation type="vanished">Auf der LotAtc-Website:</translation>
+        <translation>Auf der LotAtc-Website:</translation>
     </message>
 </context>
 <context>
@@ -263,7 +263,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="88"/>
         <source>Choose a language (need application restart):</source>
-        <translation>Sprache (Änderung erfordert Neustart der App):</translation>
+        <translation>Sprache (Änderung erfordert Neustart von LOTAtc):</translation>
     </message>
     <message>
         <source>Choose a map:</source>
@@ -289,7 +289,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="100"/>
         <source>Choose a theme for the application (need application restart):</source>
-        <translation>Theme für die Anwndung auswählen (benötigt Neustart):</translation>
+        <translation>Theme für die Anwendung auswählen (benötigt Neustart):</translation>
     </message>
     <message>
         <source>Choose a skin</source>
@@ -683,7 +683,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/main.qml" line="86"/>
         <source>Disconnected</source>
-        <translation>Verbindung getrennt</translation>
+        <translation>Nicht Verbunden</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/main.qml" line="93"/>
@@ -694,7 +694,7 @@
         <location filename="../lotatc/client/resources/qml/client/main.qml" line="99"/>
         <source>Connection and authentification error: </source>
         <translatorcomment>Is the AND clause intended? It makes it harder to troubleshoot - is the error in the connection or the auth?</translatorcomment>
-        <translation>Verbindungs- und Authentifizierungsfehler:</translation>
+        <translation>Verbindungs- und/oder Authentifizierungsfehler:</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/main.qml" line="114"/>
@@ -744,7 +744,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/main.qml" line="231"/>
         <source>Hide</source>
-        <translation>Verstecken</translation>
+        <translation>Ausblenden</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/main.qml" line="232"/>
@@ -814,7 +814,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/main.qml" line="266"/>
         <source>Spanish</source>
-        <translation></translation>
+        <translation>Spanisch</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/main.qml" line="267"/>
@@ -841,7 +841,7 @@ And I&apos;m not sure about the &amp;Operator placement in the translated phrase
     <message>
         <location filename="../lotatc/client/resources/qml/client/main.qml" line="566"/>
         <source>Change unit</source>
-        <translation>Einheit ändern</translation>
+        <translation>Einheit wechseln</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/main.qml" line="570"/>
