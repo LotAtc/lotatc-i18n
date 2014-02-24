@@ -479,7 +479,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="182"/>
         <source>Speed filter</source>
-        <translation>Filter de vitesse</translation>
+        <translation type="unfinished">Filtre de vitesse</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="226"/>
