@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv_SE">
+<TS version="2.0" language="sv_SE">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -336,7 +336,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="274"/>
         <source>Size of font label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Teckenstorlek etikett:</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="291"/>
@@ -434,16 +434,16 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="103"/>
         <source>Delete selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort vald</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="120"/>
         <source>Delete all</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort alla</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Ta bort</translation>
+        <translation>Ta bort</translation>
     </message>
 </context>
 <context>
@@ -473,11 +473,11 @@
     </message>
     <message>
         <source>from</source>
-        <translation type="vanished">från</translation>
+        <translation>från</translation>
     </message>
     <message>
         <source>to</source>
-        <translation type="vanished">till</translation>
+        <translation>till</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="106"/>
