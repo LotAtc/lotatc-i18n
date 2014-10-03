@@ -381,6 +381,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="299"/>
         <source>Unit Name (or TN)</source>
+        <translatorcomment>Identifikaciona oznaka neprijateljskog kontakta</translatorcomment>
         <translation>Ime jedinice (ili TN)</translation>
     </message>
     <message>
