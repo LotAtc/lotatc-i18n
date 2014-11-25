@@ -42,47 +42,47 @@
 <context>
     <name>AirportInfo</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="24"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="26"/>
         <source>Id</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="25"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="27"/>
         <source>Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="26"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="28"/>
         <source>Length</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="27"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="29"/>
         <source>Frequencies</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="72"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="76"/>
         <source>ILS available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="72"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="76"/>
         <source>No ILS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="74"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="78"/>
         <source>Current controllers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="77"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="81"/>
         <source>Take approach</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="99"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="103"/>
         <source>No control available</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1228,23 +1228,28 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="80"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="72"/>
+        <source>Select a contact to see its properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="86"/>
         <source>Name:</source>
         <comment>Name of the unit</comment>
         <translation>名称：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="96"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="102"/>
         <source>Apply</source>
         <translation>确定</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="108"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="114"/>
         <source>Symbol:</source>
         <translation>符号：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="135"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="141"/>
         <source>Show on map</source>
         <translation type="unfinished"></translation>
     </message>
