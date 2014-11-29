@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pl_PL">
+<TS version="2.1" language="pl_PL">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -272,39 +272,45 @@
 <context>
     <name>MainMenu</name>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="57"/>
         <source>Connect</source>
-        <translation type="obsolete">Połącz</translation>
+        <translation type="unfinished">Połącz</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="62"/>
         <source>Disconnect</source>
-        <translation type="obsolete">Odłącz</translation>
+        <translation type="unfinished">Odłącz</translation>
     </message>
     <message>
         <source>Options</source>
         <translation type="obsolete">Opcje</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="75"/>
         <source>News</source>
-        <translation type="obsolete">Aktualności</translation>
+        <translation type="unfinished">Aktualności</translation>
     </message>
     <message>
         <source>Help</source>
         <translation type="obsolete">Pomoc</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="99"/>
         <source>METRIC</source>
-        <translation type="obsolete">METRYCZNY</translation>
+        <translation type="unfinished">METRYCZNY</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="99"/>
         <source>IMPERIAL</source>
-        <translation type="obsolete">ANGLOSASKI</translation>
+        <translation type="unfinished">ANGLOSASKI</translation>
     </message>
 </context>
 <context>
     <name>MapItem</name>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/MapItem.qml" line="57"/>
         <source>%1</source>
-        <translation type="obsolete">%1</translation>
+        <translation type="unfinished">%1</translation>
     </message>
 </context>
 <context>
@@ -1046,17 +1052,23 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="124"/>
-        <source>Delete</source>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="103"/>
+        <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="239"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="107"/>
+        <source>Distance(%1)</source>
+        <comment>%1 will be replaced by unit: km</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="234"/>
         <source>Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="168"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="163"/>
         <source>Vertical</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1229,52 +1241,90 @@
         <translation type="obsolete">brak zachmurzenia</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="143"/>
         <source>Sky clear</source>
-        <translation type="obsolete">brak zachmurzenia</translation>
+        <translation type="unfinished">brak zachmurzenia</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="144"/>
         <source>Some clouds</source>
-        <translation type="obsolete">lekkie zachmurzenie</translation>
+        <translation type="unfinished">lekkie zachmurzenie</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="145"/>
         <source>Clouds</source>
-        <translation type="obsolete">średnie zachmurzenie</translation>
+        <translation type="unfinished">średnie zachmurzenie</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="146"/>
         <source>Overcast</source>
-        <translation type="obsolete">pełne zachmurzenie</translation>
+        <translation type="unfinished">pełne zachmurzenie</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="147"/>
         <source>Rain</source>
-        <translation type="obsolete">Deszcz</translation>
+        <translation type="unfinished">Deszcz</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="148"/>
         <source>Snow</source>
-        <translation type="obsolete">Śnieg</translation>
+        <translation type="unfinished">Śnieg</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="149"/>
         <source>Thunderstorms</source>
-        <translation type="obsolete">Burze</translation>
+        <translation type="unfinished">Burze</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="150"/>
         <source>Snow thunderstorms</source>
-        <translation type="obsolete">Burze śnieżne</translation>
+        <translation type="unfinished">Burze śnieżne</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="194"/>
+        <source>Distance in %1</source>
+        <comment>%1 is unit</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="195"/>
+        <source>Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="196"/>
+        <source>Speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="203"/>
+        <source>Description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="212"/>
+        <source>Tasks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="11"/>
         <source>Weather</source>
-        <translation type="obsolete">Pogoda</translation>
+        <translation type="unfinished">Pogoda</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="178"/>
         <source>Visibility</source>
-        <translation type="obsolete">Widzialność</translation>
+        <translation type="unfinished">Widzialność</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="181"/>
         <source>QNH</source>
-        <translation type="obsolete">QNH</translation>
+        <translation type="unfinished">QNH</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="188"/>
         <source>Wind from</source>
-        <translation type="obsolete">Wiatr z </translation>
+        <translation type="unfinished">Wiatr z </translation>
     </message>
     <message>
         <source>0m</source>
@@ -1289,8 +1339,9 @@
         <translation type="obsolete">8000m</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="225"/>
         <source>Waiting for mission datas...</source>
-        <translation type="obsolete">Oczekiwanie na dane misji...</translation>
+        <translation type="unfinished">Oczekiwanie na dane misji...</translation>
     </message>
 </context>
 <context>
@@ -1546,43 +1597,79 @@
 <context>
     <name>main</name>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="12"/>
         <source>(Not registered)</source>
-        <translation type="obsolete">(Wersja niezarejestrowana)</translation>
+        <translation type="unfinished">(Wersja niezarejestrowana)</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="120"/>
         <source>Disconnected</source>
-        <translation type="obsolete">Rozłączony</translation>
+        <translation type="unfinished">Rozłączony</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="127"/>
         <source>Connection and authentification OK</source>
-        <translation type="obsolete">Połączenie i uwierzytelnienie OK</translation>
+        <translation type="unfinished">Połączenie i uwierzytelnienie OK</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="133"/>
         <source>Connection and authentification error: </source>
-        <translation type="obsolete">Błąd połączenia i uwierzytelnienia:</translation>
+        <translation type="unfinished">Błąd połączenia i uwierzytelnienia:</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="155"/>
         <source>New mission received, load datas from server</source>
-        <translation type="obsolete">Odebrano nową misję, trwa ładowanie danych z serwera</translation>
+        <translation type="unfinished">Odebrano nową misję, trwa ładowanie danych z serwera</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="168"/>
         <source>Connection error: </source>
-        <translation type="obsolete">Błąd połączenia:</translation>
+        <translation type="unfinished">Błąd połączenia:</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="310"/>
         <source>Arcade</source>
         <comment>profile</comment>
-        <translation type="obsolete">Zręcznościowy</translation>
+        <translation type="unfinished">Zręcznościowy</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="311"/>
         <source>Basic</source>
         <comment>profile</comment>
-        <translation type="obsolete">Podstawowy</translation>
+        <translation type="unfinished">Podstawowy</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="312"/>
         <source>Realistic</source>
         <comment>profile</comment>
-        <translation type="obsolete">Realistyczny</translation>
+        <translation type="unfinished">Realistyczny</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="313"/>
+        <source>Custom</source>
+        <comment>profile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="314"/>
+        <source>Mission</source>
+        <comment>profile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="501"/>
+        <source>SITAC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="704"/>
+        <source>Show circles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="707"/>
+        <source>Show detection/threat circles</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -1590,18 +1677,26 @@
         <translation type="obsolete">Zaawansowany</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="568"/>
         <source>Not connected</source>
-        <translation type="obsolete">Niepołączony</translation>
+        <translation type="unfinished">Niepołączony</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="568"/>
+        <source>Connecting...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="697"/>
         <source>Change &amp;unit</source>
         <translatorcomment>if this &quot;unit&quot; means measurement unit translation is ok.</translatorcomment>
-        <translation type="obsolete">Zmień &amp;system miar</translation>
+        <translation type="unfinished">Zmień &amp;system miar</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="700"/>
         <source>Change unit</source>
         <translatorcomment>if this &quot;unit&quot; means measurement unit translation is ok.</translatorcomment>
-        <translation type="obsolete">Zmień system miar</translation>
+        <translation type="unfinished">Zmień system miar</translation>
     </message>
     <message>
         <source>Circles on</source>
@@ -1616,12 +1711,14 @@
         <translation type="obsolete">Pokaż/ukryj okręgi wykrycia/zagrożenia</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="711"/>
         <source>Show background label</source>
-        <translation type="obsolete">Pokaż tło etykiet</translation>
+        <translation type="unfinished">Pokaż tło etykiet</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="714"/>
         <source>Show/Hide background labels</source>
-        <translation type="obsolete">Pokaż/ukryj tło etykiet</translation>
+        <translation type="unfinished">Pokaż/ukryj tło etykiet</translation>
     </message>
     <message>
         <source>Disable fullscreen</source>
@@ -1632,8 +1729,156 @@
         <translation type="obsolete">Włącz tryb pełnoekranowy</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="733"/>
         <source>Show fullscreen</source>
-        <translation type="obsolete">Pokaż w trybie pełnoekranowym</translation>
+        <translation type="unfinished">Pokaż w trybie pełnoekranowym</translation>
+    </message>
+</context>
+<context>
+    <name>main_android</name>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="86"/>
+        <source>Disconnected</source>
+        <translation type="unfinished">Rozłączony</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="93"/>
+        <source>Connection and authentification OK</source>
+        <translation type="unfinished">Połączenie i uwierzytelnienie OK</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="99"/>
+        <source>Connection and authentification error: </source>
+        <translation type="unfinished">Błąd połączenia i uwierzytelnienia:</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="121"/>
+        <source>New mission received, load datas from server</source>
+        <translation type="unfinished">Odebrano nową misję, trwa ładowanie danych z serwera</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="137"/>
+        <source>Connection error: </source>
+        <translation type="unfinished">Błąd połączenia:</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="213"/>
+        <source>Arcade</source>
+        <comment>profile</comment>
+        <translation type="unfinished">Zręcznościowy</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="214"/>
+        <source>Basic</source>
+        <comment>profile</comment>
+        <translation type="unfinished">Podstawowy</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="215"/>
+        <source>Realistic</source>
+        <comment>profile</comment>
+        <translation type="unfinished">Realistyczny</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="216"/>
+        <source>Custom</source>
+        <comment>profile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="311"/>
+        <source>Chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="316"/>
+        <source>Properties</source>
+        <translation type="unfinished">Właściwości</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="321"/>
+        <source>Weather</source>
+        <translation type="unfinished">Pogoda</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="326"/>
+        <source>BRAA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="331"/>
+        <source>Map</source>
+        <translation type="unfinished">Mapa</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="336"/>
+        <source>Glide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="341"/>
+        <source>Draw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="348"/>
+        <source>Airport</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="361"/>
+        <source>SITAC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="408"/>
+        <source>Not connected</source>
+        <translation type="unfinished">Niepołączony</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="578"/>
+        <source>Change &amp;unit</source>
+        <translation type="unfinished">Zmień &amp;system miar</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="581"/>
+        <source>Change unit</source>
+        <translation type="unfinished">Zmień system miar</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="585"/>
+        <source>Show circles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="588"/>
+        <source>Show detection/threat circles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="592"/>
+        <source>Show background label</source>
+        <translation type="unfinished">Pokaż tło etykiet</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="595"/>
+        <source>Show/Hide background labels</source>
+        <translation type="unfinished">Pokaż/ukryj tło etykiet</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="600"/>
+        <source>Disable fullscreen</source>
+        <translation type="unfinished">Wyłącz tryb pełnoekranowy</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="600"/>
+        <source>Enable fullscreen</source>
+        <translation type="unfinished">Włącz tryb pełnoekranowy</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="614"/>
+        <source>Show fullscreen</source>
+        <translation type="unfinished">Pokaż w trybie pełnoekranowym</translation>
     </message>
 </context>
 </TS>
