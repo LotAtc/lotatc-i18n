@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_CN">
+<TS version="2.0" language="zh_CN">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -64,21 +64,21 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="32"/>
         <source>TACAN</source>
-        <translation type="unfinished"></translation>
+        <translation>TACAN</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="82"/>
         <source>ILS available on %1MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>ILS频率：%1MHz</translation>
     </message>
     <message>
         <source>ILS available</source>
-        <translation type="vanished">提供ILS</translation>
+        <translation>配备ILS</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="84"/>
         <source>No ILS</source>
-        <translation>不提供ILS</translation>
+        <translation>无ILS</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="87"/>
@@ -541,19 +541,19 @@
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="126"/>
         <source>AM</source>
         <comment>AM frequency band for radio</comment>
-        <translation type="unfinished"></translation>
+        <translation>AM</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="127"/>
         <source>UHF</source>
         <comment>UHF frequency band for radio</comment>
-        <translation type="unfinished"></translation>
+        <translation>UHF</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="128"/>
         <source>FM</source>
         <comment>FM frequency band for radio</comment>
-        <translation type="unfinished"></translation>
+        <translation>FM</translation>
     </message>
 </context>
 <context>
@@ -591,7 +591,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsApproach.qml" line="15"/>
         <source>Number of contact updates to display on glide</source>
-        <translation type="unfinished">显示下滑道上接触单位的更新数量</translation>
+        <translation>显示（下滑道上）接触单位的更新数量</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsApproach.qml" line="34"/>
@@ -974,7 +974,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageChat.qml" line="39"/>
         <source>Current channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>当前频道：</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageChat.qml" line="80"/>
@@ -1042,7 +1042,7 @@
         <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="93"/>
         <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="109"/>
         <source>Please choose a file</source>
-        <translation type="unfinished"></translation>
+        <translation>请选择文件</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="172"/>
@@ -1082,12 +1082,12 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="235"/>
         <source>Save to file...</source>
-        <translation type="unfinished"></translation>
+        <translation>保存到文件...</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="239"/>
         <source>Load from file...</source>
-        <translation type="unfinished"></translation>
+        <translation>读取文件...</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="247"/>
@@ -1162,7 +1162,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="103"/>
         <source>Show</source>
-        <translation type="unfinished">显示</translation>
+        <translation>显示</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="149"/>
@@ -1178,12 +1178,12 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="214"/>
         <source>Glide slope</source>
-        <translation type="unfinished"></translation>
+        <translation>着陆下滑道</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="306"/>
         <source>Localizer</source>
-        <translation type="unfinished"></translation>
+        <translation>着陆定位</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1191,11 +1191,11 @@
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="vanished">水平</translation>
+        <translation>俯视</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="vanished">垂直</translation>
+        <translation>侧视</translation>
     </message>
 </context>
 <context>
@@ -1610,19 +1610,19 @@
         <location filename="../lotatc/client/radio/RadioManager.cpp" line="11"/>
         <source>Radio 1</source>
         <comment>Name of the radio 1</comment>
-        <translation type="unfinished"></translation>
+        <translation>无线电1</translation>
     </message>
     <message>
         <location filename="../lotatc/client/radio/RadioManager.cpp" line="20"/>
         <source>Radio 2</source>
         <comment>Name of the radio 2</comment>
-        <translation type="unfinished"></translation>
+        <translation>无线电2</translation>
     </message>
     <message>
         <location filename="../lotatc/client/radio/RadioManager.cpp" line="29"/>
         <source>Radio 3</source>
         <comment>Name of the radio 3</comment>
-        <translation type="unfinished"></translation>
+        <translation>无线电3</translation>
     </message>
 </context>
 <context>
@@ -1810,7 +1810,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/main.qml" line="502"/>
         <source>Tactical View</source>
-        <translation type="unfinished"></translation>
+        <translation>战术视角</translation>
     </message>
     <message>
         <source>SITAC</source>
@@ -2058,7 +2058,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="361"/>
         <source>SITAC</source>
-        <translation type="unfinished">SITAC</translation>
+        <translation type="unfinished">战术视角</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="408"/>
