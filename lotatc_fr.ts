@@ -51,7 +51,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="27"/>
         <source>Id</source>
-        <translation type="unfinished"></translation>
+        <translation>Id</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="28"/>
