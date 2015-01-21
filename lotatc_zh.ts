@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="zh_CN">
+<TS version="2.1" language="zh_CN">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>ILS available</source>
-        <translation>配备ILS</translation>
+        <translation type="vanished">配备ILS</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportInfo.qml" line="84"/>
@@ -887,11 +887,11 @@
     <name>OptionsGeneral</name>
     <message>
         <source>Choose a language (need application restart):</source>
-        <translation>选择语言（需要重启程序）：</translation>
+        <translation type="vanished">选择语言（需要重启程序）：</translation>
     </message>
     <message>
         <source>Choose a theme for the application (need application restart):</source>
-        <translation>选择一个主题（需要重启程序）：</translation>
+        <translation type="vanished">选择一个主题（需要重启程序）：</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="22"/>
@@ -900,7 +900,7 @@
     </message>
     <message>
         <source>Choose a theme for the applicationy:</source>
-        <translation>选择一个主题：</translation>
+        <translation type="vanished">选择一个主题：</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="30"/>
@@ -945,7 +945,7 @@
     </message>
     <message>
         <source>Restore default dock and windows positions (need application restart)</source>
-        <translation>恢复默认驻留窗口和位置（需要重启程序）</translation>
+        <translation type="vanished">恢复默认驻留窗口和位置（需要重启程序）</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="78"/>
@@ -1395,11 +1395,11 @@
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>俯视</translation>
+        <translation type="vanished">俯视</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>侧视</translation>
+        <translation type="vanished">侧视</translation>
     </message>
 </context>
 <context>
@@ -1668,7 +1668,7 @@
     </message>
     <message>
         <source>Speed</source>
-        <translation>速度</translation>
+        <translation type="vanished">速度</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="204"/>
