@@ -1605,12 +1605,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="254"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="255"/>
         <source>Tasks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="267"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="269"/>
         <source>Waiting for mission datas...</source>
         <translation type="unfinished"></translation>
     </message>

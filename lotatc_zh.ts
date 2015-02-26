@@ -1819,7 +1819,7 @@
         <translation>描述</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="254"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="255"/>
         <source>Tasks</source>
         <translation>任务</translation>
     </message>
@@ -1876,7 +1876,7 @@
         <translation type="obsolete">8000米</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="267"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="269"/>
         <source>Waiting for mission datas...</source>
         <translation>等待任务数据...</translation>
     </message>
