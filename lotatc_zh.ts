@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_CN">
+<TS version="2.0" language="zh_CN">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -43,47 +43,47 @@
     <name>AirportInfo</name>
     <message>
         <source>Id</source>
-        <translation type="vanished">机场编号</translation>
+        <translation>机场编号</translation>
     </message>
     <message>
         <source>Code</source>
-        <translation type="vanished">代码</translation>
+        <translation>代码</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="vanished">跑道长度</translation>
+        <translation>跑道长度</translation>
     </message>
     <message>
         <source>Frequencies</source>
-        <translation type="vanished">塔台频率</translation>
+        <translation>塔台频率</translation>
     </message>
     <message>
         <source>TACAN</source>
-        <translation type="vanished">TACAN</translation>
+        <translation>TACAN</translation>
     </message>
     <message>
         <source>ILS available on %1MHz</source>
-        <translation type="vanished">ILS频率：%1MHz</translation>
+        <translation>ILS频率：%1MHz</translation>
     </message>
     <message>
         <source>ILS available</source>
-        <translation type="vanished">配备ILS</translation>
+        <translation>配备ILS</translation>
     </message>
     <message>
         <source>No ILS</source>
-        <translation type="vanished">无ILS</translation>
+        <translation>无ILS</translation>
     </message>
     <message>
         <source>Current controllers</source>
-        <translation type="vanished">当前空管</translation>
+        <translation>当前空管</translation>
     </message>
     <message>
         <source>Take approach</source>
-        <translation type="vanished">进近</translation>
+        <translation>进近</translation>
     </message>
     <message>
         <source>No control available</source>
-        <translation type="vanished">空管暂缺</translation>
+        <translation>空管暂缺</translation>
     </message>
 </context>
 <context>
@@ -91,57 +91,57 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="32"/>
         <source>Id</source>
-        <translation type="unfinished">机场编号</translation>
+        <translation>机场编号</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="33"/>
         <source>Code</source>
-        <translation type="unfinished">代码</translation>
+        <translation>代码</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="34"/>
         <source>Length</source>
-        <translation type="unfinished">跑道长度</translation>
+        <translation>跑道长度</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="35"/>
         <source>Heading</source>
-        <translation type="unfinished">航向</translation>
+        <translation>航向</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="36"/>
         <source>Frequencies</source>
-        <translation type="unfinished">塔台频率</translation>
+        <translation>塔台频率</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="38"/>
         <source>TACAN</source>
-        <translation type="unfinished">TACAN</translation>
+        <translation>TACAN</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="92"/>
         <source>Take approach</source>
-        <translation type="unfinished">进近</translation>
+        <translation>进近</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="115"/>
         <source>No control available</source>
-        <translation type="unfinished">空管暂缺</translation>
+        <translation>空管暂缺</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="124"/>
         <source>ILS available on %1MHz</source>
-        <translation type="unfinished">ILS频率：%1MHz</translation>
+        <translation>ILS频率：%1MHz</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="126"/>
         <source>No ILS</source>
-        <translation type="unfinished">无ILS</translation>
+        <translation>无ILS</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="129"/>
         <source>Current controllers</source>
-        <translation type="unfinished">当前空管</translation>
+        <translation>当前空管</translation>
     </message>
 </context>
 <context>
@@ -326,7 +326,7 @@
     <name>HelpDlg</name>
     <message>
         <source>Bookmarks</source>
-        <translation type="vanished">书签</translation>
+        <translation>书签</translation>
     </message>
 </context>
 <context>
@@ -363,17 +363,17 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="130"/>
         <source>Change bearing mode</source>
-        <translation type="unfinished"></translation>
+        <translation>改变方位模式</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="137"/>
         <source>Change units</source>
-        <translation type="unfinished"></translation>
+        <translation>改变单位</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="174"/>
         <source>Mission time, show/hide seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>任务时间，显示/隐藏 精度秒</translation>
     </message>
     <message>
         <source>Options</source>
@@ -417,96 +417,96 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="78"/>
         <source>Unknown</source>
-        <translation type="unfinished">未知的</translation>
+        <translation>未知的</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="79"/>
         <source>TN: %1</source>
         <comment>Track Number of the unit</comment>
-        <translation type="unfinished">追踪编号：%1</translation>
+        <translation>追踪编号：%1</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="93"/>
         <source>Group name</source>
-        <translation type="unfinished">组名</translation>
+        <translation>组名</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="94"/>
         <source>Altitude</source>
-        <translation type="unfinished">高度</translation>
+        <translation>高度</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="95"/>
         <source>Heading</source>
-        <translation type="unfinished">航向</translation>
+        <translation>航向</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="96"/>
         <source>Ground Speed</source>
-        <translation type="unfinished">地速</translation>
+        <translation>地速</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="98"/>
         <source>Vertical Indicator</source>
-        <translation type="unfinished">垂直速度计</translation>
+        <translation>垂直速度计</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="99"/>
         <source>Position</source>
-        <translation type="unfinished">位置</translation>
+        <translation>位置</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="100"/>
         <source>BullsEye</source>
-        <translation type="unfinished">BullsEye</translation>
+        <translation>BullsEye</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="104"/>
         <source>Detection range</source>
-        <translation type="unfinished">探测距离</translation>
+        <translation>探测距离</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="106"/>
         <source>Threat range</source>
-        <translation type="unfinished">威胁范围</translation>
+        <translation>威胁范围</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="139"/>
         <source>Name:</source>
         <comment>Name of the unit</comment>
-        <translation type="unfinished">名称：</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="154"/>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="204"/>
         <source>Apply</source>
-        <translation type="unfinished">确定</translation>
+        <translation>确定</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="161"/>
         <source>Symbol:</source>
-        <translation type="unfinished">符号：</translation>
+        <translation>符号：</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="189"/>
         <source>Comment:</source>
         <comment>Comment on the unit</comment>
-        <translation type="unfinished"></translation>
+        <translation>注释：</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="231"/>
         <source>Message:</source>
-        <translation type="unfinished">消息：</translation>
+        <translation>消息：</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="244"/>
         <source>Text to send...</source>
-        <translation type="unfinished">发送文字...</translation>
+        <translation>发送文字...</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="251"/>
         <source>Show on map</source>
-        <translation type="unfinished">在地图上显示</translation>
+        <translation>在地图上显示</translation>
     </message>
 </context>
 <context>
@@ -514,7 +514,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/common/MyDockDialog.qml" line="58"/>
         <source>Waiting connection...</source>
-        <translation type="unfinished"></translation>
+        <translation>等待连接...</translation>
     </message>
 </context>
 <context>
@@ -692,12 +692,12 @@
     </message>
     <message>
         <source>Use %(heading|mag) for magnetic deviation correction</source>
-        <translation type="vanished">%(heading|mag) 用于磁偏差修正</translation>
+        <translation>%(heading|mag) 用于磁偏差修正</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="147"/>
         <source>Use %(heading|option) with option=true/mag/truemag for true/magnetic deviation correction (default is auto)</source>
-        <translation type="unfinished"></translation>
+        <translation>%(heading|option) 用于 真/磁 偏差修正（默认是自动）（option可选参数true/mag/truemag）</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="151"/>
@@ -916,42 +916,42 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="359"/>
         <source>Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>飞机</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="360"/>
         <source>Helicopter</source>
-        <translation type="unfinished"></translation>
+        <translation>直升机</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="361"/>
         <source>Ground moving</source>
-        <translation type="unfinished"></translation>
+        <translation>地面移动单位</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="362"/>
         <source>Ground standing</source>
-        <translation type="unfinished"></translation>
+        <translation>地面静止单位</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="363"/>
         <source>Ship</source>
-        <translation type="unfinished"></translation>
+        <translation>船舶</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="364"/>
         <source>Sam</source>
-        <translation type="unfinished"></translation>
+        <translation>防空导弹</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="365"/>
         <source>Tank</source>
-        <translation type="unfinished"></translation>
+        <translation>坦克</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="366"/>
         <source>Airport</source>
-        <translation type="unfinished">机场</translation>
+        <translation>机场</translation>
     </message>
 </context>
 <context>
@@ -1179,11 +1179,11 @@
     <name>OptionsGeneral</name>
     <message>
         <source>Choose a language (need application restart):</source>
-        <translation type="vanished">选择语言（需要重启程序）：</translation>
+        <translation>选择语言（需要重启程序）：</translation>
     </message>
     <message>
         <source>Choose a theme for the application (need application restart):</source>
-        <translation type="vanished">选择一个主题（需要重启程序）：</translation>
+        <translation>选择一个主题（需要重启程序）：</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="22"/>
@@ -1192,7 +1192,7 @@
     </message>
     <message>
         <source>Choose a theme for the applicationy:</source>
-        <translation type="vanished">选择一个主题：</translation>
+        <translation>选择一个主题：</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="30"/>
@@ -1237,7 +1237,7 @@
     </message>
     <message>
         <source>Restore default dock and windows positions (need application restart)</source>
-        <translation type="vanished">恢复默认驻留窗口和位置（需要重启程序）</translation>
+        <translation>恢复默认驻留窗口和位置（需要重启程序）</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="79"/>
@@ -1440,7 +1440,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="237"/>
         <source>Send to pilot with unit</source>
-        <translation type="unfinished"></translation>
+        <translation>发送给单个飞行员</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="12"/>
@@ -1482,7 +1482,7 @@
     </message>
     <message>
         <source>Current channel:</source>
-        <translation type="vanished">当前频道：</translation>
+        <translation>当前频道：</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageChat.qml" line="59"/>
@@ -1695,17 +1695,17 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="209"/>
         <source>Show circles on map</source>
-        <translation type="unfinished"></translation>
+        <translation>在地图上显示圆环</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="219"/>
         <source>Steady level:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">稳定高度：</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="237"/>
         <source>Minima:</source>
-        <translation type="unfinished"></translation>
+        <translation>最小：</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="281"/>
@@ -1726,20 +1726,20 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="393"/>
         <source>Glide</source>
-        <translation type="unfinished">下滑道</translation>
+        <translation>下滑道</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="568"/>
         <source>Azimuth</source>
-        <translation type="unfinished"></translation>
+        <translation>方位角</translation>
     </message>
     <message>
         <source>Glide slope</source>
-        <translation type="vanished">着陆下滑道</translation>
+        <translation>着陆下滑道</translation>
     </message>
     <message>
         <source>Localizer</source>
-        <translation type="vanished">着陆定位</translation>
+        <translation>着陆定位</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1747,11 +1747,11 @@
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="vanished">俯视</translation>
+        <translation>俯视</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="vanished">侧视</translation>
+        <translation>侧视</translation>
     </message>
 </context>
 <context>
@@ -1861,34 +1861,34 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageObjects.qml" line="13"/>
         <source>Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>目标</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageObjects.qml" line="33"/>
         <source>Enter text to filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>向过滤器输入文字...</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageObjects.qml" line="71"/>
         <source>Coalition</source>
-        <translation type="unfinished"></translation>
+        <translation>阵营</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageObjects.qml" line="87"/>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>种类</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageObjects.qml" line="108"/>
         <source>Human</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">玩家</translation>
     </message>
 </context>
 <context>
     <name>PageProperties</name>
     <message>
         <source>Unknown</source>
-        <translation type="vanished">未知的</translation>
+        <translation>未知的</translation>
     </message>
     <message>
         <source>Id: %1</source>
@@ -1903,77 +1903,77 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="63"/>
         <source>Select an item/airport to see its properties</source>
-        <translation type="unfinished"></translation>
+        <translation>查看所选 对象/机场 属性</translation>
     </message>
     <message>
         <source>TN: %1</source>
         <comment>Track Number of the unit</comment>
-        <translation type="vanished">追踪编号：%1</translation>
+        <translation>追踪编号：%1</translation>
     </message>
     <message>
         <source>Group name</source>
-        <translation type="vanished">组名</translation>
+        <translation>组名</translation>
     </message>
     <message>
         <source>Altitude</source>
-        <translation type="vanished">高度</translation>
+        <translation>高度</translation>
     </message>
     <message>
         <source>Heading</source>
-        <translation type="vanished">航向</translation>
+        <translation>航向</translation>
     </message>
     <message>
         <source>Ground Speed</source>
-        <translation type="vanished">地速</translation>
+        <translation>地速</translation>
     </message>
     <message>
         <source>Vertical Indicator</source>
-        <translation type="vanished">垂直速度计</translation>
+        <translation>垂直速度计</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="vanished">位置</translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>BullsEye</source>
-        <translation type="vanished">BullsEye</translation>
+        <translation>BullsEye</translation>
     </message>
     <message>
         <source>Detection range</source>
-        <translation type="vanished">探测距离</translation>
+        <translation>探测距离</translation>
     </message>
     <message>
         <source>Threat range</source>
-        <translation type="vanished">威胁范围</translation>
+        <translation>威胁范围</translation>
     </message>
     <message>
         <source>Select a contact to see its properties</source>
-        <translation type="vanished">查看选择的接触单位属性</translation>
+        <translation>查看选择的接触单位属性</translation>
     </message>
     <message>
         <source>Name:</source>
         <comment>Name of the unit</comment>
-        <translation type="vanished">名称：</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="vanished">确定</translation>
+        <translation>确定</translation>
     </message>
     <message>
         <source>Symbol:</source>
-        <translation type="vanished">符号：</translation>
+        <translation>符号：</translation>
     </message>
     <message>
         <source>Message:</source>
-        <translation type="vanished">消息：</translation>
+        <translation>消息：</translation>
     </message>
     <message>
         <source>Text to send...</source>
-        <translation type="vanished">发送文字...</translation>
+        <translation>发送文字...</translation>
     </message>
     <message>
         <source>Show on map</source>
-        <translation type="vanished">在地图上显示</translation>
+        <translation>在地图上显示</translation>
     </message>
 </context>
 <context>
@@ -1986,68 +1986,70 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="26"/>
         <source>Airport</source>
-        <translation type="unfinished">机场</translation>
+        <translation>机场</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="39"/>
         <source>Radar</source>
-        <translation type="unfinished">雷达</translation>
+        <translation>雷达</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="59"/>
         <source>currently only support &lt;a href=&apos;http://tacnoworld.fr/UniversRadio/&apos;&gt;Universal Radio project&lt;/a&gt;&lt;br /&gt;
 This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;.&lt;br /&gt;
 &lt;b&gt;Support version: 0.0.1.x&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前只支持 &lt;a href=&apos;http://tacnoworld.fr/UniversRadio/&apos;&gt;Universal Radio 项目&lt;/a&gt;&lt;br /&gt;
+此项目仍处于beta阶段。其作者为Tacno &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;.&lt;br /&gt;
+&lt;b&gt;版本支持: 0.0.1.x&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="79"/>
         <source>Radios</source>
-        <translation type="unfinished"></translation>
+        <translation>无线电</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="85"/>
         <source>Location not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>未定义位置</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="106"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>位置</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="111"/>
         <source>Current Location:%1</source>
-        <translation type="unfinished"></translation>
+        <translation>当前位置：%1</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="111"/>
         <source>NOT DEFINED</source>
-        <translation type="unfinished"></translation>
+        <translation>未定义</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="130"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="131"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="137"/>
         <source>Refresh list (not automatic)</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新列表（非自动）</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="142"/>
         <source>Set my position to selected one</source>
-        <translation type="unfinished"></translation>
+        <translation>设置当前所选为自己位置</translation>
     </message>
     <message>
         <source>currently only support &lt;a href=&apos;http://tacnoworld.fr/UniversRadio/&apos;&gt;Universal Radio project&lt;/a&gt;&lt;br /&gt;This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;.</source>
-        <translation type="vanished">当前仅支持&lt;a href=&apos;http://tacnoworld.fr/UniversRadio/&apos;&gt;Universal Radio project&lt;/a&gt;&lt;br /&gt;这个项目由&lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;的Tacno创建，并且目前处于测试阶段。</translation>
+        <translation>当前仅支持&lt;a href=&apos;http://tacnoworld.fr/UniversRadio/&apos;&gt;Universal Radio project&lt;/a&gt;&lt;br /&gt;这个项目由&lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;的Tacno创建，并且目前处于测试阶段。</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="68"/>
@@ -2126,7 +2128,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
     </message>
     <message>
         <source>Speed</source>
-        <translation type="vanished">速度</translation>
+        <translation>速度</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="245"/>
@@ -2331,23 +2333,23 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
     <message>
         <source>Radio 1</source>
         <comment>Name of the radio 1</comment>
-        <translation type="vanished">无线电1</translation>
+        <translation>无线电1</translation>
     </message>
     <message>
         <source>Radio 2</source>
         <comment>Name of the radio 2</comment>
-        <translation type="vanished">无线电2</translation>
+        <translation>无线电2</translation>
     </message>
     <message>
         <source>Radio 3</source>
         <comment>Name of the radio 3</comment>
-        <translation type="vanished">无线电3</translation>
+        <translation>无线电3</translation>
     </message>
     <message>
         <location filename="../lotatc/client/radio/RadioManager.cpp" line="9"/>
         <source>Radio %1</source>
         <comment>Name of the radio n</comment>
-        <translation type="unfinished"></translation>
+        <translation>无线电 %1</translation>
     </message>
 </context>
 <context>
@@ -2355,12 +2357,12 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
     <message>
         <source>blue</source>
         <comment>coalition blue</comment>
-        <translation type="vanished">蓝方</translation>
+        <translation>蓝方</translation>
     </message>
     <message>
         <source>red</source>
         <comment>coalition red</comment>
-        <translation type="vanished">红方</translation>
+        <translation>红方</translation>
     </message>
 </context>
 <context>
@@ -2386,44 +2388,44 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
     <message>
         <location filename="../lotatc/client/resources/qml/client/TableObjects.qml" line="51"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/TableObjects.qml" line="54"/>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>种类</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/TableObjects.qml" line="59"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/TableObjects.qml" line="62"/>
         <source>Coalition</source>
-        <translation type="unfinished"></translation>
+        <translation>阵营</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/TableObjects.qml" line="73"/>
         <source>Human</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">玩家</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/TableObjects.qml" line="80"/>
         <source>Detection range (%1)</source>
         <comment>%1 is the unit</comment>
-        <translation type="unfinished"></translation>
+        <translation>探测范围(%1)</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/TableObjects.qml" line="87"/>
         <source>Threat range (%1)</source>
         <comment>%1 is the unit</comment>
-        <translation type="unfinished"></translation>
+        <translation>威胁范围(%1)</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/TableObjects.qml" line="94"/>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>注释</translation>
     </message>
 </context>
 <context>
@@ -2466,11 +2468,11 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
     <name>TrollerList</name>
     <message>
         <source>Airport</source>
-        <translation type="vanished">机场</translation>
+        <translation>机场</translation>
     </message>
     <message>
         <source>Radar</source>
-        <translation type="vanished">雷达</translation>
+        <translation>雷达</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/TrollerList.qml" line="11"/>
@@ -2479,15 +2481,15 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
     </message>
     <message>
         <source>Choose my position</source>
-        <translation type="vanished">选择自己的位置</translation>
+        <translation>选择自己的位置</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="vanished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/TrollerList.qml" line="24"/>
@@ -2673,7 +2675,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
     </message>
     <message>
         <source>Connecting...</source>
-        <translation type="vanished">连接中...</translation>
+        <translation>连接中...</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/main.qml" line="757"/>
