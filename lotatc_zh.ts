@@ -4,37 +4,37 @@
 <context>
     <name>AboutDlg</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="27"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="23"/>
         <source>Author: DArt</source>
         <translation>作者：DArt</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="28"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="24"/>
         <source>Thanks to all beta-testers and translators who help me</source>
         <translation>感谢所有beta版的测试人员和翻译人员</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="30"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="26"/>
         <source>Thanks to my squad: &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;</source>
         <translation>感谢我的小队：&lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="33"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="29"/>
         <source>Special mention for Azrayen&apos; for the testing and documentation awesome work.</source>
         <translation>特别提及Azrayen在测试和文档上的优异工作.</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="36"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="32"/>
         <source>Translators:</source>
         <translation>翻译人员：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="47"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="43"/>
         <source>Language</source>
         <translation>语言</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="48"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="44"/>
         <source>User</source>
         <translation>用户</translation>
     </message>
@@ -161,25 +161,25 @@
 <context>
     <name>Braa</name>
     <message>
-        <location filename="../lotatc/client/Braa.cpp" line="82"/>
+        <location filename="../lotatc/client/Braa.cpp" line="85"/>
         <source>H</source>
         <comment>Hot ex: 45/23Nm/1200ft/H</comment>
         <translation>逼近</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/Braa.cpp" line="85"/>
+        <location filename="../lotatc/client/Braa.cpp" line="88"/>
         <source>FL</source>
         <comment>Flanking Left ex: 45/23Nm/1200ft/FL</comment>
         <translation>左侧</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/Braa.cpp" line="84"/>
+        <location filename="../lotatc/client/Braa.cpp" line="87"/>
         <source>C</source>
         <comment>Cold ex: 45/23Nm/1200ft/C</comment>
         <translation>远离</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/Braa.cpp" line="83"/>
+        <location filename="../lotatc/client/Braa.cpp" line="86"/>
         <source>FR</source>
         <comment>Flanking Right ex: 45/23Nm/1200ft/FR</comment>
         <translation>右侧</translation>
@@ -218,17 +218,17 @@
 <context>
     <name>ConnectDlg</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="63"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="60"/>
         <source>Address:</source>
         <translation>服务器地址：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="71"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="68"/>
         <source>Port:</source>
         <translation>端口：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="81"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="78"/>
         <source>Coalition:</source>
         <translation>阵营：</translation>
     </message>
@@ -241,47 +241,47 @@
         <translation type="obsolete">红方</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="95"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="92"/>
         <source>Password:</source>
         <translation>密码：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="105"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="102"/>
         <source>Pseudo:</source>
         <translation>昵称：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="137"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="134"/>
         <source>Bookmark:</source>
         <translation>书签：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="123"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="120"/>
         <source>Enter a name...</source>
         <translation>输入名称...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="119"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="116"/>
         <source>Name:</source>
         <translation>名称：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="129"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="126"/>
         <source>Bookmark current</source>
         <translation>加入书签</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="169"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="166"/>
         <source>Delete current bookmark</source>
         <translation>删除当前书签</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="179"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="176"/>
         <source>Connect</source>
         <translation>连接</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="188"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="185"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -1048,7 +1048,7 @@
 <context>
     <name>OptionsDlg</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="45"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="42"/>
         <source>General</source>
         <translation>常规</translation>
     </message>
@@ -1057,22 +1057,22 @@
         <translation type="obsolete">地图</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="46"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="43"/>
         <source>Items</source>
         <translation>图标</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="47"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="44"/>
         <source>Labels</source>
         <translation>标签</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="48"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="45"/>
         <source>Approach</source>
         <translation>进近</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="49"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="46"/>
         <source>Shortcuts</source>
         <translation>快捷方式</translation>
     </message>
@@ -2153,28 +2153,28 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation>暴风雪</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="210"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="207"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="211"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="208"/>
         <source>Value</source>
         <translation>值</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="226"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="222"/>
         <source>Distance in %1</source>
         <comment>%1 is unit</comment>
         <translation>距离%1</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="231"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="227"/>
         <source>Direction</source>
         <translation>方位</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="234"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="230"/>
         <source>Speed in %1</source>
         <comment>%1 is unit</comment>
         <translation>速度单位 %1</translation>
@@ -2184,12 +2184,12 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="vanished">速度</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="245"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="241"/>
         <source>Description</source>
         <translation>描述</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="255"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="251"/>
         <source>Tasks</source>
         <translation>任务</translation>
     </message>
@@ -2229,7 +2229,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation>温度</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="218"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="214"/>
         <source>Wind from</source>
         <translation>风向</translation>
     </message>
@@ -2246,7 +2246,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="obsolete">8000米</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="269"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="265"/>
         <source>Waiting for mission datas...</source>
         <translation>等待任务数据...</translation>
     </message>
@@ -2364,18 +2364,18 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation>虚拟预警范围</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ProfileDlg.qml" line="63"/>
+        <location filename="../lotatc/client/resources/qml/client/ProfileDlg.qml" line="59"/>
         <source>Server parameters</source>
         <translation>服务参数</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ProfileDlg.qml" line="68"/>
+        <location filename="../lotatc/client/resources/qml/client/ProfileDlg.qml" line="64"/>
         <source>Name</source>
         <comment>Name of server parameter</comment>
         <translation>名字</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ProfileDlg.qml" line="69"/>
+        <location filename="../lotatc/client/resources/qml/client/ProfileDlg.qml" line="65"/>
         <source>Value</source>
         <comment>Value for the server parameter</comment>
         <translation>值</translation>
@@ -2571,73 +2571,73 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation>（未注册）</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="138"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="139"/>
         <source>Disconnected</source>
         <translation>断开连接</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="145"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="146"/>
         <source>Connection and authentification OK</source>
         <translation>连接验证成功</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="151"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="152"/>
         <source>Connection and authentification error: </source>
         <translation>链接验证错误：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="173"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="174"/>
         <source>New mission received, load datas from server</source>
         <translation>收到新任务，正在从服务器读取数据</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="186"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="187"/>
         <source>Connection error: </source>
         <translation>连接错误：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="334"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="339"/>
         <source>Arcade</source>
         <comment>profile</comment>
         <translation>简单</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="335"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="340"/>
         <source>Basic</source>
         <comment>profile</comment>
         <translation>基本</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="336"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="341"/>
         <source>Realistic</source>
         <comment>profile</comment>
         <translation>真实</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="337"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="342"/>
         <source>Custom</source>
         <comment>profile</comment>
         <translation>自定义</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="338"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="343"/>
         <source>Mission</source>
         <comment>profile</comment>
         <translation>任务</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="339"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="344"/>
         <source>Advance realistic</source>
         <comment>profile</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="562"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="567"/>
         <source>Tactical View</source>
         <translation>战术视角</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="630"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="635"/>
         <source>Connecting to %1:%2...</source>
         <comment>%1 will be replaced by server, %2 by port</comment>
         <translation>连接%1:%2...</translation>
@@ -2728,7 +2728,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="obsolete">俄文</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="630"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="635"/>
         <source>Not connected</source>
         <translation>没有连接</translation>
     </message>
@@ -2737,23 +2737,23 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="vanished">连接中...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="759"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="764"/>
         <source>Change &amp;unit</source>
         <translatorcomment>Does not used anymore</translatorcomment>
         <translation>改变单位(&amp;u)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="762"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="767"/>
         <source>Change unit</source>
         <translation>改变单位</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="766"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="771"/>
         <source>Show circles</source>
         <translation>显示区域范围</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="769"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="774"/>
         <source>Show detection/threat circles</source>
         <translation>显示 雷达探测/导弹射程 区域</translation>
     </message>
@@ -2770,12 +2770,12 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="obsolete">显示/关闭 (舰船/防空导弹)雷达探测/威胁 区域</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="773"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="778"/>
         <source>Show background label</source>
         <translation>显示背景标签</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="776"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="781"/>
         <source>Show/Hide background labels</source>
         <translation>显示/隐藏 背景标签</translation>
     </message>
@@ -2788,7 +2788,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="obsolete">开启全屏</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="795"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="800"/>
         <source>Show fullscreen</source>
         <translation>全屏显示</translation>
     </message>
