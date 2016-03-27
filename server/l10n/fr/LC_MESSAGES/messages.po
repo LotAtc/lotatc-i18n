@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-02 18:36+0400\n"
+"PO-Revision-Date: 2016-03-27 11:58+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Display enemies parameters (name, type,...)"
+msgstr "Paramètres d'affichage des ennemis (nom, type, ...)"
+
+msgid "Detection profile"
+msgstr "Profil de détection"
+
+msgid "Automatic type for new item"
+msgstr "Type automatique pour nouvel élément"
+
+msgid "Radar modelisation"
+msgstr "Modélisation radar"
+
+msgid "Use relief (terrain masking) filter"
+msgstr "Utiliser le filtre relief (masquage terrain)"
+
+msgid "Custom profile options"
+msgstr "Profil personnalifé"
+
+msgid "Enable LotAtc"
+msgstr "Activer LotAtc"
+
+msgid ""
+"LotAtc 4 DCS is a software that allows you to simulate the role of an air "
+"traffic controller (namely, first, an Air Defense controller). LotAtc shows "
+"the tactical situation (aircraft, SAMs, boats) on a 'radar screen' with a "
+"map background. As a virtual controller, you will be able to guide human "
+"virtual pilots in DCS World multiplayer missions, by radioing them (through "
+"your regular voice software such as Teamspeak, Mumble ... etc), whether to "
+"make them find their way and/or their leader, set up to your fighters to "
+"intercept bandits, or press the muds to hide or take shelter given what "
+"happens in front of them."
+msgstr ""
+
+msgid "Approach mode on airport"
+msgstr ""
+
+msgid "Use low speed filter (aircraft too slow are filtered)"
+msgstr ""
+
+msgid "LotAtc 4 DCS"
+msgstr "LotAtc 4 DCS"
+
+msgid "Display enemy SAMs & Ships even outside of own radar coverage"
+msgstr ""
+
+msgid "Arcade - see all"
+msgstr "Arcade - voir tout"
+
+msgid "Basic - see enemy SAM mid/long range"
+msgstr "Basique - voir les enemis SAM moyenne/longue distance"
+
+msgid "Realistic - see only what you can really see"
+msgstr ""
+
+msgid "Advanced realistic"
+msgstr ""
+
+msgid "Custom - (Use below options)"
+msgstr ""
+
+msgid "Use mission settings"
+msgstr ""
+
+msgid "For all"
+msgstr ""
+
+msgid "Only for friends"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "See all (no radar management)"
+msgstr ""
+
+msgid "Cylinder (no altitude management)"
+msgstr ""
+
+msgid "Spherical (altitude is used)"
+msgstr ""
+
+msgid "Conical (like spherical but with real constraints)"
+msgstr ""
+
+msgid "None - Approach mode Disabled"
+msgstr ""
+
+msgid "Own coalition airports only"
+msgstr ""
+
+msgid "All airports"
+msgstr ""
