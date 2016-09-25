@@ -5,37 +5,42 @@
     <name>AboutDlg</name>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="23"/>
+        <source>User id: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="24"/>
         <source>Author: DArt</source>
         <translation>Autore: DArt</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="24"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="25"/>
         <source>Thanks to all beta-testers and translators who help me</source>
         <translatorcomment>Ringraziamenti</translatorcomment>
         <translation>Grazie a tutti i Beta-tester e traduttori per il loro aiuto</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="26"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="27"/>
         <source>Thanks to my squad: &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;</source>
         <translation>Grazie al mio Gruppo: &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="29"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="30"/>
         <source>Special mention for Azrayen&apos; for the testing and documentation awesome work.</source>
         <translation>Menzione speciale per Azrayen per il formidabile lavoro di testing e documentazione.</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="32"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="33"/>
         <source>Translators:</source>
         <translation>Traduttori:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="43"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="44"/>
         <source>Language</source>
         <translation>Lingua</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="44"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="45"/>
         <source>User</source>
         <translation>Utilizzatore</translation>
     </message>
