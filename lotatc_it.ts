@@ -1981,56 +1981,55 @@
         <translation>Radar</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="59"/>
         <source>currently only support &lt;a href=&apos;http://tacnoworld.fr/UniversRadio/&apos;&gt;Universal Radio project&lt;/a&gt;&lt;br /&gt;
 This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;.&lt;br /&gt;
 &lt;b&gt;Support version: 0.0.1.x&lt;/b&gt;</source>
-        <translation>Attualmente supporta solamente il &lt;a href=&apos;http://tacnoworld.fr/UniversRadio/&apos;&gt;progetto Universal Radio&lt;/a&gt;&lt;br /&gt;
+        <translation type="vanished">Attualmente supporta solamente il &lt;a href=&apos;http://tacnoworld.fr/UniversRadio/&apos;&gt;progetto Universal Radio&lt;/a&gt;&lt;br /&gt;
 Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;.&lt;br /&gt;
 &lt;b&gt;Versione Supporto: 0.0.1.x&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="79"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="97"/>
         <source>Radios</source>
         <translation>Radio</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="85"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="103"/>
         <source>Location not defined</source>
         <translation>Posizione non definita</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="106"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="124"/>
         <source>Location</source>
         <translation>Posizione</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="111"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="129"/>
         <source>Current Location:%1</source>
         <translation>Posizione corrente:%1</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="111"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="129"/>
         <source>NOT DEFINED</source>
         <translation>NON DEFINITO</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="130"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="148"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="131"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="149"/>
         <source>Type</source>
         <translation>Tipo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="137"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="155"/>
         <source>Refresh list (not automatic)</source>
         <translation>Aggiorna lista (non automatico)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="142"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="160"/>
         <source>Set my position to selected one</source>
         <translation>Imposta la mia posizione su quella selezionata</translation>
     </message>
@@ -2039,7 +2038,7 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="vanished">Solo supporto disponibile da &lt;a href=&apos;http://tacnoworld.fr/UniversRadio/&apos;&gt;Progetto Universal Radio&lt;/a&gt;&lt;br /&gt;Questo progetto è al momento in fase Beta e realizzato da Tacno di &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="68"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="76"/>
         <source>Radio enabled</source>
         <translation>Radio abilitata</translation>
     </message>
@@ -2509,73 +2508,73 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation>(Non registrato)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="139"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="140"/>
         <source>Disconnected</source>
         <translation>Disconnesso</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="146"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="147"/>
         <source>Connection and authentification OK</source>
         <translation>Connessione e autenticazione OK</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="152"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="153"/>
         <source>Connection and authentification error: </source>
         <translation>Errore di Connessione e/o autenticazione:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="174"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="175"/>
         <source>New mission received, load datas from server</source>
         <translation>Ricevuta nuova Missione, caricamento dati dal Server in corso</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="187"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="188"/>
         <source>Connection error: </source>
         <translation>Errore di Connessione:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="339"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="340"/>
         <source>Arcade</source>
         <comment>profile</comment>
         <translation>Arcade</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="340"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="341"/>
         <source>Basic</source>
         <comment>profile</comment>
         <translation>Basico</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="341"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="342"/>
         <source>Realistic</source>
         <comment>profile</comment>
         <translation>Realistico</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="342"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="343"/>
         <source>Custom</source>
         <comment>profile</comment>
         <translation>Personalizzato</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="343"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="344"/>
         <source>Mission</source>
         <comment>profile</comment>
         <translation>Missione</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="344"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="345"/>
         <source>Advance realistic</source>
         <comment>profile</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="567"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="575"/>
         <source>Tactical View</source>
         <translation>Vista Tattica</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="635"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="643"/>
         <source>Connecting to %1:%2...</source>
         <comment>%1 will be replaced by server, %2 by port</comment>
         <translation>Collegando a %1:%2...</translation>
@@ -2666,7 +2665,7 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="obsolete">Svedese</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="635"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="643"/>
         <source>Not connected</source>
         <translation>Non connesso</translation>
     </message>
@@ -2675,22 +2674,22 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="vanished">In Connessione...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="764"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="772"/>
         <source>Change &amp;unit</source>
         <translation>Cambiare &amp;unità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="767"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="775"/>
         <source>Change unit</source>
         <translation>Cambiare unità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="771"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="779"/>
         <source>Show circles</source>
         <translation>Mostra cerchi</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="774"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="782"/>
         <source>Show detection/threat circles</source>
         <translation>Mostra cerchi di identificazione/minaccia</translation>
     </message>
@@ -2707,12 +2706,12 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="obsolete">Mostra/Nascondi i cerchi di identificazione/minaccia</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="778"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="786"/>
         <source>Show background label</source>
         <translation>Mostra le etichette di fondo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="781"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="789"/>
         <source>Show/Hide background labels</source>
         <translation>Mostra/Nascondi le etichette di fondo</translation>
     </message>
@@ -2725,7 +2724,7 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="obsolete">Abilita tutto schermo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="800"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="808"/>
         <source>Show fullscreen</source>
         <translation>Mostra tutto schermo</translation>
     </message>
