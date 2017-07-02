@@ -191,25 +191,25 @@
 <context>
     <name>Braa</name>
     <message>
-        <location filename="../lotatc/client/Braa.cpp" line="85"/>
+        <location filename="../lotatc/client/Braa.cpp" line="87"/>
         <source>H</source>
         <comment>Hot ex: 45/23Nm/1200ft/H</comment>
         <translation>逼近</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/Braa.cpp" line="88"/>
+        <location filename="../lotatc/client/Braa.cpp" line="90"/>
         <source>FL</source>
         <comment>Flanking Left ex: 45/23Nm/1200ft/FL</comment>
         <translation>左侧</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/Braa.cpp" line="87"/>
+        <location filename="../lotatc/client/Braa.cpp" line="89"/>
         <source>C</source>
         <comment>Cold ex: 45/23Nm/1200ft/C</comment>
         <translation>远离</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/Braa.cpp" line="86"/>
+        <location filename="../lotatc/client/Braa.cpp" line="88"/>
         <source>FR</source>
         <comment>Flanking Right ex: 45/23Nm/1200ft/FR</comment>
         <translation>右侧</translation>
@@ -441,7 +441,7 @@
 <context>
     <name>MapItem</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItem.qml" line="248"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItem.qml" line="263"/>
         <source>%1</source>
         <translatorcomment>variable, so no translation</translatorcomment>
         <translation>%1</translation>
