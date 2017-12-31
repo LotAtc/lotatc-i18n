@@ -460,106 +460,106 @@
 <context>
     <name>MapItemProperties</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="78"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="83"/>
         <source>Unknown</source>
         <translation>未知的</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="79"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="84"/>
         <source>TN: %1</source>
         <comment>Track Number of the unit</comment>
         <translation>追踪编号：%1</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="94"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="99"/>
         <source>Group name</source>
         <translation>组名</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="96"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="101"/>
         <source>Transponder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="97"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="102"/>
         <source>Altitude</source>
         <translation>高度</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="98"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="103"/>
         <source>Heading</source>
         <translation>航向</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="99"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="104"/>
         <source>Ground Speed</source>
         <translation>地速</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="101"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="106"/>
         <source>Vertical Indicator</source>
         <translation>垂直速度计</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="102"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="107"/>
         <source>Position</source>
         <translation>位置</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="103"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="108"/>
         <source>BullsEye</source>
         <translation>BullsEye</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="107"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="112"/>
         <source>Detection range</source>
         <translation>探测距离</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="109"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="114"/>
         <source>Threat range</source>
         <translation>威胁范围</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="142"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="147"/>
         <source>Name:</source>
         <comment>Name of the unit</comment>
         <translation>名称：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="157"/>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="240"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="162"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="245"/>
         <source>Apply</source>
         <translation>确定</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="176"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="181"/>
         <source>Side:</source>
         <translation>阵营：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="197"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="202"/>
         <source>Symbol:</source>
         <translation>符号：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="225"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="230"/>
         <source>Comment:</source>
         <comment>Comment on the unit</comment>
         <translation>注释：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="267"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="272"/>
         <source>Message:</source>
         <translation>消息：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="280"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="285"/>
         <source>Text to send...</source>
         <translation>发送文字...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="287"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="292"/>
         <source>Show on map</source>
         <translation>在地图上显示</translation>
     </message>
