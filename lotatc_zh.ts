@@ -10,41 +10,50 @@
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="24"/>
+        <source>Build: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="25"/>
         <source>Author: DArt</source>
         <translation>作者：DArt</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="25"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="26"/>
         <source>Thanks to all beta-testers and translators who help me</source>
         <translation>感谢所有beta版的测试人员和翻译人员</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="27"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="28"/>
         <source>Thanks to my squad: &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;</source>
         <translation>感谢我的小队：&lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="30"/>
-        <source>Special mention for Azrayen&apos; for the testing and documentation awesome work.</source>
-        <translation>特别提及Azrayen在测试和文档上的优异工作.</translation>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="31"/>
+        <source>Special mention for Azrayen&apos; and sp@t for the testing and documentation awesome work.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="31"/>
+        <source>Special mention for Azrayen&apos; for the testing and documentation awesome work.</source>
+        <translation type="vanished">特别提及Azrayen在测试和文档上的优异工作.</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="32"/>
         <source>Thanks to Toubib for its work on Nevada map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="34"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="35"/>
         <source>Translators:</source>
         <translation>翻译人员：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="45"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="46"/>
         <source>Language</source>
         <translation>语言</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="46"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="47"/>
         <source>User</source>
         <translation>用户</translation>
     </message>
@@ -1893,42 +1902,42 @@
         <translation>高度过滤</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="167"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="168"/>
         <source>Layers:</source>
         <translation>图层：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="191"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="192"/>
         <source>Please choose a color for layer</source>
         <translation>选择图层颜色</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="201"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="202"/>
         <source>Coordinates format</source>
         <translation>坐标格式</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="214"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="215"/>
         <source>Example: %1</source>
         <translation>例子：%1</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="217"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="218"/>
         <source>Land color</source>
         <translation>陆地颜色</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="222"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="223"/>
         <source>Please choose a color for land</source>
         <translation>选择陆地颜色</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="227"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="228"/>
         <source>Sea color</source>
         <translation>海洋颜色</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="232"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="233"/>
         <source>Please choose a color for sea</source>
         <translation>选择海洋颜色</translation>
     </message>
@@ -1962,38 +1971,38 @@
         <translation>选择地图：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="237"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="238"/>
         <source>Measure line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="242"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="243"/>
         <source>Please choose a color for measure line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="247"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="248"/>
         <source>BRAA line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="252"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="253"/>
         <source>Please choose a color for braa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="257"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="258"/>
         <source>Brightness</source>
         <translation>亮度</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="277"/>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="302"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="278"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="303"/>
         <source>Default</source>
         <translation>默认</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="281"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="282"/>
         <source>Contrast</source>
         <translation>对比度</translation>
     </message>
@@ -2144,47 +2153,47 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
 &lt;b&gt;版本支持: 0.0.1.x&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="97"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="109"/>
         <source>Radios</source>
         <translation>无线电</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="103"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="115"/>
         <source>Location not defined</source>
         <translation>未定义位置</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="124"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="136"/>
         <source>Location</source>
         <translation>位置</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="129"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="141"/>
         <source>Current Location:%1</source>
         <translation>当前位置：%1</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="129"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="141"/>
         <source>NOT DEFINED</source>
         <translation>未定义</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="148"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="160"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="149"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="161"/>
         <source>Type</source>
         <translation>类型</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="155"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="167"/>
         <source>Refresh list (not automatic)</source>
         <translation>刷新列表（非自动）</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="160"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="172"/>
         <source>Set my position to selected one</source>
         <translation>设置当前所选为自己位置</translation>
     </message>
@@ -2725,12 +2734,12 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation>真实(高级)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="602"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="603"/>
         <source>Tactical View</source>
         <translation>战术视角</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="670"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="671"/>
         <source>Connecting to %1:%2...</source>
         <comment>%1 will be replaced by server, %2 by port</comment>
         <translation>连接%1:%2...</translation>
@@ -2821,7 +2830,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="obsolete">俄文</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="670"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="671"/>
         <source>Not connected</source>
         <translation>没有连接</translation>
     </message>
@@ -2830,23 +2839,23 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="vanished">连接中...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="799"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="800"/>
         <source>Change &amp;unit</source>
         <translatorcomment>Does not used anymore</translatorcomment>
         <translation>改变单位(&amp;u)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="802"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="803"/>
         <source>Change unit</source>
         <translation>改变单位</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="806"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="807"/>
         <source>Show circles</source>
         <translation>显示区域范围</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="809"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="810"/>
         <source>Show detection/threat circles</source>
         <translation>显示 雷达探测/导弹射程 区域</translation>
     </message>
@@ -2863,12 +2872,12 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="obsolete">显示/关闭 (舰船/防空导弹)雷达探测/威胁 区域</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="813"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="814"/>
         <source>Show background label</source>
         <translation>显示背景标签</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="816"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="817"/>
         <source>Show/Hide background labels</source>
         <translation>显示/隐藏 背景标签</translation>
     </message>
@@ -2881,7 +2890,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="obsolete">开启全屏</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="835"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="836"/>
         <source>Show fullscreen</source>
         <translation>全屏显示</translation>
     </message>
