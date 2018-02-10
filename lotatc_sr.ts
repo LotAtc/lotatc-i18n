@@ -379,17 +379,17 @@
         <translation>Prekini konekciju</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="150"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="153"/>
         <source>Change bearing mode</source>
         <translation>Promeniti azimut režim</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="157"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="160"/>
         <source>Change units</source>
         <translation>Promeniti merne jedinice</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="194"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="197"/>
         <source>Mission time, show/hide seconds</source>
         <translation>Vreme u misiji, pokazati/sakriti sekunde</translation>
     </message>
@@ -411,13 +411,13 @@
         <translation type="obsolete">O LotAtc 4 DCS</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="155"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="158"/>
         <source>METRIC</source>
         <translatorcomment>Međunarodni sistem jedinica (SI)</translatorcomment>
         <translation>Metrički sistem mera (SI)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="155"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="158"/>
         <source>IMPERIAL</source>
         <translatorcomment>Sistem mera u upotrebi u SAD</translatorcomment>
         <translation>Imperijalni sistem mera</translation>

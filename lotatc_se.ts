@@ -364,17 +364,17 @@
         <translation type="unfinished">Koppla från</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="150"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="153"/>
         <source>Change bearing mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="157"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="160"/>
         <source>Change units</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="194"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="197"/>
         <source>Mission time, show/hide seconds</source>
         <translation type="unfinished"></translation>
     </message>
@@ -396,12 +396,12 @@
         <translation type="obsolete">Om</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="155"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="158"/>
         <source>METRIC</source>
         <translation type="unfinished">METRISK</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="155"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="158"/>
         <source>IMPERIAL</source>
         <translation type="unfinished">IMPERIALISTISK</translation>
     </message>

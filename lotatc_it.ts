@@ -422,17 +422,17 @@
         <translation>Disconnetti</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="150"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="153"/>
         <source>Change bearing mode</source>
         <translation>Cambio modalità di Rilevamento</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="157"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="160"/>
         <source>Change units</source>
         <translation>Cambiare unità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="194"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="197"/>
         <source>Mission time, show/hide seconds</source>
         <translation>Tempo di missione, mostra/nascondi secondi</translation>
     </message>
@@ -454,12 +454,12 @@
         <translation type="obsolete">A proposito di</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="155"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="158"/>
         <source>METRIC</source>
         <translation>METRICO</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="155"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="158"/>
         <source>IMPERIAL</source>
         <translation>IMPERIALE</translation>
     </message>
