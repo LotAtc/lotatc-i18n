@@ -4,62 +4,80 @@
 <context>
     <name>AboutDlg</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="23"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="50"/>
         <source>User id: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="24"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="49"/>
         <source>Build: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="25"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="28"/>
+        <source>THANKS:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="37"/>
+        <source>my squad: &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="40"/>
+        <source>Azrayen&apos; and sp@t for the testing and documentation awesome work.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="41"/>
+        <source>Toubib for its work on Nevada map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="42"/>
+        <source>Snoopy -76th vFS- for its charts and the work on airport views.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="43"/>
+        <source>all beta-testers and translators who help me</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="48"/>
+        <source>Version: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="51"/>
         <source>Author: DArt</source>
         <translation>Autore: DArt</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="26"/>
         <source>Thanks to all beta-testers and translators who help me</source>
         <translatorcomment>Ringraziamenti</translatorcomment>
-        <translation>Grazie a tutti i Beta-tester e traduttori per il loro aiuto</translation>
+        <translation type="vanished">Grazie a tutti i Beta-tester e traduttori per il loro aiuto</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="28"/>
         <source>Thanks to my squad: &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;</source>
-        <translation>Grazie al mio Gruppo: &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="31"/>
-        <source>Special mention for Azrayen&apos; and sp@t for the testing and documentation awesome work.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Grazie al mio Gruppo: &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Special mention for Azrayen&apos; for the testing and documentation awesome work.</source>
         <translation type="vanished">Menzione speciale per Azrayen per il formidabile lavoro di testing e documentazione.</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="32"/>
-        <source>Thanks to Toubib for its work on Nevada map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="33"/>
-        <source>Thanks to Snoopy -76th vFS- for its charts and the work on airport views.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="36"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="61"/>
         <source>Translators:</source>
         <translation>Traduttori:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="47"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="72"/>
         <source>Language</source>
         <translation>Lingua</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="48"/>
+        <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="73"/>
         <source>User</source>
         <translation>Utilizzatore</translation>
     </message>
@@ -110,100 +128,144 @@
 <context>
     <name>AirportProperties</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="46"/>
         <source>Id</source>
         <translatorcomment>Id</translatorcomment>
-        <translation>Id</translation>
+        <translation type="vanished">Id</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="47"/>
         <source>Code</source>
-        <translation>Codice</translation>
+        <translation type="vanished">Codice</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="48"/>
         <source>Coalition</source>
-        <translation type="unfinished">Coalizione</translation>
+        <translation type="obsolete">Coalizione</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="49"/>
         <source>Position</source>
-        <translation type="unfinished">Posizione</translation>
+        <translation type="obsolete">Posizione</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="50"/>
         <source>Altitude</source>
-        <translation type="unfinished">Altitudine</translation>
+        <translation type="obsolete">Altitudine</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="51"/>
-        <source>QFE</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="52"/>
-        <source>Declinaison</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="53"/>
         <source>Length</source>
-        <translation>Lunghezza</translation>
+        <translation type="vanished">Lunghezza</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="54"/>
         <source>Heading</source>
-        <translation>Direzione</translation>
+        <translation type="vanished">Direzione</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="55"/>
         <source>Frequencies</source>
-        <translation>Frequenze</translation>
+        <translation type="vanished">Frequenze</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="57"/>
         <source>TACAN</source>
-        <translation>TACAN</translation>
+        <translation type="vanished">TACAN</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="122"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="95"/>
         <source>Open a chart view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="134"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="107"/>
         <source>METAR : %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="144"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="117"/>
         <source>Create ATIS on:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="190"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="170"/>
         <source>Take approach</source>
         <translation>Accetta approccio</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="213"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="170"/>
+        <source>Release approach</source>
+        <translation type="unfinished">Rifiuta approccio</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="200"/>
         <source>No control available</source>
         <translation>Nessun controllo disponibile</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="223"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="213"/>
         <source>ILS available on %1MHz</source>
         <translation>ILS disponibile su %1Mhz</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="226"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="216"/>
         <source>No ILS</source>
         <translation>Nessun ILS</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="229"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="219"/>
         <source>Current controllers</source>
         <translation>Controllori disponibili</translation>
+    </message>
+</context>
+<context>
+    <name>AirportPropertiesModel</name>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AirportPropertiesModel.qml" line="20"/>
+        <source>Id</source>
+        <translation type="unfinished">Id</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AirportPropertiesModel.qml" line="21"/>
+        <source>Code</source>
+        <translation type="unfinished">Codice</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AirportPropertiesModel.qml" line="22"/>
+        <source>Coalition</source>
+        <translation type="unfinished">Coalizione</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AirportPropertiesModel.qml" line="23"/>
+        <source>Position</source>
+        <translation type="unfinished">Posizione</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AirportPropertiesModel.qml" line="24"/>
+        <source>Altitude</source>
+        <translation type="unfinished">Altitudine</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AirportPropertiesModel.qml" line="25"/>
+        <source>QFE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AirportPropertiesModel.qml" line="26"/>
+        <source>Declinaison</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AirportPropertiesModel.qml" line="27"/>
+        <source>Length</source>
+        <translation type="unfinished">Lunghezza</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AirportPropertiesModel.qml" line="28"/>
+        <source>Heading</source>
+        <translation type="unfinished">Direzione</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AirportPropertiesModel.qml" line="29"/>
+        <source>Frequencies</source>
+        <translation type="unfinished">Frequenze</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/AirportPropertiesModel.qml" line="31"/>
+        <source>TACAN</source>
+        <translation type="unfinished">TACAN</translation>
     </message>
 </context>
 <context>
@@ -219,25 +281,25 @@
 <context>
     <name>Braa</name>
     <message>
-        <location filename="../lotatc/client/Braa.cpp" line="87"/>
+        <location filename="../lotatc/client/Braa.cpp" line="88"/>
         <source>H</source>
         <comment>Hot ex: 45/23Nm/1200ft/H</comment>
         <translation>H</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/Braa.cpp" line="90"/>
+        <location filename="../lotatc/client/Braa.cpp" line="91"/>
         <source>FL</source>
         <comment>Flanking Left ex: 45/23Nm/1200ft/FL</comment>
         <translation>FL</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/Braa.cpp" line="89"/>
+        <location filename="../lotatc/client/Braa.cpp" line="90"/>
         <source>C</source>
         <comment>Cold ex: 45/23Nm/1200ft/C</comment>
         <translation>C</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/Braa.cpp" line="88"/>
+        <location filename="../lotatc/client/Braa.cpp" line="89"/>
         <source>FR</source>
         <comment>Flanking Right ex: 45/23Nm/1200ft/FR</comment>
         <translation>FR</translation>
@@ -274,19 +336,42 @@
     </message>
 </context>
 <context>
+    <name>ColorButton</name>
+    <message>
+        <location filename="../lotatc/client/resources/qml/common/ColorButton.qml" line="88"/>
+        <source>Click to select, Shift+click to reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ConnectDlg</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="60"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="129"/>
+        <source>New bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="136"/>
+        <source>Save current bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="160"/>
+        <source>Connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="180"/>
         <source>Address:</source>
         <translation>Indirizzo:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="68"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="188"/>
         <source>Port:</source>
         <translation>Porta:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="78"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="198"/>
         <source>Coalition:</source>
         <translation>Coalizione:</translation>
     </message>
@@ -299,93 +384,104 @@
         <translation type="obsolete">Rossa</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="92"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="210"/>
         <source>Password:</source>
         <translation>Password:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="102"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="220"/>
         <source>Pseudo:</source>
         <translation>Nickname:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="134"/>
         <source>Bookmark:</source>
-        <translation>Segnalibro:</translation>
+        <translation type="vanished">Segnalibro:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="120"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="171"/>
         <source>Enter a name...</source>
         <translation>Inserire un nome...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="116"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="167"/>
         <source>Name:</source>
         <translation>Nome:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="126"/>
         <source>Bookmark current</source>
-        <translation>Segnalibro attuale</translation>
+        <translation type="vanished">Segnalibro attuale</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="166"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="146"/>
         <source>Delete current bookmark</source>
         <translation>Cancella l&apos;attuale segnalibro</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="176"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="234"/>
         <source>Connect</source>
         <translation>Connetti</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="185"/>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="234"/>
+        <source>Waiting maps...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="245"/>
         <source>Cancel</source>
         <translation>Annulla</translation>
     </message>
 </context>
 <context>
+    <name>CoordinatesDialog</name>
+    <message>
+        <location filename="../lotatc/client/resources/qml/common/CoordinatesDialog.qml" line="46"/>
+        <source>Enter coordinates:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DockMenu</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="33"/>
+        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="60"/>
         <source>Restore</source>
         <comment>Restore the window</comment>
         <translation>Ripristina</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="33"/>
+        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="60"/>
         <source>Maximize</source>
         <comment>Maximize the window</comment>
         <translation>Espandi</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="38"/>
+        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="66"/>
         <source>Minimize</source>
         <comment>Minimize the window</comment>
         <translation>Minimizza</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="42"/>
+        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="71"/>
         <source>Make tab</source>
         <translation>Crea tab</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="50"/>
+        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="80"/>
         <source>Make dialog</source>
         <translation>Crea dialogo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="57"/>
+        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="88"/>
         <source>Make dock</source>
         <translation>Ancora</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="64"/>
+        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="96"/>
         <source>Opacity</source>
         <translation>Opacità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="84"/>
+        <location filename="../lotatc/client/resources/qml/common/DockMenu.qml" line="117"/>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
@@ -393,18 +489,18 @@
 <context>
     <name>LabelEdit</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/LabelEdit.qml" line="11"/>
+        <location filename="../lotatc/client/resources/qml/client/LabelEdit.qml" line="25"/>
         <source>Normal</source>
         <translation>Normale</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/LabelEdit.qml" line="26"/>
-        <location filename="../lotatc/client/resources/qml/client/LabelEdit.qml" line="48"/>
+        <location filename="../lotatc/client/resources/qml/client/LabelEdit.qml" line="37"/>
+        <location filename="../lotatc/client/resources/qml/client/LabelEdit.qml" line="56"/>
         <source>Default</source>
         <translation>Default</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/LabelEdit.qml" line="33"/>
+        <location filename="../lotatc/client/resources/qml/client/LabelEdit.qml" line="44"/>
         <source>Hovered</source>
         <translation>Sorvolato</translation>
     </message>
@@ -412,36 +508,106 @@
 <context>
     <name>MainMenu</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="57"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="60"/>
         <source>Connect</source>
         <translation>Connetti</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="62"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="63"/>
+        <source>Connect to a server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="68"/>
         <source>Disconnect</source>
         <translation>Disconnetti</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="153"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="71"/>
+        <source>Disconnect current session</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="79"/>
+        <source>Open options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="86"/>
+        <source>See last news on LotAtc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="118"/>
+        <source>Enter/Exit fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="93"/>
+        <source>Display online help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="99"/>
+        <source>Information on this software</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="106"/>
+        <source>Zoom out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="112"/>
+        <source>Zoom in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="124"/>
+        <source>On top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="126"/>
+        <source>Activate on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="163"/>
+        <source>Click to open %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="201"/>
         <source>Change bearing mode</source>
         <translation>Cambio modalità di Rilevamento</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="160"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="208"/>
         <source>Change units</source>
         <translation>Cambiare unità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="197"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="246"/>
         <source>Mission time, show/hide seconds</source>
         <translation>Tempo di missione, mostra/nascondi secondi</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="258"/>
+        <source>Show controllers informations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="266"/>
+        <source>Show server settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Options</source>
         <translation type="obsolete">Opzioni</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="75"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="83"/>
         <source>News</source>
         <translation>Novità</translation>
     </message>
@@ -454,12 +620,12 @@
         <translation type="obsolete">A proposito di</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="158"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="206"/>
         <source>METRIC</source>
         <translation>METRICO</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="158"/>
+        <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="206"/>
         <source>IMPERIAL</source>
         <translation>IMPERIALE</translation>
     </message>
@@ -467,7 +633,7 @@
 <context>
     <name>MapItem</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItem.qml" line="287"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItem.qml" line="216"/>
         <source>%1</source>
         <translation>%1</translation>
     </message>
@@ -475,80 +641,80 @@
 <context>
     <name>MapItemProperties</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="83"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="77"/>
         <source>Unknown</source>
         <translation>Sconosciuto</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="84"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="78"/>
         <source>TN: %1</source>
         <comment>Track Number of the unit</comment>
         <translation>TN: %1</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="99"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="93"/>
         <source>Group name</source>
         <translation>Nome gruppo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="101"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="95"/>
         <source>Transponder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="102"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="96"/>
         <source>Altitude</source>
         <translation>Altitudine</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="103"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="97"/>
         <source>Heading</source>
         <translation>Direzione</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="104"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="98"/>
         <source>Ground Speed</source>
         <translation>Ground Speed</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="106"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="100"/>
         <source>Vertical Indicator</source>
         <translation>Indicatore Verticale</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="107"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="101"/>
         <source>Position</source>
         <translation>Posizione</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="108"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="102"/>
         <source>BullsEye</source>
         <translation>BullsEye</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="112"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="106"/>
         <source>Detection range</source>
         <translation>Raggio di rilevamento</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="114"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="108"/>
         <source>Threat range</source>
         <translation>Raggio di minaccia</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="147"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="141"/>
         <source>Name:</source>
         <comment>Name of the unit</comment>
         <translation>Nome:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="162"/>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="245"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="156"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="251"/>
         <source>Apply</source>
         <translation>Applica</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="181"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="175"/>
         <source>Side:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -558,23 +724,23 @@
         <translation>Simbolo:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="230"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="236"/>
         <source>Comment:</source>
         <comment>Comment on the unit</comment>
         <translation>Commento:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="272"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="278"/>
         <source>Message:</source>
         <translation>Messaggio:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="285"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="291"/>
         <source>Text to send...</source>
         <translation>Testo da inviare...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="292"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="298"/>
         <source>Show on map</source>
         <translation>Mostra in mappa</translation>
     </message>
@@ -582,7 +748,7 @@
 <context>
     <name>MyDockDialog</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/common/MyDockDialog.qml" line="58"/>
+        <location filename="../lotatc/client/resources/qml/common/MyDockDialog.qml" line="59"/>
         <source>Waiting connection...</source>
         <translation>In attesa di connessione...</translation>
     </message>
@@ -590,365 +756,374 @@
 <context>
     <name>MyModels</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="46"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="47"/>
         <source>Off</source>
         <translation>Spento</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="47"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="48"/>
         <source>On</source>
         <translation>Acceso</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="53"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="54"/>
         <source>Hide</source>
         <translation>Nascondi</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="54"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="55"/>
         <source>Show</source>
         <translation>Mostra</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="66"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="67"/>
         <source>Neutral</source>
         <translation type="unfinished">Neutrali</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="78"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="79"/>
         <source>Blue</source>
         <translation>Blu</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="79"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="80"/>
         <source>Red</source>
         <translation>Rossa</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="121"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="122"/>
         <source>Unknow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="122"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="123"/>
         <source>Friend</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="123"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="124"/>
         <source>Enemy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="138"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="139"/>
         <source>Light</source>
         <translation>Chiaro</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="139"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="140"/>
         <source>Dark</source>
         <translation>Scuro</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="140"/>
         <source>Very Dark</source>
-        <translation>Molto Scuro</translation>
+        <translation type="vanished">Molto Scuro</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="147"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="182"/>
         <source>English</source>
         <translation>Inglese</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="148"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="183"/>
         <source>French</source>
         <translation>Francese</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="149"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="184"/>
         <source>Deutsch</source>
         <translation>Tedesco</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="150"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="185"/>
         <source>Italian</source>
         <translation>Italiano</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="151"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="186"/>
         <source>Polish</source>
         <translation>Polacco</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="152"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="187"/>
         <source>Czech</source>
         <translation>Ceco</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="153"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="188"/>
         <source>Portuguese</source>
         <translation>Portoghese</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="154"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="189"/>
         <source>Serbian</source>
         <translation>Serbo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="155"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="190"/>
         <source>Spanish</source>
         <translation>Spagnolo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="156"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="191"/>
         <source>Chinese</source>
         <translation>Cinese</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="157"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="192"/>
         <source>Russian</source>
         <translation>Russo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="158"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="193"/>
         <source>Swedish</source>
         <translation>Svedese</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="159"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="194"/>
         <source>Brazilian Portuguese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="174"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="209"/>
         <source>Solid</source>
         <comment>Solid pattern brush</comment>
         <translation>Solido</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="175"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="210"/>
         <source>Dense</source>
         <comment>Dense pattern brush</comment>
         <translation>Denso</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="176"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="211"/>
         <source>Horizontal</source>
         <comment>Horizontal pattern brush</comment>
         <translation>Orizzontale</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="177"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="212"/>
         <source>Vertical</source>
         <comment>Horizontal pattern brush</comment>
         <translation>Verticale</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="178"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="213"/>
         <source>Diagonal</source>
         <comment>Diagonal pattern brush</comment>
         <translation>Diagonale</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="179"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="214"/>
         <source>Cross</source>
         <comment>Cross pattern brush</comment>
         <translation>Incrociato</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="187"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="222"/>
         <source>Unit Name (or TN)</source>
         <translation>Nome unità (o TN)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="188"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="223"/>
         <source>%(name|10) limit name to 10 characters</source>
         <translation>%(name|10) limita il nome a 10 caratteri</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="192"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="227"/>
         <source>Group Name (if available)</source>
         <translation>Nome gruppo (se disponibile)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="193"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="228"/>
         <source>%(group_name|10) limit name to 10 characters</source>
         <translation>%(group_name|10) limita nome a 10 caratteri</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="197"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="232"/>
         <source>Unit type</source>
         <translation>Tipo unità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="202"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="237"/>
         <source>Comment</source>
         <translation type="unfinished">Commento</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="203"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="238"/>
         <source>%(comment|10) limit comment to 10 characters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="207"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="242"/>
         <source>Unit heading</source>
         <translation>Direzione Unità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="208"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="243"/>
         <source>Use %(heading|option) with option=true/mag/truemag for true/magnetic deviation correction (default is auto)</source>
         <translation>Usa %(heading|option) con l&apos;opzione=true/mag/truemag per la correzione della deviazione true/magnetic (default è auto)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="212"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="247"/>
         <source>Altitude long format</source>
         <translation>Altitudine formato esteso</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="217"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="252"/>
         <source>Altitude short format</source>
         <translation>Altitudine formato breve</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="222"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="257"/>
         <source>Ground speed</source>
         <translation>Ground Speed</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="227"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="262"/>
         <source>Ground speed in short format</source>
         <translation>Ground Speed in formato breve</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="232"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="267"/>
         <source>Ground speed unit</source>
         <translation>Unità di misura Ground Speed</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="237"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="272"/>
+        <source>Ground speed in Mach format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="277"/>
         <source>Position to BullsEye</source>
         <translation>Dalla posizione al BullsEye</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="242"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="282"/>
         <source>Vertical indicator</source>
         <translation>Indicatore Verticale</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="243"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="283"/>
         <source>%(vert_indic|nostable) to avoid stable cursor, %(vert_indic|n) with n=0/1/2 for different arrows</source>
         <translation>%(vert_indic|nostable) per evitare il cursore stabile, %(vert_indic|n) con n=0/1/2 per frecce differenti</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="247"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="287"/>
         <source>Transponder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="258"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="298"/>
         <source>Decimal</source>
         <translation>Decimale</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="259"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="299"/>
         <source>Longitude/Latitude</source>
         <translation>Longitudine/Latitudine</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="260"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="300"/>
         <source>Longitude/Latitude Decimal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="261"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="301"/>
         <source>MGRS</source>
         <translation>MGRS</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="262"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="302"/>
         <source>UTM</source>
         <translation>UTM</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="268"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="308"/>
         <source>HF</source>
         <comment>HF frequency band for radio</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="270"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="310"/>
         <source>VHF</source>
         <comment>VHF frequency band for radio</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="276"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="316"/>
         <source>AM</source>
         <comment>AM frequency band for radio</comment>
         <translation>AM</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="269"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="309"/>
         <source>UHF</source>
         <comment>UHF frequency band for radio</comment>
         <translation>UHF</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="277"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="141"/>
+        <source>System</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="317"/>
         <source>FM</source>
         <comment>FM frequency band for radio</comment>
         <translation>FM</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="292"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="332"/>
         <source>Auto</source>
         <translation>Automatico</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="293"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="333"/>
         <source>OpenGL</source>
         <translation>OpenGL</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="294"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="334"/>
         <source>DirectX</source>
         <translation>DirectX</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="310"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="350"/>
         <source>Low</source>
         <translation>Basso</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="311"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="351"/>
         <source>Mid</source>
         <translation>Medio</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="312"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="352"/>
         <source>High</source>
         <translation>Alto</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="328"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="368"/>
         <source>Disabled</source>
         <translation>Disattivata</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="329"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="369"/>
         <source>Low (4x)</source>
         <comment>antialiasing to 4x</comment>
         <translation>Basso (4x) </translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="330"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="370"/>
         <source>Mid (8x)</source>
         <comment>antialiasing to 8x</comment>
         <translation>Medio (8x)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="331"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="371"/>
         <source>High (16x)</source>
         <comment>antialiasing to 16x</comment>
         <translation>Alto (16x)</translation>
@@ -958,17 +1133,17 @@
         <translation type="vanished">Inizio</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="348"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="388"/>
         <source>Labels</source>
         <translation>Etichette</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="349"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="389"/>
         <source>Shortcuts</source>
         <translation>Scorciatoie</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="350"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="390"/>
         <source>Detection profiles</source>
         <translation>Profili di rilevamento</translation>
     </message>
@@ -977,106 +1152,114 @@
         <translation type="vanished">FAQ del Cliente</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="387"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="427"/>
         <source>Fullscreen</source>
         <translation>Tutto schermo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="388"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="428"/>
         <source>Show background label</source>
         <translation>Mostra le etichette di fondo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="389"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="429"/>
         <source>Show circle</source>
         <translation>Mostra cerchio</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="390"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="430"/>
         <source>Change unit</source>
         <translation>Cambia unità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="405"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="445"/>
         <source>True</source>
         <comment>True bearing</comment>
         <translation>Vera</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="405"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="445"/>
         <source>T</source>
         <comment>Shortcut for True bearing</comment>
         <translation>V</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="406"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="446"/>
         <source>Magnetic</source>
         <comment>Magnetic bearing</comment>
         <translation>Magnetica</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="406"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="446"/>
         <source>M</source>
         <comment>Shortcut for Magnetic bearing</comment>
         <translation>M</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="407"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="447"/>
         <source>True/Magnetic</source>
         <comment>True/Magnetic bearing</comment>
         <translation>Vera/Magnetica</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="407"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="447"/>
         <source>T+M</source>
         <comment>Shortcut for True+Magnetic bearing</comment>
         <translation>V+M</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="432"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="472"/>
         <source>Plane</source>
         <translation>Aereo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="433"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="473"/>
         <source>Helicopter</source>
         <translation>Elicottero</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="434"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="474"/>
         <source>Ground moving</source>
         <translation>Di terra in movimento</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="435"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="475"/>
         <source>Ground standing</source>
         <translation>Di terra fermo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="436"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="476"/>
         <source>Ship</source>
         <translation>Nave</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="437"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="477"/>
         <source>Sam</source>
         <translation>SAM</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="438"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="478"/>
         <source>Tank</source>
         <translation>Carro</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="439"/>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="479"/>
         <source>Airport</source>
         <translation>Aeroporto</translation>
     </message>
 </context>
 <context>
+    <name>MyWebView</name>
+    <message>
+        <location filename="../lotatc/client/resources/qml/common/MyWebView.qml" line="110"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Annulla</translation>
+    </message>
+</context>
+<context>
     <name>NetDrawingText</name>
     <message>
-        <location filename="../lotatc/common/NetDrawingText.cpp" line="49"/>
+        <location filename="../lotatc/common/NetDrawingText.cpp" line="50"/>
         <source>None</source>
         <translation>Nessuno</translation>
     </message>
@@ -1084,17 +1267,17 @@
 <context>
     <name>NewsDlg</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/NewsDlg.qml" line="32"/>
+        <location filename="../lotatc/client/resources/qml/client/NewsDlg.qml" line="35"/>
         <source>Loading...</source>
         <translation>Caricamento...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/NewsDlg.qml" line="33"/>
+        <location filename="../lotatc/client/resources/qml/client/NewsDlg.qml" line="38"/>
         <source>News</source>
         <translation>Novità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/NewsDlg.qml" line="34"/>
+        <location filename="../lotatc/client/resources/qml/client/NewsDlg.qml" line="39"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -1111,7 +1294,7 @@
         <translation>Numero di aggiornamenti dei contatti da mostrare nel sentiero</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsApproach.qml" line="34"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsApproach.qml" line="32"/>
         <source>All</source>
         <translation>Tutti</translation>
     </message>
@@ -1119,31 +1302,32 @@
 <context>
     <name>OptionsDlg</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="42"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="33"/>
         <source>General</source>
         <translation>Generale</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="35"/>
         <source>Map</source>
-        <translation type="obsolete">Mappa</translation>
+        <translation type="unfinished">Mappa</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="43"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="34"/>
         <source>Items</source>
         <translation>Oggetti</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="44"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="36"/>
         <source>Labels</source>
         <translation>Etichette</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="45"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="37"/>
         <source>Approach</source>
         <translation>Approccio</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="46"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsDlg.qml" line="38"/>
         <source>Shortcuts</source>
         <translation>Scorciatoie</translation>
     </message>
@@ -1320,48 +1504,63 @@
         <translation type="vanished">Selezionare un tema per l&apos;applicazione (necessita riavvio applicazione):</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="22"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="26"/>
         <source>Choose a language:</source>
         <translation>Scegli una lingua:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="30"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="61"/>
         <source>Choose a theme for the application:</source>
         <translation>Scegli un tema per l&apos;applicazione:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="37"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="141"/>
         <source>Play sound on new messages</source>
         <translation>Suona per i nuovi messaggi</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="43"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="104"/>
         <source>Performances</source>
         <translation>Prestazioni</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="48"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="37"/>
+        <source>Interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="43"/>
+        <source>Change size of UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="75"/>
+        <source>Choose a variation color for the application:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="110"/>
         <source>Graphical effects:</source>
         <translation>Effetti grafici:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="60"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="122"/>
         <source>Change graphic engine [current=%1]:</source>
         <comment>The %1 will be replacing by current engine: auto,opengl, directx...</comment>
         <translation>Cambia engine grafico [current=%1]:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="67"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="129"/>
         <source>Antialiasing:</source>
         <translation>Antialiasing:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="77"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="89"/>
         <source>Restore default dock and windows positions</source>
         <translation>Ripristina posizioni e ancoraggi di default delle finestre</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="88"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="146"/>
         <source>(*) : Need application restart</source>
         <translation>(*) : Necessita riavvio applicazione</translation>
     </message>
@@ -1370,7 +1569,7 @@
         <translation type="vanished">Ripristina attracchi e posizioni di default delle finestre (necessita riavvio applicazione)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="79"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="91"/>
         <source>Click to reset</source>
         <translation>Clicca per reset</translation>
     </message>
@@ -1378,82 +1577,87 @@
 <context>
     <name>OptionsItem</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="34"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="66"/>
         <source>Choose symbology</source>
         <translation>Selezionare la simbologia</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="46"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="27"/>
         <source>Define color for items</source>
         <translation>Definire colore degli oggetti</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="51"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="32"/>
         <source>Friends</source>
         <translation>Amici</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="55"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="36"/>
         <source>Please choose a color for friends unit</source>
         <translation>Prego scegliere un colore per le unità amiche</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="61"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="41"/>
         <source>Enemies</source>
         <translation>Nemici</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="65"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="45"/>
         <source>Please choose a color for enemies unit</source>
         <translation>Prego scegliere un colore per le unità nemiche</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="70"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="49"/>
         <source>Neutral</source>
         <translation>Neutrali</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="74"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="53"/>
         <source>Please choose a color for neutral unit</source>
         <translation>Prego scegliere un colore per le unità neutrali</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="82"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="62"/>
+        <source>Items parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="77"/>
         <source>Define size of Item</source>
         <translation>Definire la dimensione degli oggetti</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="91"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="127"/>
         <source>Define opacity of circles</source>
         <translation>Definire l&apos;opacità dei cerchi</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="96"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="132"/>
         <source>Detection:</source>
         <translation>Individuazione:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="113"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="147"/>
         <source>Threat:</source>
         <translation>Minaccia:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="133"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="90"/>
         <source>Define speed vector mode (put at 0s for zoom independent)</source>
         <translation>Definisce la modalità del vettore velocità (inserire 0s per renderlo indipendente dallo zoom)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="153"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="108"/>
         <source>Zoom independent</source>
         <translation>Indipendente dallo zoom</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="153"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="108"/>
         <source>%1 seconds</source>
         <translation>%1 secondi</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="156"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="111"/>
         <source>Define number of ghost</source>
         <translation>Definire numero di fantasmi</translation>
     </message>
@@ -1461,60 +1665,171 @@
 <context>
     <name>OptionsLabel</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="37"/>
         <source>Define labels for friends</source>
-        <translation>Definire le etichette per gli amici</translation>
+        <translation type="vanished">Definire le etichette per gli amici</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="42"/>
         <source>Define labels for enemies</source>
-        <translation>Definire le etichette per i nemici</translation>
+        <translation type="vanished">Definire le etichette per i nemici</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="18"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="19"/>
+        <source>Parameters</source>
+        <translation type="unfinished">Parametri</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="23"/>
         <source>Show background for label (Key: Alt+L)</source>
         <translation>Mostra lo sfondo delle etichette (Key: Alt+L)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="26"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="29"/>
         <source>Size of font label:</source>
         <translation>Dimensione font etichette:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="58"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="40"/>
+        <source>Background:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="44"/>
+        <source>Please choose a color for label background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="48"/>
+        <source>Foreground:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="52"/>
+        <source>Please choose a color for label foreground</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="56"/>
+        <source>Background mode alert 1:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="60"/>
+        <source>Please choose a color for label background in simple alert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="64"/>
+        <source>Background mode alert 2:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="68"/>
+        <source>Please choose a color for label background in alert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="76"/>
+        <source>Define contents for labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="79"/>
+        <source>Friend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="80"/>
+        <source>Others</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enemies</source>
+        <translation type="obsolete">Nemici</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="126"/>
         <source>Available values:</source>
         <translation>Valori disponibili:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="68"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="138"/>
+        <source>Full documentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Click here to access to full documentation</source>
-        <translation>Cliccare qui per accedere alla documentazione completa</translation>
+        <translation type="vanished">Cliccare qui per accedere alla documentazione completa</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsMap</name>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsMap.qml" line="19"/>
+        <source>Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsMap.qml" line="23"/>
+        <source>Measure line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsMap.qml" line="28"/>
+        <source>Please choose a color for measure line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsMap.qml" line="32"/>
+        <source>Measure line background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsMap.qml" line="37"/>
+        <source>Please choose a color for background measure line label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsMap.qml" line="41"/>
+        <source>BRAA line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsMap.qml" line="46"/>
+        <source>Please choose a color for braa</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsShortcut</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsShortcut.qml" line="13"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsShortcut.qml" line="23"/>
         <source>You can change shortcuts here, just double-clic on it to change it.</source>
         <translation>Qui puoi cambiare le scorciatoie, basta fare doppio click per cambiarlo.</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsShortcut.qml" line="19"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsShortcut.qml" line="54"/>
+        <source>Click on a shortcut to edit it</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/OptionsShortcut.qml" line="63"/>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Name</source>
-        <translation>Nome</translation>
+        <translation type="vanished">Nome</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsShortcut.qml" line="21"/>
         <source>Shortcut</source>
-        <translation>Scorciatoia</translation>
+        <translation type="vanished">Scorciatoia</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsShortcut.qml" line="43"/>
         <source>Edit</source>
-        <translation>Modifica</translation>
+        <translation type="vanished">Modifica</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsShortcut.qml" line="48"/>
+        <location filename="../lotatc/client/resources/qml/client/OptionsShortcut.qml" line="68"/>
         <source>Restore</source>
         <translation>Ripristina</translation>
     </message>
@@ -1530,83 +1845,97 @@
 <context>
     <name>PageBraa</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="22"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="241"/>
         <source>Show BRAA on map:</source>
         <translation>Mostra BRAA sulla mappa:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="39"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="247"/>
         <source>Show BRAA text:</source>
         <translation>Mostra BRAA testuale:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="53"/>
         <source>List of all BRAA in use</source>
-        <translation>Lista dei BRAA impiegati</translation>
+        <translation type="vanished">Lista dei BRAA impiegati</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="69"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="51"/>
         <source>Show</source>
         <translation> Mostra</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="107"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="89"/>
         <source>SendIt</source>
         <translation>Invia</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="161"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="143"/>
         <source>Name</source>
         <translation type="unfinished">Nome</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="166"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="160"/>
         <source>Unit</source>
         <translation>Unità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="162"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="144"/>
         <source>Target</source>
         <translation>Target</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="182"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="176"/>
         <source>Mode</source>
         <translation>Modalità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="29"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="260"/>
         <source>Send to pilot every:</source>
         <translation>Invia al pilota ogni:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="48"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="255"/>
         <source>Send to pilot with unit</source>
         <translation>Invia al pilota con l&apos;unità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="12"/>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="163"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="13"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="145"/>
         <source>BRAA</source>
         <translation>BRAA</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="171"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="24"/>
+        <source>list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="25"/>
+        <source>Options</source>
+        <translation type="unfinished">Opzioni</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="148"/>
+        <source>Interception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="165"/>
         <source>METRIC</source>
         <translation>METRICO</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="171"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="165"/>
         <source>IMPERIAL</source>
         <translation>IMPERIALE</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="211"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="205"/>
         <source>Delete selected</source>
         <translation>Cancella selezionato</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="228"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="222"/>
         <source>Delete all</source>
         <translation>Cancella tutto</translation>
     </message>
@@ -1623,7 +1952,7 @@
 <context>
     <name>PageChat</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageChat.qml" line="11"/>
+        <location filename="../lotatc/client/resources/qml/client/PageChat.qml" line="12"/>
         <source>Chat</source>
         <translation>Chat</translation>
     </message>
@@ -1632,7 +1961,7 @@
         <translation type="vanished">Canale corrente:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageChat.qml" line="59"/>
+        <location filename="../lotatc/client/resources/qml/client/PageChat.qml" line="64"/>
         <source>Text to send...</source>
         <translation>Testo da inviare...</translation>
     </message>
@@ -1644,165 +1973,184 @@
 <context>
     <name>PageDraw</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="15"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="14"/>
         <source>Draw</source>
         <translation>Disegno</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="79"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="83"/>
         <source>Please choose a font</source>
         <translation>Prego scegliere un font</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="132"/>
         <source>Show draw</source>
-        <translation>Mostra disegno</translation>
+        <translation type="vanished">Mostra disegno</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="140"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="156"/>
         <source>Edit Mode</source>
         <translation>Modalità di modifica</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="150"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="172"/>
         <source>Actions</source>
         <translation>Azioni</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="212"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="241"/>
         <source>Delete All</source>
         <translation>Cancella tutto</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="214"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="243"/>
         <source>All private draws</source>
         <translation>Tutti i Disegni privati</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="218"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="247"/>
         <source>All shared draws (WARNING)</source>
         <translation>Tutti i Disegni Condivisi (ATTENZIONE)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="224"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="255"/>
         <source>Delete</source>
         <translation>Cancella</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="157"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="182"/>
         <source>New draw</source>
         <translation>Nuovo Disegno</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="93"/>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="109"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="97"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="113"/>
         <source>Please choose a file</source>
         <translation>Prego scegliere un file</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="172"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="164"/>
+        <source>Add text on coordinates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="197"/>
         <source>Shared</source>
         <translation>Condiviso</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="174"/>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="193"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="199"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="222"/>
         <source>Circle</source>
         <translation>Cerchio</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="178"/>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="197"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="204"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="226"/>
         <source>Line</source>
         <translation>Linea</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="182"/>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="201"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="209"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="230"/>
         <source>Polygon</source>
         <translation>Poligono</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="186"/>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="205"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="214"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="234"/>
         <source>Text</source>
         <translation>Testo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="191"/>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="261"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="220"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="323"/>
         <source>Private</source>
         <translation>Privato</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="235"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="266"/>
         <source>Save to file...</source>
         <translation>Salva su file...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="239"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="270"/>
         <source>Load from file...</source>
         <translation>Carica da file...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="247"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="279"/>
+        <source>Select a draw:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="295"/>
         <source>Parameters</source>
         <translation>Parametri</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="253"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="303"/>
+        <source>Name:</source>
+        <translation type="unfinished">Nome:</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="308"/>
+        <source>Enter name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="315"/>
         <source>Author:</source>
         <translation>Autore:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="269"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="331"/>
         <source>Make it public:</source>
         <translation>Rendi pubblico:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="281"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="344"/>
         <source>Share it</source>
         <translation>Condividilo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="289"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="352"/>
         <source>Text:</source>
         <translation>Testo:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="295"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="358"/>
         <source>Enter text to display</source>
         <translation>Inserire il testo da visualizzare</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="304"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="367"/>
         <source>Font:</source>
         <translation>Font:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="310"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="373"/>
         <source>Choose font</source>
         <translation>Selezionare font</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="319"/>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="324"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="382"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="387"/>
         <source>Foreground color</source>
         <translation>Colore in primo piano</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="335"/>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="341"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="398"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="404"/>
         <source>Background color</source>
         <translation>Colore di sfondo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="351"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="414"/>
         <source>Line width</source>
         <translation>Spessore linea</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="372"/>
+        <location filename="../lotatc/client/resources/qml/client/PageDraw.qml" line="435"/>
         <source>Style</source>
         <translation>Stile</translation>
     </message>
@@ -1810,78 +2158,93 @@
 <context>
     <name>PageGraph</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="15"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="17"/>
         <source>Glide %1</source>
         <translation>Sentiero discesa %1</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="203"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="227"/>
         <source>Please choose a file</source>
         <translation>Prego scegliere un file</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="231"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="24"/>
         <source>Actions</source>
         <translation>Azioni</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="235"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="370"/>
         <source>Release approach</source>
         <translation>Rifiuta approccio</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="239"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="26"/>
         <source>Save graph</source>
         <translation>Salva il grafico</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="249"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="256"/>
+        <source>Items</source>
+        <translation type="unfinished">Oggetti</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="257"/>
+        <source>Airport</source>
+        <translation type="unfinished">Aeroporto</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="258"/>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="390"/>
         <source>Show labels</source>
         <translation>Mostra etichette</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="257"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="398"/>
         <source>Show circles on map</source>
         <translation>Mostra cerchi in mappa</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="267"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="408"/>
         <source>Steady level:</source>
         <translation>Livello stabile:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="285"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="426"/>
         <source>Minima:</source>
         <translation>Minima:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="303"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="444"/>
         <source>LSLLC:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="344"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="292"/>
         <source>Show</source>
         <translation>Mostra</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="390"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="341"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="394"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="350"/>
         <source>Distance(%1)</source>
         <comment>%1 will be replaced by unit: km</comment>
         <translation>Distanza(%1)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="456"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="526"/>
         <source>Glide</source>
         <translation>Sentiero discesa</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="666"/>
+        <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="738"/>
         <source>Azimuth</source>
         <translation>Azimuth</translation>
     </message>
@@ -1897,109 +2260,121 @@
 <context>
     <name>PageMap</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="57"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="54"/>
         <source>Options</source>
         <translation>Opzioni</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="82"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="53"/>
         <source>Filters</source>
         <translation>Filtri</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="87"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="80"/>
+        <source>Layers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="115"/>
+        <source>Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="121"/>
+        <source>Land</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="130"/>
+        <source>Sea</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="142"/>
+        <source>Advanced</source>
+        <translation type="unfinished">Avanzato</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="197"/>
         <source>Altitude filter</source>
         <translation>Filtri Altitudine</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="118"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="236"/>
         <source>Speed filter</source>
         <translation>Filtri Velocità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="168"/>
         <source>Layers:</source>
-        <translation>Strati:</translation>
+        <translation type="vanished">Strati:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="192"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="103"/>
         <source>Please choose a color for layer</source>
         <translation>Prego scegliere un colore per lo strato</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="202"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="274"/>
+        <source>Hide ground units</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="298"/>
+        <source>Show draw</source>
+        <translation type="unfinished">Mostra disegno</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="304"/>
         <source>Coordinates format</source>
         <translation>Formato Coordinate</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="215"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="318"/>
         <source>Example: %1</source>
         <translation>Esempio: %1</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="218"/>
         <source>Land color</source>
-        <translation>Colore Terreno</translation>
+        <translation type="vanished">Colore Terreno</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="223"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="126"/>
         <source>Please choose a color for land</source>
         <translation>Prego scegliere un colore per il terreno</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="228"/>
         <source>Sea color</source>
-        <translation>Colore Mare</translation>
+        <translation type="vanished">Colore Mare</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="233"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="135"/>
         <source>Please choose a color for sea</source>
         <translation>Prego scegliere un colore per il mare</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="12"/>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="152"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="14"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="52"/>
         <source>Map</source>
         <translation>Mappa</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="158"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="66"/>
         <source>Choose a map:</source>
         <translation type="unfinished">Scegli una mappa:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="238"/>
-        <source>Measure line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="243"/>
-        <source>Please choose a color for measure line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="248"/>
-        <source>BRAA line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="253"/>
-        <source>Please choose a color for braa</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="258"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="148"/>
         <source>Brightness</source>
         <translation>Luminosità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="278"/>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="303"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="166"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="189"/>
         <source>Default</source>
         <translation>Default</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="282"/>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="170"/>
         <source>Contrast</source>
         <translation>Contrasto</translation>
     </message>
@@ -2007,27 +2382,27 @@
 <context>
     <name>PageObjects</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageObjects.qml" line="13"/>
+        <location filename="../lotatc/client/resources/qml/client/PageObjects.qml" line="14"/>
         <source>Objects</source>
         <translation>Oggetti</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageObjects.qml" line="33"/>
+        <location filename="../lotatc/client/resources/qml/client/PageObjects.qml" line="34"/>
         <source>Enter text to filter...</source>
         <translation>Inserisci il testo da filtrare...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageObjects.qml" line="71"/>
+        <location filename="../lotatc/client/resources/qml/client/PageObjects.qml" line="72"/>
         <source>Coalition</source>
         <translation>Coalizione</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageObjects.qml" line="87"/>
+        <location filename="../lotatc/client/resources/qml/client/PageObjects.qml" line="88"/>
         <source>Category</source>
         <translation>Categoria</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageObjects.qml" line="108"/>
+        <location filename="../lotatc/client/resources/qml/client/PageObjects.qml" line="109"/>
         <source>Human</source>
         <translation>Umano</translation>
     </message>
@@ -2035,12 +2410,31 @@
 <context>
     <name>PageProperties</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="13"/>
         <source>Properties</source>
-        <translation>Proprietà</translation>
+        <translation type="vanished">Proprietà</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="63"/>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="15"/>
+        <source>Properties %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="15"/>
+        <source>Selection&apos;s properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="22"/>
+        <source>Actions</source>
+        <translation type="unfinished">Azioni</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="24"/>
+        <source>Pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageProperties.qml" line="68"/>
         <source>Select an item/airport to see its properties</source>
         <translation>Selezionare un oggetto/aeroporto per vedere le sue proprietà</translation>
     </message>
@@ -2091,17 +2485,17 @@
 <context>
     <name>PageRadio</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="11"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="12"/>
         <source>Radio</source>
         <translation>Radio</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="26"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="27"/>
         <source>Airport</source>
         <translation>Aeroporto</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="39"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="40"/>
         <source>Radar</source>
         <translation>Radar</translation>
     </message>
@@ -2114,47 +2508,45 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
 &lt;b&gt;Versione Supporto: 0.0.1.x&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="109"/>
         <source>Radios</source>
-        <translation>Radio</translation>
+        <translation type="vanished">Radio</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="115"/>
         <source>Location not defined</source>
-        <translation>Posizione non definita</translation>
+        <translation type="vanished">Posizione non definita</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="136"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="109"/>
         <source>Location</source>
         <translation>Posizione</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="141"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="148"/>
         <source>Current Location:%1</source>
         <translation>Posizione corrente:%1</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="141"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="148"/>
         <source>NOT DEFINED</source>
         <translation>NON DEFINITO</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="160"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="167"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="161"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="168"/>
         <source>Type</source>
         <translation>Tipo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="167"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="174"/>
         <source>Refresh list (not automatic)</source>
         <translation>Aggiorna lista (non automatico)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="172"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="179"/>
         <source>Set my position to selected one</source>
         <translation>Imposta la mia posizione su quella selezionata</translation>
     </message>
@@ -2163,7 +2555,7 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="vanished">Solo supporto disponibile da &lt;a href=&apos;http://tacnoworld.fr/UniversRadio/&apos;&gt;Progetto Universal Radio&lt;/a&gt;&lt;br /&gt;Questo progetto è al momento in fase Beta e realizzato da Tacno di &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="76"/>
+        <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="75"/>
         <source>Radio enabled</source>
         <translation>Radio abilitata</translation>
     </message>
@@ -2251,12 +2643,12 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="vanished">Velocità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="251"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="254"/>
         <source>Description</source>
         <translation>Descrizione</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="261"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="255"/>
         <source>Tasks</source>
         <translation>Compiti</translation>
     </message>
@@ -2313,7 +2705,7 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="obsolete">8000m</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="275"/>
+        <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="281"/>
         <source>Waiting for mission datas...</source>
         <translation>In attesa dei dati di missione...</translation>
     </message>
@@ -2486,19 +2878,38 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
     </message>
 </context>
 <context>
+    <name>ServerModel</name>
+    <message>
+        <location filename="../lotatc/client/ServerModel.cpp" line="116"/>
+        <source>New</source>
+        <comment>New bookmark</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/ServerModel.cpp" line="151"/>
+        <source>Default Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/ServerModel.cpp" line="153"/>
+        <source>Default Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Splash</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/Splash.qml" line="38"/>
+        <location filename="../lotatc/client/resources/qml/client/Splash.qml" line="40"/>
         <source>There is something wrong with your license. Please contact support.</source>
         <translation>Riscontrati problemi con la Vostra licenza. Si prega di contattare il supporto.</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/Splash.qml" line="38"/>
+        <location filename="../lotatc/client/resources/qml/client/Splash.qml" line="40"/>
         <source>Not registered&lt;br&gt;Put your %1 in the &lt;u&gt;%2 directory&lt;/u&gt;</source>
         <translation>&lt;br&gt; non registrato Mettete il vostro %1 nella &lt;u&gt;cartella %2&lt;/u&gt;</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/Splash.qml" line="49"/>
+        <location filename="../lotatc/client/resources/qml/client/Splash.qml" line="51"/>
         <source>If you do not have a license key &lt;u&gt;click HERE&lt;/u&gt; to buy one!</source>
         <translation>Se non si è in possesso di una licenza &lt;u&gt; cliccare QUI&lt;/u&gt; per acquistarne una!</translation>
     </message>
@@ -2595,9 +3006,8 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="vanished">Radar</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/TrollerList.qml" line="11"/>
         <source>My settings</source>
-        <translation>Mie Impostazioni</translation>
+        <translation type="vanished">Mie Impostazioni</translation>
     </message>
     <message>
         <source>Choose my position</source>
@@ -2612,9 +3022,14 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="vanished">Tipo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/TrollerList.qml" line="24"/>
+        <location filename="../lotatc/client/resources/qml/client/TrollerList.qml" line="11"/>
         <source>Coalition trollers</source>
         <translation>Controllori coalizione</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/TrollerList.qml" line="24"/>
+        <source>List of airports</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2633,81 +3048,91 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
 <context>
     <name>main</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="12"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="13"/>
         <source>(Not registered)</source>
         <translation>(Non registrato)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="160"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="261"/>
         <source>Disconnected</source>
         <translation>Disconnesso</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="167"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="268"/>
         <source>Connection and authentification OK</source>
         <translation>Connessione e autenticazione OK</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="173"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="277"/>
         <source>Connection and authentification error: </source>
         <translation>Errore di Connessione e/o autenticazione:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="195"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="299"/>
         <source>New mission received, load datas from server</source>
         <translation>Ricevuta nuova Missione, caricamento dati dal Server in corso</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="208"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="312"/>
         <source>Connection error: </source>
         <translation>Errore di Connessione:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="360"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="316"/>
+        <source>New version available: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="453"/>
         <source>Arcade</source>
         <comment>profile</comment>
         <translation>Arcade</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="361"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="454"/>
         <source>Basic</source>
         <comment>profile</comment>
         <translation>Basico</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="362"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="455"/>
         <source>Realistic</source>
         <comment>profile</comment>
         <translation>Realistico</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="363"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="456"/>
         <source>Custom</source>
         <comment>profile</comment>
         <translation>Personalizzato</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="364"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="457"/>
         <source>Mission</source>
         <comment>profile</comment>
         <translation>Missione</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="365"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="458"/>
         <source>Advance realistic</source>
         <comment>profile</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="605"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="692"/>
         <source>Tactical View</source>
         <translation>Vista Tattica</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="673"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="777"/>
         <source>Connecting to %1:%2...</source>
         <comment>%1 will be replaced by server, %2 by port</comment>
         <translation>Collegando a %1:%2...</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="779"/>
+        <source>Not connected - not registered</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -2795,7 +3220,7 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="obsolete">Svedese</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="673"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="780"/>
         <source>Not connected</source>
         <translation>Non connesso</translation>
     </message>
@@ -2804,24 +3229,22 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="vanished">In Connessione...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="802"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="880"/>
         <source>Change &amp;unit</source>
         <translation>Cambiare &amp;unità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="805"/>
         <source>Change unit</source>
-        <translation>Cambiare unità</translation>
+        <translation type="vanished">Cambiare unità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="809"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="886"/>
         <source>Show circles</source>
         <translation>Mostra cerchi</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="812"/>
         <source>Show detection/threat circles</source>
-        <translation>Mostra cerchi di identificazione/minaccia</translation>
+        <translation type="vanished">Mostra cerchi di identificazione/minaccia</translation>
     </message>
     <message>
         <source>Circles on</source>
@@ -2836,14 +3259,13 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="obsolete">Mostra/Nascondi i cerchi di identificazione/minaccia</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="816"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="892"/>
         <source>Show background label</source>
         <translation>Mostra le etichette di fondo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="819"/>
         <source>Show/Hide background labels</source>
-        <translation>Mostra/Nascondi le etichette di fondo</translation>
+        <translation type="vanished">Mostra/Nascondi le etichette di fondo</translation>
     </message>
     <message>
         <source>Disable fullscreen</source>
@@ -2854,9 +3276,8 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="obsolete">Abilita tutto schermo</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="838"/>
         <source>Show fullscreen</source>
-        <translation>Mostra tutto schermo</translation>
+        <translation type="vanished">Mostra tutto schermo</translation>
     </message>
 </context>
 <context>
