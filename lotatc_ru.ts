@@ -163,47 +163,47 @@
         <translation type="obsolete">TACAN</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="95"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="104"/>
         <source>Open a chart view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="107"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="116"/>
         <source>METAR : %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="117"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="126"/>
         <source>Create ATIS on:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="170"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="187"/>
         <source>Take approach</source>
         <translation type="unfinished">Подход</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="170"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="187"/>
         <source>Release approach</source>
         <translation type="unfinished">Убрать окно</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="200"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="219"/>
         <source>No control available</source>
         <translation type="unfinished">Без контроля</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="213"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="232"/>
         <source>ILS available on %1MHz</source>
         <translation type="unfinished">ILS работает на %1MHz </translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="216"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="235"/>
         <source>No ILS</source>
         <translation type="unfinished">Без ILS </translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="219"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="238"/>
         <source>Current controllers</source>
         <translation type="unfinished">Контроль </translation>
     </message>
@@ -327,7 +327,7 @@
 <context>
     <name>ChatMessage</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ChatMessage.qml" line="45"/>
+        <location filename="../lotatc/client/resources/qml/client/ChatMessage.qml" line="51"/>
         <source>Me:</source>
         <translation>Я:</translation>
     </message>
@@ -1512,10 +1512,9 @@
         <translation>Эффекты графики:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="122"/>
         <source>Change graphic engine [current=%1]:</source>
         <comment>The %1 will be replacing by current engine: auto,opengl, directx...</comment>
-        <translation>Выбор графического движка [текущий=%1]:</translation>
+        <translation type="vanished">Выбор графического движка [текущий=%1]:</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="129"/>
@@ -1805,12 +1804,12 @@
 <context>
     <name>PageBraa</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="241"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="250"/>
         <source>Show BRAA on map:</source>
         <translation>Показать BRAA на карте:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="247"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="256"/>
         <source>Show BRAA text:</source>
         <translation>Показать текст BRAA:</translation>
     </message>
@@ -1833,7 +1832,7 @@
         <translation>Послать это</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="160"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="169"/>
         <source>Unit</source>
         <translation>Юнит</translation>
     </message>
@@ -1869,37 +1868,37 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="165"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="174"/>
         <source>METRIC</source>
         <translation>Метрическая</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="165"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="174"/>
         <source>IMPERIAL</source>
         <translation>Английская</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="176"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="185"/>
         <source>Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="205"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="214"/>
         <source>Delete selected</source>
         <translation>Удалить выбранное</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="222"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="231"/>
         <source>Delete all</source>
         <translation>Удалить все</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="260"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="269"/>
         <source>Send to pilot every:</source>
         <translation>Послать каждому пилоту:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="255"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="264"/>
         <source>Send to pilot with unit</source>
         <translation type="unfinished"></translation>
     </message>

@@ -167,47 +167,47 @@
         <translation type="vanished">TACAN</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="95"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="104"/>
         <source>Open a chart view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="107"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="116"/>
         <source>METAR : %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="117"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="126"/>
         <source>Create ATIS on:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="170"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="187"/>
         <source>Take approach</source>
         <translation>进近</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="170"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="187"/>
         <source>Release approach</source>
         <translation type="unfinished">解除</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="200"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="219"/>
         <source>No control available</source>
         <translation>空管暂缺</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="213"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="232"/>
         <source>ILS available on %1MHz</source>
         <translation>ILS频率：%1MHz</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="216"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="235"/>
         <source>No ILS</source>
         <translation>无ILS</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="219"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="238"/>
         <source>Current controllers</source>
         <translation>当前空管</translation>
     </message>
@@ -331,7 +331,7 @@
 <context>
     <name>ChatMessage</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ChatMessage.qml" line="45"/>
+        <location filename="../lotatc/client/resources/qml/client/ChatMessage.qml" line="51"/>
         <source>Me:</source>
         <translation>自己：</translation>
     </message>
@@ -1550,10 +1550,9 @@
         <translation>图像效果：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="122"/>
         <source>Change graphic engine [current=%1]:</source>
         <comment>The %1 will be replacing by current engine: auto,opengl, directx...</comment>
-        <translation>选择图像引擎 [当前：%1]：</translation>
+        <translation type="vanished">选择图像引擎 [当前：%1]：</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="129"/>
@@ -1851,12 +1850,12 @@
 <context>
     <name>PageBraa</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="241"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="250"/>
         <source>Show BRAA on map:</source>
         <translation>在地图上显示BRAA信息：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="247"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="256"/>
         <source>Show BRAA text:</source>
         <translation>显示BRAA信息文本：</translation>
     </message>
@@ -1880,7 +1879,7 @@
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="160"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="169"/>
         <source>Unit</source>
         <translation>单位</translation>
     </message>
@@ -1890,17 +1889,17 @@
         <translation>目标</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="176"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="185"/>
         <source>Mode</source>
         <translation>模式</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="260"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="269"/>
         <source>Send to pilot every:</source>
         <translation>发送个每位飞行员：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="255"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="264"/>
         <source>Send to pilot with unit</source>
         <translation>发送给单个飞行员</translation>
     </message>
@@ -1926,22 +1925,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="165"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="174"/>
         <source>METRIC</source>
         <translation>公制</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="165"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="174"/>
         <source>IMPERIAL</source>
         <translation>英制</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="205"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="214"/>
         <source>Delete selected</source>
         <translation>删除所选</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="222"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="231"/>
         <source>Delete all</source>
         <translation>删除所有</translation>
     </message>

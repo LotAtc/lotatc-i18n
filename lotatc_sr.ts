@@ -120,48 +120,48 @@
         <translation type="vanished">TACAN</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="95"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="104"/>
         <source>Open a chart view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="107"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="116"/>
         <source>METAR : %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="117"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="126"/>
         <source>Create ATIS on:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="170"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="187"/>
         <source>Take approach</source>
         <translatorcomment>Is this a command to Start Approach on landing?</translatorcomment>
         <translation>Započeti Prilazak</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="170"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="187"/>
         <source>Release approach</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="200"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="219"/>
         <source>No control available</source>
         <translation>Kontrola nedostupna</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="213"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="232"/>
         <source>ILS available on %1MHz</source>
         <translation>ILS dostupan na %1MHz</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="216"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="235"/>
         <source>No ILS</source>
         <translation>ILS Nedostupan</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="219"/>
+        <location filename="../lotatc/client/resources/qml/client/AirportProperties.qml" line="238"/>
         <source>Current controllers</source>
         <translation>Trenutni kontrolori</translation>
     </message>
@@ -286,7 +286,7 @@
 <context>
     <name>ChatMessage</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/ChatMessage.qml" line="45"/>
+        <location filename="../lotatc/client/resources/qml/client/ChatMessage.qml" line="51"/>
         <source>Me:</source>
         <translation>Ja:</translation>
     </message>
@@ -1501,10 +1501,9 @@
         <translation>Grafički efekti</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="122"/>
         <source>Change graphic engine [current=%1]:</source>
         <comment>The %1 will be replacing by current engine: auto,opengl, directx...</comment>
-        <translation>Promeniti grafički engine [trenutno=%1]</translation>
+        <translation type="vanished">Promeniti grafički engine [trenutno=%1]</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="129"/>
@@ -1799,13 +1798,13 @@
 <context>
     <name>PageBraa</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="241"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="250"/>
         <source>Show BRAA on map:</source>
         <translatorcomment>BRAA: Skraćenica od &quot;Bearing Range Altitude Aspect.Deo komunikacionog koda američkog ratnog vazduhoplovstva koji nije obuhvaćen vojnom tajnom. Odnosi se na: Relativni ugao - Rastojanje - Visina - Aspekt (ka odredištu ili cilju).</translatorcomment>
         <translation>Prikaži BRAA na mapi:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="247"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="256"/>
         <source>Show BRAA text:</source>
         <translatorcomment>BRAA: Skraćenica od &quot;Bearing Range Altitude Aspect.Deo komunikacionog koda američkog ratnog vazduhoplovstva koji nije obuhvaćen vojnom tajnom. Odnosi se na: Relativni ugao - Rastojanje - Visina - Aspekt (ka odredištu ili cilju).</translatorcomment>
         <translation>Pokazati BRAA tekst:</translation>
@@ -1831,7 +1830,7 @@
         <translation type="unfinished">Ime</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="160"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="169"/>
         <source>Unit</source>
         <translation>Jedinica</translation>
     </message>
@@ -1841,17 +1840,17 @@
         <translation>Meta</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="176"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="185"/>
         <source>Mode</source>
         <translation>Režim</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="260"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="269"/>
         <source>Send to pilot every:</source>
         <translation>Poslati pilotu na svakih:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="255"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="264"/>
         <source>Send to pilot with unit</source>
         <translation>Poslati pilotu sa jedinicom</translation>
     </message>
@@ -1878,22 +1877,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="165"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="174"/>
         <source>METRIC</source>
         <translation>Metrički sistem mera (SI)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="165"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="174"/>
         <source>IMPERIAL</source>
         <translation>Imperijalni sistem mera</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="205"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="214"/>
         <source>Delete selected</source>
         <translation>Obrisati odabrano</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="222"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="231"/>
         <source>Delete all</source>
         <translation>Obrisati sve</translation>
     </message>
