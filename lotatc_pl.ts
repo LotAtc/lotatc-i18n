@@ -488,7 +488,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="208"/>
         <source>Change units</source>
-        <translation>Zmień jednostki</translation>
+        <translation>Zmień system miar</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="246"/>
@@ -1363,7 +1363,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="75"/>
         <source>Choose a variation color for the application:</source>
-        <translation>Wybierz zestaw koloru dla aplikacji:</translation>
+        <translation>Wybierz zestaw kolorów dla aplikacji:</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="110"/>
@@ -1557,7 +1557,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="80"/>
         <source>Others</source>
-        <translation>Inni</translation>
+        <translation>Pozostali</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsLabel.qml" line="126"/>
@@ -2021,7 +2021,7 @@
         <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="350"/>
         <source>Distance(%1)</source>
         <comment>%1 will be replaced by unit: km</comment>
-        <translation>Dystans(%1)</translation>
+        <translation>Dystans w %1</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageGraph.qml" line="526"/>
@@ -2348,7 +2348,7 @@
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="226"/>
         <source>Distance in %1</source>
         <comment>%1 is unit</comment>
-        <translation>Dystans w %1</translation>
+        <translation>Pułap w %1</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageWeather.qml" line="233"/>
