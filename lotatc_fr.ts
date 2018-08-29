@@ -1918,12 +1918,17 @@
         <translation>Mode</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="269"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="263"/>
+        <source>Show BRAA interception:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="276"/>
         <source>Send to pilot every:</source>
         <translation>Envoyer au pilote toutes les:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="264"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="271"/>
         <source>Send to pilot with unit</source>
         <translation>Envoyer au pilote avec l&apos;unité</translation>
     </message>
@@ -3187,18 +3192,18 @@
         <translation>Réaliste avancé</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="689"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="690"/>
         <source>Tactical View</source>
         <translation>Vue tactique</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="774"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="775"/>
         <source>Connecting to %1:%2...</source>
         <comment>%1 will be replaced by server, %2 by port</comment>
         <translation>Connection à %1:%2</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="776"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="777"/>
         <source>Not connected - not registered</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3288,7 +3293,7 @@
         <translation type="obsolete">Suédois</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="777"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="778"/>
         <source>Not connected</source>
         <translation>Non connecté</translation>
     </message>
@@ -3297,7 +3302,7 @@
         <translation type="vanished">Connexion...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="877"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="878"/>
         <source>Change &amp;unit</source>
         <translation>Changer d&apos;&amp;unité</translation>
     </message>
@@ -3306,7 +3311,7 @@
         <translation type="vanished">Changer d&apos;unité</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="883"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="884"/>
         <source>Show circles</source>
         <translation>Afficher cercles</translation>
     </message>
@@ -3327,7 +3332,7 @@
         <translation type="obsolete">Afficher/Cacher les cercles de détections/menaces</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="889"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="890"/>
         <source>Show background label</source>
         <translation>Afficher le fond des étiquettes</translation>
     </message>

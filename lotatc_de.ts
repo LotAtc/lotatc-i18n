@@ -1705,12 +1705,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="269"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="263"/>
+        <source>Show BRAA interception:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="276"/>
         <source>Send to pilot every:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="264"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="271"/>
         <source>Send to pilot with unit</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2851,18 +2856,18 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="689"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="690"/>
         <source>Tactical View</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="774"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="775"/>
         <source>Connecting to %1:%2...</source>
         <comment>%1 will be replaced by server, %2 by port</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="776"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="777"/>
         <source>Not connected - not registered</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2948,12 +2953,12 @@
         <translation type="obsolete">Russisch</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="777"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="778"/>
         <source>Not connected</source>
         <translation type="unfinished">Nicht verbunden</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="877"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="878"/>
         <source>Change &amp;unit</source>
         <translatorcomment>Is this unit (like: Tank) or like measurement/METRIC?
 And I&apos;m not sure about the &amp;Operator placement in the translated phrase</translatorcomment>
@@ -2964,7 +2969,7 @@ And I&apos;m not sure about the &amp;Operator placement in the translated phrase
         <translation type="obsolete">Einheit wechseln</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="883"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="884"/>
         <source>Show circles</source>
         <translation type="unfinished">Kreise anzeigen</translation>
     </message>
@@ -2987,7 +2992,7 @@ And I&apos;m not sure about the &amp;Operator placement in the translated phrase
         <translation type="obsolete">Waffen-/Beobachtungsringe ein-/ausblenden</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="889"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="890"/>
         <source>Show background label</source>
         <translatorcomment>Label OF the background or a background for/behind the label?</translatorcomment>
         <translation type="unfinished">Hintergrundlabels anzeigen</translation>

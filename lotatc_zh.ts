@@ -1894,12 +1894,17 @@
         <translation>模式</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="269"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="263"/>
+        <source>Show BRAA interception:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="276"/>
         <source>Send to pilot every:</source>
         <translation>发送个每位飞行员：</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="264"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="271"/>
         <source>Send to pilot with unit</source>
         <translation>发送给单个飞行员</translation>
     </message>
@@ -3185,18 +3190,18 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation>真实(高级)</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="689"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="690"/>
         <source>Tactical View</source>
         <translation>战术视角</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="774"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="775"/>
         <source>Connecting to %1:%2...</source>
         <comment>%1 will be replaced by server, %2 by port</comment>
         <translation>连接%1:%2...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="776"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="777"/>
         <source>Not connected - not registered</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3286,7 +3291,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="obsolete">俄文</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="777"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="778"/>
         <source>Not connected</source>
         <translation>没有连接</translation>
     </message>
@@ -3295,7 +3300,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="vanished">连接中...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="877"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="878"/>
         <source>Change &amp;unit</source>
         <translatorcomment>Does not used anymore</translatorcomment>
         <translation>改变单位(&amp;u)</translation>
@@ -3305,7 +3310,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="vanished">改变单位</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="883"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="884"/>
         <source>Show circles</source>
         <translation>显示区域范围</translation>
     </message>
@@ -3326,7 +3331,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="obsolete">显示/关闭 (舰船/防空导弹)雷达探测/威胁 区域</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="889"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="890"/>
         <source>Show background label</source>
         <translation>显示背景标签</translation>
     </message>

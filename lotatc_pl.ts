@@ -1686,12 +1686,17 @@
         <translation>Tryb</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="269"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="263"/>
+        <source>Show BRAA interception:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="276"/>
         <source>Send to pilot every:</source>
         <translation>Wysyłaj do pilota co każde:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="264"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="271"/>
         <source>Send to pilot with unit</source>
         <translation>Wysyłaj do pilota z jednostką</translation>
     </message>
@@ -2804,23 +2809,23 @@
         <translation>Zaawansowany realizm</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="689"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="690"/>
         <source>Tactical View</source>
         <translation>Widok Taktyczny</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="774"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="775"/>
         <source>Connecting to %1:%2...</source>
         <comment>%1 will be replaced by server, %2 by port</comment>
         <translation>Łączenie z %1:%2...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="776"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="777"/>
         <source>Not connected - not registered</source>
         <translation>Brak połączenia - wersja niezarejestrowana</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="883"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="884"/>
         <source>Show circles</source>
         <translation>Pokazuj okręgi</translation>
     </message>
@@ -2830,12 +2835,12 @@
         <translation type="obsolete">Zaawansowany</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="777"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="778"/>
         <source>Not connected</source>
         <translation>Niepołączony</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="877"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="878"/>
         <source>Change &amp;unit</source>
         <translatorcomment>if this &quot;unit&quot; means measurement unit translation is ok.</translatorcomment>
         <translation>Zmień system miar</translation>
@@ -2858,7 +2863,7 @@
         <translation type="obsolete">Pokaż/ukryj okręgi wykrycia/zagrożenia</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="889"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="890"/>
         <source>Show background label</source>
         <translation>Pokaż tło etykiet</translation>
     </message>

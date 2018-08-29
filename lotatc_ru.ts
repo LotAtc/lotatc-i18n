@@ -1893,12 +1893,17 @@
         <translation>Удалить все</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="269"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="263"/>
+        <source>Show BRAA interception:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="276"/>
         <source>Send to pilot every:</source>
         <translation>Послать каждому пилоту:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="264"/>
+        <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="271"/>
         <source>Send to pilot with unit</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3103,18 +3108,18 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="689"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="690"/>
         <source>Tactical View</source>
         <translation>Тактический вид</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="774"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="775"/>
         <source>Connecting to %1:%2...</source>
         <comment>%1 will be replaced by server, %2 by port</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="776"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="777"/>
         <source>Not connected - not registered</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3208,7 +3213,7 @@
         <translation type="obsolete">Шведский</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="777"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="778"/>
         <source>Not connected</source>
         <translation>Нет соединения</translation>
     </message>
@@ -3217,7 +3222,7 @@
         <translation type="vanished">Соединение...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="877"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="878"/>
         <source>Change &amp;unit</source>
         <translation>Изменен &amp;юнит</translation>
     </message>
@@ -3226,7 +3231,7 @@
         <translation type="vanished">Сменить юнит</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="883"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="884"/>
         <source>Show circles</source>
         <translation>Показать зоны</translation>
     </message>
@@ -3235,7 +3240,7 @@
         <translation type="vanished">Показать зоны обнаружения/угроз</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="889"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="890"/>
         <source>Show background label</source>
         <translation>Показать фоновые метки</translation>
     </message>
