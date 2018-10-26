@@ -545,107 +545,107 @@
 <context>
     <name>MapItemProperties</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="77"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="76"/>
         <source>Unknown</source>
         <translation>Nieznany</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="78"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="77"/>
         <source>TN: %1</source>
         <comment>Track Number of the unit</comment>
         <translation>TN: %1</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="93"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="92"/>
         <source>Group name</source>
         <translation>Nazwa grupy</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="95"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="94"/>
         <source>Transponder</source>
         <translation>Transponder</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="96"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="95"/>
         <source>Altitude</source>
         <translation>Wysokość</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="97"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="96"/>
         <source>Heading</source>
         <translation>Kierunek</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="98"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="97"/>
         <source>Ground Speed</source>
         <translation>Prędkość względem ziemi</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="100"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="99"/>
         <source>Vertical Indicator</source>
         <translation>Wskaźnik pionowy </translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="101"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="100"/>
         <source>Position</source>
         <translation>Pozycja</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="102"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="101"/>
         <source>BullsEye</source>
         <translatorcomment>Shall stay in english, polish translation makes no sense; everybody is using english word for this.</translatorcomment>
         <translation>BullsEye</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="106"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="105"/>
         <source>Detection range</source>
         <translation>Zasięg detekcji</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="108"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="107"/>
         <source>Threat range</source>
         <translation>Zasięg zagrożenia</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="141"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="140"/>
         <source>Name:</source>
         <comment>Name of the unit</comment>
         <translation>Nazwa:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="156"/>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="251"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="155"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="250"/>
         <source>Apply</source>
         <translation>Zastosuj</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="175"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="174"/>
         <source>Side:</source>
         <translation>Strona:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="202"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="201"/>
         <source>Symbol:</source>
         <translation>Symbol:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="236"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="235"/>
         <source>Comment:</source>
         <comment>Comment on the unit</comment>
         <translation>Komentarz:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="278"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="277"/>
         <source>Message:</source>
         <translation>Wiadomość:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="291"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="290"/>
         <source>Text to send...</source>
         <translation>Tekst do wysłania...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="298"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="297"/>
         <source>Show on map</source>
         <translation>Pokaż na mapie</translation>
     </message>
@@ -2091,6 +2091,11 @@
         <translation>Filtr prędkości</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="324"/>
+        <source>Show airport code instead of name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="103"/>
         <source>Please choose a color for layer</source>
         <translation>Wybierz kolor warstwy</translation>
@@ -2887,148 +2892,120 @@
 <context>
     <name>main_android</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="86"/>
         <source>Disconnected</source>
-        <translation>Rozłączony</translation>
+        <translation type="vanished">Rozłączony</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="93"/>
         <source>Connection and authentification OK</source>
-        <translation>Połączenie oraz uwierzytelnienie - OK</translation>
+        <translation type="vanished">Połączenie oraz uwierzytelnienie - OK</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="99"/>
         <source>Connection and authentification error: </source>
-        <translation>Błąd połączenia oraz uwierzytelnienia:</translation>
+        <translation type="vanished">Błąd połączenia oraz uwierzytelnienia:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="121"/>
         <source>New mission received, load datas from server</source>
-        <translation>Odebrano nową misję, trwa ładowanie danych z serwera</translation>
+        <translation type="vanished">Odebrano nową misję, trwa ładowanie danych z serwera</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="137"/>
         <source>Connection error: </source>
-        <translation>Błąd połączenia:</translation>
+        <translation type="vanished">Błąd połączenia:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="213"/>
         <source>Arcade</source>
         <comment>profile</comment>
-        <translation>Zręcznościowy</translation>
+        <translation type="vanished">Zręcznościowy</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="214"/>
         <source>Basic</source>
         <comment>profile</comment>
-        <translation>Podstawowy</translation>
+        <translation type="vanished">Podstawowy</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="215"/>
         <source>Realistic</source>
         <comment>profile</comment>
-        <translation>Realistyczny</translation>
+        <translation type="vanished">Realistyczny</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="216"/>
         <source>Custom</source>
         <comment>profile</comment>
-        <translation>Zdefiniowany</translation>
+        <translation type="vanished">Zdefiniowany</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="311"/>
         <source>Chat</source>
-        <translation>Chat</translation>
+        <translation type="vanished">Chat</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="316"/>
         <source>Properties</source>
-        <translation>Właściwości</translation>
+        <translation type="vanished">Właściwości</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="321"/>
         <source>Weather</source>
-        <translation>Pogoda</translation>
+        <translation type="vanished">Pogoda</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="326"/>
         <source>BRAA</source>
-        <translation>BRAA</translation>
+        <translation type="vanished">BRAA</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="331"/>
         <source>Map</source>
-        <translation>Mapa</translation>
+        <translation type="vanished">Mapa</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="336"/>
         <source>Glide</source>
-        <translation>Ścieżka</translation>
+        <translation type="vanished">Ścieżka</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="341"/>
         <source>Draw</source>
-        <translation>Rysowanie</translation>
+        <translation type="vanished">Rysowanie</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="348"/>
         <source>Airport</source>
-        <translation>Lotnisko</translation>
+        <translation type="vanished">Lotnisko</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="361"/>
         <source>SITAC</source>
-        <translation>SITAC</translation>
+        <translation type="vanished">SITAC</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="408"/>
         <source>Not connected</source>
-        <translation>Niepołączony</translation>
+        <translation type="vanished">Niepołączony</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="578"/>
         <source>Change &amp;unit</source>
-        <translation>Zmień system miar</translation>
+        <translation type="vanished">Zmień system miar</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="581"/>
         <source>Change unit</source>
-        <translation>Zmień system miar</translation>
+        <translation type="vanished">Zmień system miar</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="585"/>
         <source>Show circles</source>
-        <translation>Pokazuj okręgi</translation>
+        <translation type="vanished">Pokazuj okręgi</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="588"/>
         <source>Show detection/threat circles</source>
-        <translation>Pokazuj okręgi wykrycia/zagrożenia</translation>
+        <translation type="vanished">Pokazuj okręgi wykrycia/zagrożenia</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="592"/>
         <source>Show background label</source>
-        <translation>Pokaż tło etykiet</translation>
+        <translation type="vanished">Pokaż tło etykiet</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="595"/>
         <source>Show/Hide background labels</source>
-        <translation>Pokaż/ukryj tło etykiet</translation>
+        <translation type="vanished">Pokaż/ukryj tło etykiet</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="600"/>
         <source>Disable fullscreen</source>
-        <translation>Wyłącz tryb pełnoekranowy</translation>
+        <translation type="vanished">Wyłącz tryb pełnoekranowy</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="600"/>
         <source>Enable fullscreen</source>
-        <translation>Włącz tryb pełnoekranowy</translation>
+        <translation type="vanished">Włącz tryb pełnoekranowy</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="614"/>
         <source>Show fullscreen</source>
-        <translation>Pokaż w trybie pełnoekranowym</translation>
+        <translation type="vanished">Pokaż w trybie pełnoekranowym</translation>
     </message>
 </context>
 </TS>

@@ -552,106 +552,106 @@
 <context>
     <name>MapItemProperties</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="77"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="76"/>
         <source>Unknown</source>
         <translation type="unfinished">Okänd</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="78"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="77"/>
         <source>TN: %1</source>
         <comment>Track Number of the unit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="93"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="92"/>
         <source>Group name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="95"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="94"/>
         <source>Transponder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="96"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="95"/>
         <source>Altitude</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="97"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="96"/>
         <source>Heading</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="98"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="97"/>
         <source>Ground Speed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="100"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="99"/>
         <source>Vertical Indicator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="101"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="100"/>
         <source>Position</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="102"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="101"/>
         <source>BullsEye</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="106"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="105"/>
         <source>Detection range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="108"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="107"/>
         <source>Threat range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="141"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="140"/>
         <source>Name:</source>
         <comment>Name of the unit</comment>
         <translation type="unfinished">Namn:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="156"/>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="251"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="155"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="250"/>
         <source>Apply</source>
         <translation type="unfinished">Verkställ</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="175"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="174"/>
         <source>Side:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="202"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="201"/>
         <source>Symbol:</source>
         <translation type="unfinished">Ikon:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="236"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="235"/>
         <source>Comment:</source>
         <comment>Comment on the unit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="278"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="277"/>
         <source>Message:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="291"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="290"/>
         <source>Text to send...</source>
         <translation type="unfinished">Meddelande du vill skicka...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="298"/>
+        <location filename="../lotatc/client/resources/qml/client/MapItemProperties.qml" line="297"/>
         <source>Show on map</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2116,6 +2116,11 @@
         <translation>Höjdfilter</translation>
     </message>
     <message>
+        <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="324"/>
+        <source>Show airport code instead of name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="103"/>
         <source>Please choose a color for layer</source>
         <translation type="unfinished"></translation>
@@ -2991,148 +2996,99 @@
 <context>
     <name>main_android</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="86"/>
         <source>Disconnected</source>
-        <translation type="unfinished">Frånkopplad</translation>
+        <translation type="obsolete">Frånkopplad</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="93"/>
         <source>Connection and authentification OK</source>
-        <translation type="unfinished">Uppkoppling och autentisering OK</translation>
+        <translation type="obsolete">Uppkoppling och autentisering OK</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="99"/>
         <source>Connection and authentification error: </source>
-        <translation type="unfinished">Fel på uppkoppling och autentiseringsfel:</translation>
+        <translation type="obsolete">Fel på uppkoppling och autentiseringsfel:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="121"/>
         <source>New mission received, load datas from server</source>
-        <translation type="unfinished">Nytt uppdrag mottaget, laddar data från server</translation>
+        <translation type="obsolete">Nytt uppdrag mottaget, laddar data från server</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="137"/>
         <source>Connection error: </source>
-        <translation type="unfinished">Anslutningsfel:</translation>
+        <translation type="obsolete">Anslutningsfel:</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="213"/>
         <source>Arcade</source>
         <comment>profile</comment>
-        <translation type="unfinished">Arkad</translation>
+        <translation type="obsolete">Arkad</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="214"/>
         <source>Basic</source>
         <comment>profile</comment>
-        <translation type="unfinished">Normal</translation>
+        <translation type="obsolete">Normal</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="215"/>
         <source>Realistic</source>
         <comment>profile</comment>
-        <translation type="unfinished">Realistisk</translation>
+        <translation type="obsolete">Realistisk</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="216"/>
-        <source>Custom</source>
-        <comment>profile</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="311"/>
         <source>Chat</source>
-        <translation type="unfinished">Chatt</translation>
+        <translation type="obsolete">Chatt</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="316"/>
         <source>Properties</source>
-        <translation type="unfinished">Info</translation>
+        <translation type="obsolete">Info</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="321"/>
         <source>Weather</source>
-        <translation type="unfinished">Väder</translation>
+        <translation type="obsolete">Väder</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="326"/>
         <source>BRAA</source>
-        <translation type="unfinished">BRAA</translation>
+        <translation type="obsolete">BRAA</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="331"/>
         <source>Map</source>
-        <translation type="unfinished">Karta</translation>
+        <translation type="obsolete">Karta</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="336"/>
-        <source>Glide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="341"/>
-        <source>Draw</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="348"/>
-        <source>Airport</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="361"/>
-        <source>SITAC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="408"/>
         <source>Not connected</source>
-        <translation type="unfinished">Ej ansluten</translation>
+        <translation type="obsolete">Ej ansluten</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="578"/>
         <source>Change &amp;unit</source>
-        <translation type="unfinished">Ändra &amp;enhet</translation>
+        <translation type="obsolete">Ändra &amp;enhet</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="581"/>
         <source>Change unit</source>
-        <translation type="unfinished">Ändra enhet</translation>
+        <translation type="obsolete">Ändra enhet</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="585"/>
         <source>Show circles</source>
-        <translation type="unfinished">Visa cirklar</translation>
+        <translation type="obsolete">Visa cirklar</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="588"/>
         <source>Show detection/threat circles</source>
-        <translation type="unfinished">Visa upptäckt/hot- cirklar</translation>
+        <translation type="obsolete">Visa upptäckt/hot- cirklar</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="592"/>
         <source>Show background label</source>
-        <translation type="unfinished">Visa bakgrund på beteckning</translation>
+        <translation type="obsolete">Visa bakgrund på beteckning</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="595"/>
         <source>Show/Hide background labels</source>
-        <translation type="unfinished">Visa/dölj bakgrund på beteckningar</translation>
+        <translation type="obsolete">Visa/dölj bakgrund på beteckningar</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="600"/>
         <source>Disable fullscreen</source>
-        <translation type="unfinished">Stäng fullskärm</translation>
+        <translation type="obsolete">Stäng fullskärm</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="600"/>
         <source>Enable fullscreen</source>
-        <translation type="unfinished">Aktivera fullskärm</translation>
+        <translation type="obsolete">Aktivera fullskärm</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main_android.qml" line="614"/>
         <source>Show fullscreen</source>
-        <translation type="unfinished">Visa fullskärm</translation>
+        <translation type="obsolete">Visa fullskärm</translation>
     </message>
 </context>
 </TS>
