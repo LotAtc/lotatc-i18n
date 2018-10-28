@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pl_PL">
+<TS version="2.0" language="pl_PL">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -17,12 +17,12 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="28"/>
         <source>THANKS:</source>
-        <translation>Podziękowania:</translation>
+        <translation>Dziękuję:</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="37"/>
         <source>my squad: &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;</source>
-        <translation>mojemu oddziałowi: &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;</translation>
+        <translation>Mojemu oddziałowi: &lt;a href=&apos;http://www.3rd-wing.net&apos;&gt;3rd-wing&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="40"/>
@@ -42,7 +42,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="43"/>
         <source>all beta-testers and translators who help me</source>
-        <translation>wszysystkim beta-testertom oraz tłumaczom, którzy mi pomogli</translation>
+        <translation>Wszystkim beta-testerom oraz tłumaczom, którzy mi pomogli.</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/AboutDlg.qml" line="48"/>
@@ -478,12 +478,12 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="133"/>
         <source>Lock map scale/move</source>
-        <translation type="unfinished"></translation>
+        <translation>Zablokuj skalę/przesuwanie mapy</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="171"/>
         <source>Click to open %1</source>
-        <translation>Kliknij, aby otworzyć %1</translation>
+        <translation>Kliknij, aby otworzyć: %1</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="209"/>
@@ -498,7 +498,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="254"/>
         <source>Mission time, show/hide seconds</source>
-        <translation>Czas misji, pokaż/ukryj sekundy</translation>
+        <translation>Czas misji; pokaż/ukryj sekundy</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MainMenu.qml" line="266"/>
@@ -1016,7 +1016,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="368"/>
         <source>Disabled</source>
-        <translation>Wyłączony</translation>
+        <translation>Wył.</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="369"/>
@@ -1028,13 +1028,13 @@
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="370"/>
         <source>Mid (8x)</source>
         <comment>antialiasing to 8x</comment>
-        <translation>Średni (8x)</translation>
+        <translation>Śred.(8x)</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="371"/>
         <source>High (16x)</source>
         <comment>antialiasing to 16x</comment>
-        <translation>Wysoki (16x)</translation>
+        <translation>Wys.(16x)</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="388"/>
@@ -1362,7 +1362,7 @@
     </message>
     <message>
         <source>Change size of UI</source>
-        <translation type="vanished">Zmień rozmiar interfejsu</translation>
+        <translation>Zmień rozmiar interfejsu</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="75"/>
@@ -1382,7 +1382,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="89"/>
         <source>Restore default dock and windows positions</source>
-        <translation>Przywróć domyślne pozycje doków oraz okien</translation>
+        <translation>Przywróć domyślne pozycje doków oraz okien:</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="146"/>
@@ -1480,7 +1480,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsItem.qml" line="111"/>
         <source>Define number of ghost</source>
-        <translation>Zdefinuj liczbę duchów</translation>
+        <translation>Określ liczbę duchów</translation>
     </message>
 </context>
 <context>
@@ -1688,7 +1688,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="263"/>
         <source>Show BRAA interception:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokazuj BRAA przechwycenia:</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageBraa.qml" line="276"/>
@@ -2093,7 +2093,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="324"/>
         <source>Show airport code instead of name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokazuj kod lotniska zamiast jego nazwy</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageMap.qml" line="103"/>
@@ -2223,7 +2223,7 @@
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="vanished">Nieznany</translation>
+        <translation>Nieznany</translation>
     </message>
     <message>
         <source>Id: %1</source>
@@ -2233,15 +2233,15 @@
     <message>
         <source>Name:</source>
         <comment>Name of the unit</comment>
-        <translation type="vanished">Nazwa:</translation>
+        <translation>Nazwa:</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="vanished">Zastosuj</translation>
+        <translation>Zastosuj</translation>
     </message>
     <message>
         <source>Symbol:</source>
-        <translation type="vanished">Symbol:</translation>
+        <translation>Symbol:</translation>
     </message>
 </context>
 <context>
@@ -2893,119 +2893,119 @@
     <name>main_android</name>
     <message>
         <source>Disconnected</source>
-        <translation type="vanished">Rozłączony</translation>
+        <translation>Rozłączony</translation>
     </message>
     <message>
         <source>Connection and authentification OK</source>
-        <translation type="vanished">Połączenie oraz uwierzytelnienie - OK</translation>
+        <translation>Połączenie oraz uwierzytelnienie - OK</translation>
     </message>
     <message>
         <source>Connection and authentification error: </source>
-        <translation type="vanished">Błąd połączenia oraz uwierzytelnienia:</translation>
+        <translation>Błąd połączenia oraz uwierzytelnienia:</translation>
     </message>
     <message>
         <source>New mission received, load datas from server</source>
-        <translation type="vanished">Odebrano nową misję, trwa ładowanie danych z serwera</translation>
+        <translation>Odebrano nową misję, trwa ładowanie danych z serwera</translation>
     </message>
     <message>
         <source>Connection error: </source>
-        <translation type="vanished">Błąd połączenia:</translation>
+        <translation>Błąd połączenia:</translation>
     </message>
     <message>
         <source>Arcade</source>
         <comment>profile</comment>
-        <translation type="vanished">Zręcznościowy</translation>
+        <translation>Zręcznościowy</translation>
     </message>
     <message>
         <source>Basic</source>
         <comment>profile</comment>
-        <translation type="vanished">Podstawowy</translation>
+        <translation>Podstawowy</translation>
     </message>
     <message>
         <source>Realistic</source>
         <comment>profile</comment>
-        <translation type="vanished">Realistyczny</translation>
+        <translation>Realistyczny</translation>
     </message>
     <message>
         <source>Custom</source>
         <comment>profile</comment>
-        <translation type="vanished">Zdefiniowany</translation>
+        <translation>Zdefiniowany</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Chat</translation>
+        <translation>Chat</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="vanished">Właściwości</translation>
+        <translation>Właściwości</translation>
     </message>
     <message>
         <source>Weather</source>
-        <translation type="vanished">Pogoda</translation>
+        <translation>Pogoda</translation>
     </message>
     <message>
         <source>BRAA</source>
-        <translation type="vanished">BRAA</translation>
+        <translation>BRAA</translation>
     </message>
     <message>
         <source>Map</source>
-        <translation type="vanished">Mapa</translation>
+        <translation>Mapa</translation>
     </message>
     <message>
         <source>Glide</source>
-        <translation type="vanished">Ścieżka</translation>
+        <translation>Ścieżka</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="vanished">Rysowanie</translation>
+        <translation>Rysowanie</translation>
     </message>
     <message>
         <source>Airport</source>
-        <translation type="vanished">Lotnisko</translation>
+        <translation>Lotnisko</translation>
     </message>
     <message>
         <source>SITAC</source>
-        <translation type="vanished">SITAC</translation>
+        <translation>SITAC</translation>
     </message>
     <message>
         <source>Not connected</source>
-        <translation type="vanished">Niepołączony</translation>
+        <translation>Niepołączony</translation>
     </message>
     <message>
         <source>Change &amp;unit</source>
-        <translation type="vanished">Zmień system miar</translation>
+        <translation>Zmień system miar</translation>
     </message>
     <message>
         <source>Change unit</source>
-        <translation type="vanished">Zmień system miar</translation>
+        <translation>Zmień system miar</translation>
     </message>
     <message>
         <source>Show circles</source>
-        <translation type="vanished">Pokazuj okręgi</translation>
+        <translation>Pokazuj okręgi</translation>
     </message>
     <message>
         <source>Show detection/threat circles</source>
-        <translation type="vanished">Pokazuj okręgi wykrycia/zagrożenia</translation>
+        <translation>Pokazuj okręgi wykrycia/zagrożenia</translation>
     </message>
     <message>
         <source>Show background label</source>
-        <translation type="vanished">Pokaż tło etykiet</translation>
+        <translation>Pokaż tło etykiet</translation>
     </message>
     <message>
         <source>Show/Hide background labels</source>
-        <translation type="vanished">Pokaż/ukryj tło etykiet</translation>
+        <translation>Pokaż/ukryj tło etykiet</translation>
     </message>
     <message>
         <source>Disable fullscreen</source>
-        <translation type="vanished">Wyłącz tryb pełnoekranowy</translation>
+        <translation>Wyłącz tryb pełnoekranowy</translation>
     </message>
     <message>
         <source>Enable fullscreen</source>
-        <translation type="vanished">Włącz tryb pełnoekranowy</translation>
+        <translation>Włącz tryb pełnoekranowy</translation>
     </message>
     <message>
         <source>Show fullscreen</source>
-        <translation type="vanished">Pokaż w trybie pełnoekranowym</translation>
+        <translation>Pokaż w trybie pełnoekranowym</translation>
     </message>
 </context>
 </TS>
