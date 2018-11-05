@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pl_PL">
+<TS version="2.1" language="pl_PL">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -1362,7 +1362,7 @@
     </message>
     <message>
         <source>Change size of UI</source>
-        <translation>Zmień rozmiar interfejsu</translation>
+        <translation type="vanished">Zmień rozmiar interfejsu</translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/OptionsGeneral.qml" line="75"/>
@@ -2223,7 +2223,7 @@
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Nieznany</translation>
+        <translation type="vanished">Nieznany</translation>
     </message>
     <message>
         <source>Id: %1</source>
@@ -2233,15 +2233,15 @@
     <message>
         <source>Name:</source>
         <comment>Name of the unit</comment>
-        <translation>Nazwa:</translation>
+        <translation type="vanished">Nazwa:</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Zastosuj</translation>
+        <translation type="vanished">Zastosuj</translation>
     </message>
     <message>
         <source>Symbol:</source>
-        <translation>Symbol:</translation>
+        <translation type="vanished">Symbol:</translation>
     </message>
 </context>
 <context>
@@ -2893,119 +2893,119 @@
     <name>main_android</name>
     <message>
         <source>Disconnected</source>
-        <translation>Rozłączony</translation>
+        <translation type="vanished">Rozłączony</translation>
     </message>
     <message>
         <source>Connection and authentification OK</source>
-        <translation>Połączenie oraz uwierzytelnienie - OK</translation>
+        <translation type="vanished">Połączenie oraz uwierzytelnienie - OK</translation>
     </message>
     <message>
         <source>Connection and authentification error: </source>
-        <translation>Błąd połączenia oraz uwierzytelnienia:</translation>
+        <translation type="vanished">Błąd połączenia oraz uwierzytelnienia:</translation>
     </message>
     <message>
         <source>New mission received, load datas from server</source>
-        <translation>Odebrano nową misję, trwa ładowanie danych z serwera</translation>
+        <translation type="vanished">Odebrano nową misję, trwa ładowanie danych z serwera</translation>
     </message>
     <message>
         <source>Connection error: </source>
-        <translation>Błąd połączenia:</translation>
+        <translation type="vanished">Błąd połączenia:</translation>
     </message>
     <message>
         <source>Arcade</source>
         <comment>profile</comment>
-        <translation>Zręcznościowy</translation>
+        <translation type="vanished">Zręcznościowy</translation>
     </message>
     <message>
         <source>Basic</source>
         <comment>profile</comment>
-        <translation>Podstawowy</translation>
+        <translation type="vanished">Podstawowy</translation>
     </message>
     <message>
         <source>Realistic</source>
         <comment>profile</comment>
-        <translation>Realistyczny</translation>
+        <translation type="vanished">Realistyczny</translation>
     </message>
     <message>
         <source>Custom</source>
         <comment>profile</comment>
-        <translation>Zdefiniowany</translation>
+        <translation type="vanished">Zdefiniowany</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Chat</translation>
+        <translation type="vanished">Chat</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Właściwości</translation>
+        <translation type="vanished">Właściwości</translation>
     </message>
     <message>
         <source>Weather</source>
-        <translation>Pogoda</translation>
+        <translation type="vanished">Pogoda</translation>
     </message>
     <message>
         <source>BRAA</source>
-        <translation>BRAA</translation>
+        <translation type="vanished">BRAA</translation>
     </message>
     <message>
         <source>Map</source>
-        <translation>Mapa</translation>
+        <translation type="vanished">Mapa</translation>
     </message>
     <message>
         <source>Glide</source>
-        <translation>Ścieżka</translation>
+        <translation type="vanished">Ścieżka</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation>Rysowanie</translation>
+        <translation type="vanished">Rysowanie</translation>
     </message>
     <message>
         <source>Airport</source>
-        <translation>Lotnisko</translation>
+        <translation type="vanished">Lotnisko</translation>
     </message>
     <message>
         <source>SITAC</source>
-        <translation>SITAC</translation>
+        <translation type="vanished">SITAC</translation>
     </message>
     <message>
         <source>Not connected</source>
-        <translation>Niepołączony</translation>
+        <translation type="vanished">Niepołączony</translation>
     </message>
     <message>
         <source>Change &amp;unit</source>
-        <translation>Zmień system miar</translation>
+        <translation type="vanished">Zmień system miar</translation>
     </message>
     <message>
         <source>Change unit</source>
-        <translation>Zmień system miar</translation>
+        <translation type="vanished">Zmień system miar</translation>
     </message>
     <message>
         <source>Show circles</source>
-        <translation>Pokazuj okręgi</translation>
+        <translation type="vanished">Pokazuj okręgi</translation>
     </message>
     <message>
         <source>Show detection/threat circles</source>
-        <translation>Pokazuj okręgi wykrycia/zagrożenia</translation>
+        <translation type="vanished">Pokazuj okręgi wykrycia/zagrożenia</translation>
     </message>
     <message>
         <source>Show background label</source>
-        <translation>Pokaż tło etykiet</translation>
+        <translation type="vanished">Pokaż tło etykiet</translation>
     </message>
     <message>
         <source>Show/Hide background labels</source>
-        <translation>Pokaż/ukryj tło etykiet</translation>
+        <translation type="vanished">Pokaż/ukryj tło etykiet</translation>
     </message>
     <message>
         <source>Disable fullscreen</source>
-        <translation>Wyłącz tryb pełnoekranowy</translation>
+        <translation type="vanished">Wyłącz tryb pełnoekranowy</translation>
     </message>
     <message>
         <source>Enable fullscreen</source>
-        <translation>Włącz tryb pełnoekranowy</translation>
+        <translation type="vanished">Włącz tryb pełnoekranowy</translation>
     </message>
     <message>
         <source>Show fullscreen</source>
-        <translation>Pokaż w trybie pełnoekranowym</translation>
+        <translation type="vanished">Pokaż w trybie pełnoekranowym</translation>
     </message>
 </context>
 </TS>
