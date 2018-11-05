@@ -2639,7 +2639,7 @@
     <message>
         <location filename="../lotatc/client/resources/qml/client/PageRadio.qml" line="75"/>
         <source>Radio enabled</source>
-        <translation>Activé la radio</translation>
+        <translation type="unfinished">Activer la radio</translation>
     </message>
 </context>
 <context>
