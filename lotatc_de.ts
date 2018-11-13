@@ -1768,7 +1768,7 @@
 <context>
     <name>PageChart</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageChart.qml" line="16"/>
+        <location filename="../lotatc/client/resources/qml/client/PageChart.qml" line="14"/>
         <source>Chart view for %1</source>
         <comment>%1 replaced by airport name</comment>
         <translation type="unfinished"></translation>
@@ -2873,6 +2873,11 @@
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/main.qml" line="777"/>
+        <source>Loading datas...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="779"/>
         <source>Not connected - not registered</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2958,12 +2963,12 @@
         <translation type="obsolete">Russisch</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="778"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="780"/>
         <source>Not connected</source>
         <translation type="unfinished">Nicht verbunden</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="878"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="880"/>
         <source>Change &amp;unit</source>
         <translatorcomment>Is this unit (like: Tank) or like measurement/METRIC?
 And I&apos;m not sure about the &amp;Operator placement in the translated phrase</translatorcomment>
@@ -2974,7 +2979,7 @@ And I&apos;m not sure about the &amp;Operator placement in the translated phrase
         <translation type="obsolete">Einheit wechseln</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="884"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="886"/>
         <source>Show circles</source>
         <translation type="unfinished">Kreise anzeigen</translation>
     </message>
@@ -2997,7 +3002,7 @@ And I&apos;m not sure about the &amp;Operator placement in the translated phrase
         <translation type="obsolete">Waffen-/Beobachtungsringe ein-/ausblenden</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="890"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="892"/>
         <source>Show background label</source>
         <translatorcomment>Label OF the background or a background for/behind the label?</translatorcomment>
         <translation type="unfinished">Hintergrundlabels anzeigen</translation>

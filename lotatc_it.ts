@@ -1947,7 +1947,7 @@
 <context>
     <name>PageChart</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageChart.qml" line="16"/>
+        <location filename="../lotatc/client/resources/qml/client/PageChart.qml" line="14"/>
         <source>Chart view for %1</source>
         <comment>%1 replaced by airport name</comment>
         <translation type="unfinished"></translation>
@@ -3140,6 +3140,11 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/main.qml" line="777"/>
+        <source>Loading datas...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="779"/>
         <source>Not connected - not registered</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3229,7 +3234,7 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="obsolete">Svedese</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="778"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="780"/>
         <source>Not connected</source>
         <translation>Non connesso</translation>
     </message>
@@ -3238,7 +3243,7 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="vanished">In Connessione...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="878"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="880"/>
         <source>Change &amp;unit</source>
         <translation>Cambiare &amp;unità</translation>
     </message>
@@ -3247,7 +3252,7 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="vanished">Cambiare unità</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="884"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="886"/>
         <source>Show circles</source>
         <translation>Mostra cerchi</translation>
     </message>
@@ -3268,7 +3273,7 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="obsolete">Mostra/Nascondi i cerchi di identificazione/minaccia</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="890"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="892"/>
         <source>Show background label</source>
         <translation>Mostra le etichette di fondo</translation>
     </message>

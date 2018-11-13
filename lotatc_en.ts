@@ -1595,7 +1595,7 @@
 <context>
     <name>PageChart</name>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/PageChart.qml" line="16"/>
+        <location filename="../lotatc/client/resources/qml/client/PageChart.qml" line="14"/>
         <source>Chart view for %1</source>
         <comment>%1 replaced by airport name</comment>
         <translation type="unfinished"></translation>
@@ -2607,11 +2607,16 @@
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/main.qml" line="777"/>
+        <source>Loading datas...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="779"/>
         <source>Not connected - not registered</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="778"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="780"/>
         <source>Not connected</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2622,17 +2627,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="878"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="880"/>
         <source>Change &amp;unit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="884"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="886"/>
         <source>Show circles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="890"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="892"/>
         <source>Show background label</source>
         <translation type="unfinished"></translation>
     </message>
