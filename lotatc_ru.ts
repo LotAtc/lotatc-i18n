@@ -407,7 +407,6 @@
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="210"/>
-        <location filename="../lotatc/client/ATCView.cpp" line="136"/>
         <source>Password:</source>
         <translation>Пароль:</translation>
     </message>
@@ -1026,11 +1025,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="254"/>
-        <source>%(alti_short|thousant) in imperial, show altitude in thousand feets</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="273"/>
         <source>Ground speed in Mach format</source>
         <translation type="unfinished"></translation>
@@ -1224,6 +1218,11 @@
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="253"/>
         <source>Altitude short format</source>
         <translation>Высота - сокращенный формат</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="254"/>
+        <source>%(alti_short|thousand) in imperial, show altitude in thousand feets</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="258"/>

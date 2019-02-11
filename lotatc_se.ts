@@ -332,7 +332,6 @@
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="210"/>
-        <location filename="../lotatc/client/ATCView.cpp" line="136"/>
         <source>Password:</source>
         <translation>Lösenord:</translation>
     </message>
@@ -934,11 +933,6 @@
         <translation type="unfinished">Höjd, kort format</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="254"/>
-        <source>%(alti_short|thousant) in imperial, show altitude in thousand feets</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="258"/>
         <source>Ground speed</source>
         <translation type="unfinished">Färdhastighet</translation>
@@ -1236,6 +1230,11 @@
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="389"/>
         <source>Labels</source>
         <translation type="unfinished">Beteckning</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="254"/>
+        <source>%(alti_short|thousand) in imperial, show altitude in thousand feets</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="429"/>

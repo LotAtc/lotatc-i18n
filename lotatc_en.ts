@@ -330,7 +330,6 @@
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/ConnectDlg.qml" line="210"/>
-        <location filename="../lotatc/client/ATCView.cpp" line="136"/>
         <source>Password:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -899,7 +898,7 @@
     </message>
     <message>
         <location filename="../lotatc/client/resources/qml/client/MyModels.qml" line="254"/>
-        <source>%(alti_short|thousant) in imperial, show altitude in thousand feets</source>
+        <source>%(alti_short|thousand) in imperial, show altitude in thousand feets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
