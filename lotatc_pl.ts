@@ -953,7 +953,7 @@
     </message>
     <message>
         <source>Disconnect</source>
-        <translation>Odłącz</translation>
+        <translation>Rozłącz</translation>
     </message>
     <message>
         <source>Disconnect current session</source>
@@ -1851,7 +1851,7 @@ click Launch to update, close this dialog to not update..</source>
         <location filename="../lotatc/common/client/resources/qml/common/MyModels.qml" line="483"/>
         <source>Mag</source>
         <comment>Magnetic bearing</comment>
-        <translation>Mag</translation>
+        <translation>Magnetyczny</translation>
     </message>
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/MyModels.qml" line="484"/>
@@ -2667,7 +2667,7 @@ click Launch to update, close this dialog to not update..</source>
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/OptionsGeneral.qml" line="243"/>
         <source>WARNING: Application will close itself after loading settings, it is normal, just relaunch it after</source>
-        <translation>Uwaga: Aplikacja zostanie zamknięta po załadowaniu ustawień, to normalne, następnie należy ją ponownie uruchomić</translation>
+        <translation>Uwaga: Aplikacja zostanie zamknięta po załadowaniu ustawień - to normalne, następnie należy ją ponownie uruchomić</translation>
     </message>
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/OptionsGeneral.qml" line="246"/>
@@ -3404,12 +3404,12 @@ click Launch to update, close this dialog to not update..</source>
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="284"/>
         <source>All private draws</source>
-        <translation>Wszystkie prywatne rysunki</translation>
+        <translation>Prywatne rysunki</translation>
     </message>
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="288"/>
         <source>All shared draws (WARNING)</source>
-        <translation>Wszystkie udostępnione rysunki (UWAGA)</translation>
+        <translation>Współdzielone rysunki (UWAGA)</translation>
     </message>
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="296"/>
@@ -3435,7 +3435,7 @@ click Launch to update, close this dialog to not update..</source>
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="238"/>
         <source>Shared</source>
-        <translation>Udostępnione</translation>
+        <translation>Współdzielone</translation>
     </message>
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="240"/>
@@ -4118,7 +4118,7 @@ click Launch to update, close this dialog to not update..</source>
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/PageWeather.qml" line="196"/>
         <source>Wind from</source>
-        <translation>Wiatr z kierunku</translation>
+        <translation>Wiatr</translation>
     </message>
     <message>
         <source>0m</source>
