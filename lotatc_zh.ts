@@ -545,7 +545,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/BullseyeProperties.qml" line="100"/>
+        <location filename="../lotatc/common/client/resources/qml/common/BullseyeProperties.qml" line="101"/>
         <source>Restore from mission</source>
         <translation type="unfinished"></translation>
     </message>
@@ -596,183 +596,183 @@
 <context>
     <name>ClassificationObject</name>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="329"/>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="340"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="341"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="352"/>
         <source>Unknown</source>
         <translation type="unfinished">未知的</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="330"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="342"/>
         <source>Assumed Friend</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="331"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="343"/>
         <source>Friend</source>
         <translation type="unfinished">友军</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="332"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="344"/>
         <source>Neutral</source>
         <translation type="unfinished">中立</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="333"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="345"/>
         <source>Suspect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="334"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="346"/>
         <source>Hostile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="338"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="350"/>
         <source>None</source>
         <translation type="unfinished">无</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="344"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="356"/>
         <source>Air</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="346"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="358"/>
         <source>Fighter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="347"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="359"/>
         <source>Tanker</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="348"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="360"/>
         <source>AEW</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="349"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="361"/>
         <source>Rotary-wing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="350"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="362"/>
         <source>UAV</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="351"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="363"/>
         <source>Patrol</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="352"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="364"/>
         <source>Attack/Strike</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="355"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="367"/>
         <source>Land unit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="357"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="369"/>
         <source>Combat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="358"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="370"/>
         <source>EW</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="359"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="371"/>
         <source>Special forces</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="362"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="374"/>
         <source>Sea surface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="364"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="376"/>
         <source>Carrier</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="365"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="377"/>
         <source>Cruiser</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="366"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="378"/>
         <source>Destroyer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="367"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="379"/>
         <source>Frigate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="368"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="380"/>
         <source>Corvette</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="369"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="381"/>
         <source>Civilian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="370"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="382"/>
         <source>Own Ship</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="373"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="385"/>
         <source>Land installation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="375"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="387"/>
         <source>Air defense missile launcher</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="376"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="388"/>
         <source>Air base</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="377"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="389"/>
         <source>Radar</source>
         <translation type="unfinished">雷达</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="378"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="390"/>
         <source>Ammunition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="379"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="391"/>
         <source>Naval base</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="382"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="394"/>
         <source>Sea subsurface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="384"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="396"/>
         <source>Submarine</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="387"/>
+        <location filename="../lotatc/common/common/classification/ClassificationObject.cpp" line="399"/>
         <source>Activity/Event</source>
         <translation type="unfinished"></translation>
     </message>
@@ -874,22 +874,22 @@
 <context>
     <name>ClientServer</name>
     <message>
-        <location filename="../lotatc/common/server/ClientServer.cpp" line="522"/>
+        <location filename="../lotatc/common/server/ClientServer.cpp" line="523"/>
         <source>LotAtc controller %1 is disconnected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/server/ClientServer.cpp" line="584"/>
+        <location filename="../lotatc/common/server/ClientServer.cpp" line="585"/>
         <source>Error in registration process</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/server/ClientServer.cpp" line="654"/>
+        <location filename="../lotatc/common/server/ClientServer.cpp" line="655"/>
         <source>LotAtc controller %1 is connected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/server/ClientServer.cpp" line="783"/>
+        <location filename="../lotatc/common/server/ClientServer.cpp" line="784"/>
         <source>Bad version: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1436,57 +1436,72 @@
 <context>
     <name>DefaultContextMenu</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="105"/>
+        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="106"/>
         <source>Object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="108"/>
+        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="109"/>
         <source>Open properties</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="115"/>
+        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="116"/>
         <source>Restore label visibility</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="124"/>
+        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="125"/>
         <source>Classification...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="142"/>
+        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="143"/>
         <source>Instructor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="145"/>
+        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="146"/>
         <source>Open instructor view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="154"/>
+        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="155"/>
         <source>Add a new object here...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="163"/>
+        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="164"/>
         <source>Delete this object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="193"/>
+        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="194"/>
         <source>Add %1 at this point</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="211"/>
+        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="212"/>
         <source>Delete %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="174"/>
+        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="222"/>
+        <source>Bulls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="226"/>
+        <source>Set bullseye here</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="236"/>
+        <source>Set bullseye on %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/common/DefaultContextMenu.qml" line="175"/>
         <source>Draw</source>
         <translation type="unfinished">绘制</translation>
     </message>
@@ -1556,7 +1571,7 @@
 <context>
     <name>Drawing</name>
     <message>
-        <location filename="../lotatc/common/drawing/Drawing.cpp" line="74"/>
+        <location filename="../lotatc/common/drawing/Drawing.cpp" line="80"/>
         <source>New layer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5713,7 +5728,7 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="225"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="226"/>
         <source>Lock view on this object</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6631,7 +6646,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
 <context>
     <name>ServerConfigEditor</name>
     <message>
-        <location filename="../lotatc/common/serverconfig/qml/ServerConfigEditor.qml" line="221"/>
+        <location filename="../lotatc/common/serverconfig/qml/ServerConfigEditor.qml" line="222"/>
         <source>Default</source>
         <translation type="unfinished">默认</translation>
     </message>
@@ -6809,7 +6824,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="unfinished">战术视角</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="716"/>
+        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="734"/>
         <source>Draw edition</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7132,12 +7147,12 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="796"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="789"/>
         <source>Server is paused</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="794"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="787"/>
         <source>Loading data...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7152,82 +7167,82 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="788"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="781"/>
         <source>NO VISUAL MAP INSTALLED
 RELAUNCH INSTALLER AND CHOOSE AT LEAST A MAP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="800"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="793"/>
         <source>Not connected - not registered</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="806"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="799"/>
         <source>Unpause server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="843"/>
-        <location filename="../lotatc/editor/resources/qml/main.qml" line="293"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="836"/>
+        <location filename="../lotatc/editor/resources/qml/main.qml" line="286"/>
         <source>General</source>
         <translation type="unfinished">常规</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="844"/>
-        <location filename="../lotatc/editor/resources/qml/main.qml" line="294"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="837"/>
+        <location filename="../lotatc/editor/resources/qml/main.qml" line="287"/>
         <source>Theme</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="845"/>
-        <location filename="../lotatc/editor/resources/qml/main.qml" line="295"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="838"/>
+        <location filename="../lotatc/editor/resources/qml/main.qml" line="288"/>
         <source>Map</source>
         <translation type="unfinished">地图</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="846"/>
-        <location filename="../lotatc/editor/resources/qml/main.qml" line="296"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="839"/>
+        <location filename="../lotatc/editor/resources/qml/main.qml" line="289"/>
         <source>Items</source>
         <translation type="unfinished">图标</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="847"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="840"/>
         <source>Labels</source>
         <translation type="unfinished">标签</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="848"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="841"/>
         <source>Approach</source>
         <translation type="unfinished">进近</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="849"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="842"/>
         <source>Shortcuts</source>
         <translation type="unfinished">快捷方式</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="850"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="843"/>
         <source>Chat</source>
         <translation type="unfinished">聊天</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="936"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="929"/>
         <source>Update is available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="986"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="979"/>
         <source>Show range rings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="992"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="985"/>
         <source>Use bullseye as reference for measure line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="1006"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="999"/>
         <source>Snap</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7275,7 +7290,7 @@ RELAUNCH INSTALLER AND CHOOSE AT LEAST A MAP</source>
         <translation type="vanished">战术视角</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="790"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="783"/>
         <source>Connecting to %1:%2...</source>
         <comment>%1 will be replaced by server, %2 by port</comment>
         <translation>连接%1:%2...</translation>
@@ -7366,7 +7381,7 @@ RELAUNCH INSTALLER AND CHOOSE AT LEAST A MAP</source>
         <translation type="obsolete">俄文</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="801"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="794"/>
         <source>Not connected</source>
         <translation>没有连接</translation>
     </message>
@@ -7375,8 +7390,8 @@ RELAUNCH INSTALLER AND CHOOSE AT LEAST A MAP</source>
         <translation type="vanished">连接中...</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="968"/>
-        <location filename="../lotatc/editor/resources/qml/main.qml" line="366"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="961"/>
+        <location filename="../lotatc/editor/resources/qml/main.qml" line="359"/>
         <source>Change &amp;unit</source>
         <translatorcomment>Does not used anymore</translatorcomment>
         <translation>改变单位(&amp;u)</translation>
@@ -7386,7 +7401,7 @@ RELAUNCH INSTALLER AND CHOOSE AT LEAST A MAP</source>
         <translation type="vanished">改变单位</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="974"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="967"/>
         <source>Show circles</source>
         <translation>显示区域范围</translation>
     </message>
@@ -7407,7 +7422,7 @@ RELAUNCH INSTALLER AND CHOOSE AT LEAST A MAP</source>
         <translation type="obsolete">显示/关闭 (舰船/防空导弹)雷达探测/威胁 区域</translation>
     </message>
     <message>
-        <location filename="../lotatc/client/resources/qml/client/main.qml" line="980"/>
+        <location filename="../lotatc/client/resources/qml/client/main.qml" line="973"/>
         <source>Show background label</source>
         <translation>显示背景标签</translation>
     </message>
@@ -7495,32 +7510,32 @@ RELAUNCH INSTALLER AND CHOOSE AT LEAST A MAP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/editor/resources/qml/main.qml" line="297"/>
+        <location filename="../lotatc/editor/resources/qml/main.qml" line="290"/>
         <source>Scenario</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/editor/resources/qml/main.qml" line="306"/>
+        <location filename="../lotatc/editor/resources/qml/main.qml" line="299"/>
         <source>Please choose a scenario</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/editor/resources/qml/main.qml" line="325"/>
+        <location filename="../lotatc/editor/resources/qml/main.qml" line="318"/>
         <source>Please choose a file</source>
         <translation type="unfinished">请选择文件</translation>
     </message>
     <message>
-        <location filename="../lotatc/editor/resources/qml/main.qml" line="372"/>
+        <location filename="../lotatc/editor/resources/qml/main.qml" line="365"/>
         <source>New scenario</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/editor/resources/qml/main.qml" line="378"/>
+        <location filename="../lotatc/editor/resources/qml/main.qml" line="371"/>
         <source>Open scenario</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/editor/resources/qml/main.qml" line="384"/>
+        <location filename="../lotatc/editor/resources/qml/main.qml" line="377"/>
         <source>Save scenario</source>
         <translation type="unfinished"></translation>
     </message>
