@@ -399,7 +399,7 @@
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/ApproachSelector.qml" line="78"/>
         <source>Controllers: %1</source>
-        <translation type="unfinished">Controllori: 1%</translation>
+        <translation type="unfinished">Controllori: %1</translation>
     </message>
 </context>
 <context>
@@ -5276,7 +5276,7 @@ clicca su Avvia per aggiornare, chiudi questo messaggio per ignorare</translatio
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/PageGraph.qml" line="306"/>
         <source>Glidepath</source>
-        <translation type="unfinished">Setniero di discesa</translation>
+        <translation type="unfinished">Sentiero di discesa</translation>
     </message>
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/PageGraph.qml" line="508"/>
@@ -5653,7 +5653,7 @@ clicca su Avvia per aggiornare, chiudi questo messaggio per ignorare</translatio
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="194"/>
         <source>Display range rings at this object</source>
-        <translation type="unfinished">Mostra cerchio raggio di azione a quest'oggetto</translation>
+        <translation type="unfinished">Mostra cerchio raggio distanze su quest'oggetto</translation>
     </message>
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="202"/>
