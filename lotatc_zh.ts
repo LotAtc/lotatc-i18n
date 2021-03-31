@@ -964,7 +964,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/server/ClientServer.cpp" line="784"/>
+        <location filename="../lotatc/common/server/ClientServer.cpp" line="783"/>
         <source>Bad version: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6766,7 +6766,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
 <context>
     <name>RadarList</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/RadarList.qml" line="98"/>
+        <location filename="../lotatc/common/client/resources/qml/common/RadarList.qml" line="108"/>
         <source>Airport</source>
         <translation type="unfinished">机场</translation>
     </message>
@@ -7194,12 +7194,12 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ServerModel.cpp" line="199"/>
+        <location filename="../lotatc/common/client/ServerModel.cpp" line="207"/>
         <source>Default Blue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ServerModel.cpp" line="201"/>
+        <location filename="../lotatc/common/client/ServerModel.cpp" line="209"/>
         <source>Default Red</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7502,8 +7502,13 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/TransponderSelector.qml" line="26"/>
+        <location filename="../lotatc/common/client/resources/qml/common/TransponderSelector.qml" line="27"/>
         <source>Active</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/common/TransponderSelector.qml" line="37"/>
+        <source>Mode 4</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

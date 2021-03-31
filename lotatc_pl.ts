@@ -902,7 +902,7 @@
         <translation>Kontroler LotAtc %1 połączony</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/server/ClientServer.cpp" line="784"/>
+        <location filename="../lotatc/common/server/ClientServer.cpp" line="783"/>
         <source>Bad version: %1</source>
         <translation>Zła wersja: %1</translation>
     </message>
@@ -6890,7 +6890,7 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>RadarList</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/RadarList.qml" line="98"/>
+        <location filename="../lotatc/common/client/resources/qml/common/RadarList.qml" line="108"/>
         <source>Airport</source>
         <translation>Lotnisko</translation>
     </message>
@@ -7314,12 +7314,12 @@ click Launch to update, close this dialog to not update..</source>
         <translation>Nowy</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ServerModel.cpp" line="199"/>
+        <location filename="../lotatc/common/client/ServerModel.cpp" line="207"/>
         <source>Default Blue</source>
         <translation>Domyślny BLUE</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ServerModel.cpp" line="201"/>
+        <location filename="../lotatc/common/client/ServerModel.cpp" line="209"/>
         <source>Default Red</source>
         <translation>Domyślny RED</translation>
     </message>
@@ -7648,9 +7648,14 @@ click Launch to update, close this dialog to not update..</source>
         <translation>IFF</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/TransponderSelector.qml" line="26"/>
+        <location filename="../lotatc/common/client/resources/qml/common/TransponderSelector.qml" line="27"/>
         <source>Active</source>
         <translation>Aktywny</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/common/TransponderSelector.qml" line="37"/>
+        <source>Mode 4</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
