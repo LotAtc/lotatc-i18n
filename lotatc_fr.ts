@@ -1214,7 +1214,7 @@
         <location filename="../lotatc/common/client/resources/qml/common/ConnectDlg.qml" line="179"/>
         <source>Connect (NOT SAVED)</source>
         <comment>Connect with a profile not saved</comment>
-        <translation>Connect√© (non sauvegarder)</translation>
+        <translation>Connecter (non sauvegarder)</translation>
     </message>
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/ConnectDlg.qml" line="181"/>
@@ -5826,7 +5826,7 @@ cliquer Lancer l&apos;update, fermer la boite de dialogue pour annuler la mise √
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="117"/>
         <source>Load a new layer</source>
-        <translation>Charg√© une nouvelle couche</translation>
+        <translation>Charger une nouvelle couche</translation>
     </message>
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="122"/>
@@ -5841,7 +5841,7 @@ cliquer Lancer l&apos;update, fermer la boite de dialogue pour annuler la mise √
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="206"/>
         <source>Show/Hide this layer</source>
-        <translation>Afficher/Cach√© cette couche</translation>
+        <translation>Afficher/Cacher cette couche</translation>
     </message>
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="230"/>
