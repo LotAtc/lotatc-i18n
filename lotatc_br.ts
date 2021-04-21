@@ -1338,77 +1338,98 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="156"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="83"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="136"/>
+        <source>DCS is running</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="84"/>
+        <source>DCS is running, cannot modify it, please stop it</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="137"/>
+        <source>DCS is not running</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="171"/>
         <source>Current LotAtc version: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="161"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="176"/>
         <source>LotAtc is not installed on this instance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="181"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="197"/>
         <source>Not installed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="249"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="274"/>
         <source>Modify</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="258"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="285"/>
         <source>Update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="268"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="297"/>
         <source>Uninstall</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="279"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="309"/>
         <source>Install</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="291"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="323"/>
         <source>Profile</source>
         <translation type="unfinished">Perfil</translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="299"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="331"/>
         <source>Current profile: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="308"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="340"/>
         <source>Config</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="308"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="340"/>
         <source>Create custom config</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="318"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="350"/>
         <source>This instance use common config</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="318"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="350"/>
         <source>This instance use custom config</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="355"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="371"/>
+        <source>DCS is currently running, config and profile modification need a mission restart. You cannot install/uninstall/update LotAtc, close this DCS instance to modify it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="396"/>
         <source>Fix me</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="368"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="409"/>
         <source>Seems to be a dedicated DCS Server instance, LotAtc not in dedicated mode</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2016,104 +2037,104 @@
 <context>
     <name>ItemProperties</name>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="146"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="152"/>
         <source>Scan period</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="158"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="164"/>
         <source>Has Datalink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="294"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="303"/>
         <source>Altitude</source>
         <translation type="unfinished">Altitude</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="305"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="314"/>
         <source>Group name</source>
         <translation type="unfinished">Nome do Grupo</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="312"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="321"/>
         <source>Detection status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="332"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="341"/>
         <source>Transponder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="338"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="347"/>
         <source>Mode 1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="341"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="350"/>
         <source>Mode 2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="344"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="353"/>
         <source>Mode 3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="354"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="363"/>
         <source>Mode 4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="358"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="367"/>
         <source>Mode S</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="370"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="380"/>
         <source>Heading</source>
         <translation type="unfinished">Proa</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="379"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="389"/>
         <source>Ground speed</source>
         <translation type="unfinished">Velocidade do Solo (GS)</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="388"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="398"/>
         <source>Vertical indicator</source>
         <translation type="unfinished">Indicador Vertical</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="399"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="409"/>
         <source>Position</source>
         <translation type="unfinished">Posição</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="414"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="424"/>
         <source>BullsEye</source>
         <translation type="unfinished">BullsEye</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="423"/>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="459"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="433"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="469"/>
         <source>Detection range</source>
         <translation type="unfinished">Aréa de detecção</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="432"/>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="460"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="442"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="470"/>
         <source>Threat range</source>
         <translation type="unfinished">Distancia da ameaça</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="439"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="449"/>
         <source>Coalition</source>
         <translation type="unfinished">Coalizão</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="454"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="464"/>
         <source>Seen by</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2386,67 +2407,67 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="unfinished">Código</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="34"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="36"/>
         <source>Variation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="154"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="157"/>
         <source>Heading</source>
         <translation type="unfinished">Proa</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="35"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="37"/>
         <source>Frequencies</source>
         <translation type="unfinished">Frequências</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="38"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="40"/>
         <source>TACAN</source>
         <translation type="unfinished">TACAN</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="80"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="83"/>
         <source>QFE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="81"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="84"/>
         <source>QNH</source>
         <translation type="unfinished">QNH</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="88"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="91"/>
         <source>Weather</source>
         <translation type="unfinished">Tempo</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="95"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="98"/>
         <source>Temperature</source>
         <translation type="unfinished">Temperatura</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="104"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="107"/>
         <source>Visibility</source>
         <translation type="unfinished">Visibilidade</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="113"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="116"/>
         <source>Base</source>
         <translation type="unfinished">Teto</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="122"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="125"/>
         <source>Thickness</source>
         <translation type="unfinished">Densidade</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="133"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="136"/>
         <source>from %1 (to %2) at %3%4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="137"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="140"/>
         <source>Wind</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2454,7 +2475,7 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>MapBullsProperties</name>
     <message>
-        <location filename="../lotatc/common/client/MapBullsProperties.cpp" line="27"/>
+        <location filename="../lotatc/common/client/MapBullsProperties.cpp" line="29"/>
         <source>Name</source>
         <translation type="unfinished">Nome</translation>
     </message>
@@ -2547,7 +2568,7 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapItem.qml" line="134"/>
+        <location filename="../lotatc/common/tiler/qml/MapItem.qml" line="135"/>
         <source>hidden</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5442,37 +5463,37 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="unfinished">Nome</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="339"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="338"/>
         <source>Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="346"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="344"/>
         <source>Id</source>
         <translation type="unfinished">Id</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="352"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="350"/>
         <source>Author</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="373"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="372"/>
         <source>Common</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="380"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="379"/>
         <source>Foreground color</source>
         <translation>Cor de primeiro plano</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="394"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="393"/>
         <source>Background color</source>
         <translation>Cor de fundo</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="406"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="405"/>
         <source>Line width</source>
         <translation>Espessura da linha</translation>
     </message>
@@ -7127,7 +7148,7 @@ Este projeto está atualmente em fase Beta e feito por Tacno do &lt;a href=&apos
         <translation type="unfinished">Visão Tatica</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="761"/>
+        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="776"/>
         <source>Draw edition</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7841,6 +7862,11 @@ RELAUNCH INSTALLER AND CHOOSE AT LEAST A MAP</source>
     <message>
         <location filename="../lotatc/configurator/resources/qml/main.qml" line="158"/>
         <source>Install/update/uninstall/check status for all DCS instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/configurator/resources/qml/main.qml" line="158"/>
+        <source>Status is not realtime, hit refresh button to refresh status, LotAtc Configurator read dcs.log to get status.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
