@@ -1613,6 +1613,14 @@
     </message>
 </context>
 <context>
+    <name>DrawingTextEditor</name>
+    <message>
+        <location filename="../lotatc/common/tiler/qml/DrawingTextEditor.qml" line="22"/>
+        <source>None</source>
+        <translation type="unfinished">Ništa</translation>
+    </message>
+</context>
+<context>
     <name>DrawingTextEntry</name>
     <message>
         <location filename="../lotatc/common/common/DrawingTextEntry.cpp" line="41"/>
@@ -1958,104 +1966,104 @@
 <context>
     <name>ItemProperties</name>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="152"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="154"/>
         <source>Scan period</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="164"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="166"/>
         <source>Has Datalink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="303"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="309"/>
         <source>Altitude</source>
         <translation type="unfinished">Visina</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="314"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="320"/>
         <source>Group name</source>
         <translation type="unfinished">Naziv grupe</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="321"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="327"/>
         <source>Detection status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="341"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="347"/>
         <source>Transponder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="347"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="353"/>
         <source>Mode 1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="350"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="356"/>
         <source>Mode 2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="353"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="359"/>
         <source>Mode 3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="363"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="369"/>
         <source>Mode 4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="367"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="373"/>
         <source>Mode S</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="380"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="386"/>
         <source>Heading</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="389"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="395"/>
         <source>Ground speed</source>
         <translation type="unfinished">Brzina u odnosu na zemlju</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="398"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="404"/>
         <source>Vertical indicator</source>
         <translation type="unfinished">Vertikalni pokazivač</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="409"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="415"/>
         <source>Position</source>
         <translation type="unfinished">Pozicija</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="424"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="430"/>
         <source>BullsEye</source>
         <translation type="unfinished">Centar</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="433"/>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="469"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="439"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="477"/>
         <source>Detection range</source>
         <translation type="unfinished">Opseg detekcije</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="442"/>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="470"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="448"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="478"/>
         <source>Threat range</source>
         <translation type="unfinished">Opseg pretnje</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="449"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="455"/>
         <source>Coalition</source>
         <translation type="unfinished">Koalicija</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/ItemProperties.cpp" line="464"/>
+        <location filename="../lotatc/common/client/ItemProperties.cpp" line="470"/>
         <source>Seen by</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5425,37 +5433,37 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="unfinished">Ime</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="338"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="340"/>
         <source>Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="344"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="346"/>
         <source>Id</source>
         <translation type="unfinished">Identifikacija</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="350"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="352"/>
         <source>Author</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="372"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="373"/>
         <source>Common</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="379"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="380"/>
         <source>Foreground color</source>
         <translation>Primarna boja</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="393"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="394"/>
         <source>Background color</source>
         <translation>Sekundarna boja</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="405"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageDraw.qml" line="406"/>
         <source>Line width</source>
         <translation>Širina linije</translation>
     </message>
@@ -5863,7 +5871,7 @@ click Launch to update, close this dialog to not update..</source>
     </message>
     <message>
         <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="30"/>
-        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="158"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="163"/>
         <source>Pin</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5878,47 +5886,47 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="131"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="136"/>
         <source>Select an item/airport to see its properties</source>
         <translation>Odabrati objekat/aerodrom da bi se prikazala svojstva objekta</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="163"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="168"/>
         <source>Show on map</source>
         <translation type="unfinished">Prikazati na mapi</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="171"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="176"/>
         <source>Copy coordinates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="183"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="188"/>
         <source>Set current virtual position at this object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="183"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="188"/>
         <source>Need radio enabled and an active radar unit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="197"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="202"/>
         <source>Display range rings at this object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="205"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="210"/>
         <source>Set this object as bullseye reference</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="213"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="218"/>
         <source>Edit this object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="229"/>
+        <location filename="../lotatc/common/client/resources/qml/common/PageProperties.qml" line="234"/>
         <source>Lock view on this object</source>
         <translation type="unfinished"></translation>
     </message>
