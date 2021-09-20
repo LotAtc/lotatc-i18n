@@ -7440,12 +7440,12 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="863"/>
+        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="859"/>
         <source>Draw edition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="869"/>
+        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="865"/>
         <source>Hide ground units</source>
         <translation type="unfinished"></translation>
     </message>

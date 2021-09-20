@@ -8337,12 +8337,12 @@ Este projeto está atualmente em fase Beta e feito por Tacno do &lt;a href=&apos
         <translation type="unfinished">Visão Tatica</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="863"/>
+        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="859"/>
         <source>Draw edition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="869"/>
+        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="865"/>
         <source>Hide ground units</source>
         <translation type="unfinished"></translation>
     </message>

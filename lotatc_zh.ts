@@ -8514,12 +8514,12 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="unfinished">战术视角</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="863"/>
+        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="859"/>
         <source>Draw edition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="869"/>
+        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="865"/>
         <source>Hide ground units</source>
         <translation type="unfinished"></translation>
     </message>

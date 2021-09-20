@@ -8818,12 +8818,12 @@ click Launch to update, close this dialog to not update..</source>
         <translation>Widok Taktyczny</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="863"/>
+        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="859"/>
         <source>Draw edition</source>
         <translation>Edycja rysunków</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="869"/>
+        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="865"/>
         <source>Hide ground units</source>
         <translation type="unfinished">Ukrywaj jednostki lądowe</translation>
     </message>

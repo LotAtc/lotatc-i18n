@@ -8867,12 +8867,12 @@ Questo progetto è attualmente in fase Beta e realizzato da Tacno dei &lt;a href
         <translation type="unfinished">Vista Tattica</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="863"/>
+        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="859"/>
         <source>Draw edition</source>
         <translation type="unfinished">Edizione disegno</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="869"/>
+        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="865"/>
         <source>Hide ground units</source>
         <translation type="unfinished">Nascondi unità di terra</translation>
     </message>

@@ -2308,7 +2308,7 @@
         <location filename="../lotatc/out/build/app/bin/LotAtcGenerator/QtQuick/Dialogs/DefaultFontDialog.qml" line="433"/>
         <location filename="../lotatc/out/build/app_debug/bin/QtQuick/Dialogs/DefaultFontDialog.qml" line="433"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -2328,7 +2328,7 @@
         <location filename="../lotatc/out/build/app/bin/LotAtcGenerator/QtQuick/Dialogs/DefaultMessageDialog.qml" line="142"/>
         <location filename="../lotatc/out/build/app_debug/bin/QtQuick/Dialogs/DefaultMessageDialog.qml" line="142"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OK</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/bin/LotAtcClient/QtQuick/Dialogs/DefaultMessageDialog.qml" line="148"/>
@@ -2498,7 +2498,7 @@
         <location filename="../lotatc/out/build/app/bin/LotAtcGenerator/QtQuick/Dialogs/DefaultMessageDialog.qml" line="244"/>
         <location filename="../lotatc/out/build/app_debug/bin/QtQuick/Dialogs/DefaultMessageDialog.qml" line="244"/>
         <source>Show Details...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Afficher les détails</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/bin/LotAtcClient/QtQuick/Dialogs/DefaultMessageDialog.qml" line="250"/>
@@ -9134,12 +9134,12 @@ cliquer Lancer l&apos;update, fermer la boite de dialogue pour annuler la mise �
         <translation>Vue tactique</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="863"/>
+        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="859"/>
         <source>Draw edition</source>
         <translation>Edition des dessins</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="869"/>
+        <location filename="../lotatc/common/tiler/qml/SitacWeb.qml" line="865"/>
         <source>Hide ground units</source>
         <translation>Cacher les unités sol</translation>
     </message>
