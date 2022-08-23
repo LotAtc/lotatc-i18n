@@ -687,7 +687,7 @@ Désactiver</translation>
     <message>
         <location filename="../lotatc/common/common/BaseScenario.cpp" line="187"/>
         <source>Cannot read database file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne peut pas lire le fichier de base de donnée %1</translation>
     </message>
     <message>
         <source>Cannot read bdd file %1</source>
@@ -711,17 +711,17 @@ Désactiver</translation>
     <message>
         <location filename="../lotatc/common/common/bdd/BddObject.cpp" line="73"/>
         <source>Cannot read database file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne peut pas lire le fichier de base de donnée %1</translation>
     </message>
     <message>
         <location filename="../lotatc/common/common/bdd/BddObject.cpp" line="84"/>
         <source>Cannot read database file %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne peut pas lire le fichier de base de donnée %1: %2</translation>
     </message>
     <message>
         <location filename="../lotatc/common/common/bdd/BddObject.cpp" line="93"/>
         <source>Database is void, nothing loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>La base de donnée est vide, rien n&apos;a été chargé</translation>
     </message>
 </context>
 <context>
@@ -1158,7 +1158,7 @@ Désactiver</translation>
     <message>
         <location filename="../lotatc/common/client/models/impl/CategoryModel.cpp" line="24"/>
         <source>Weapon</source>
-        <translation type="unfinished"></translation>
+        <translation>Armement</translation>
     </message>
 </context>
 <context>
@@ -1750,177 +1750,177 @@ Désactiver</translation>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="16"/>
         <source>Limitations of red clients|-1 means no limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Limitation des clients rouges|-1 signifie sans limitation</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="17"/>
         <source>Limitations of blue clients</source>
-        <translation type="unfinished"></translation>
+        <translation>Limitation des clients bleus</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="18"/>
         <source>Limitations of blue clients|-1 means no limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Limitation des clients bleus|-1 signifie sans limitation</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="19"/>
         <source>Virtual awacs name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom des Awacs virtuels</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="20"/>
         <source>All units with this name (or human pilot group) will be AWACS|void text disables the feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Toutes les unités ayant ce nom (ou nom du groupe pour les humains) seront des AWACS|vide pour désactiver</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="21"/>
         <source>Virtual awacs static on bulls</source>
-        <translation type="unfinished"></translation>
+        <translation>Awacs virtuel statique sur le bulls</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="22"/>
         <source>Virtual awacs static on bulls for each coalition|Use virtual awacs altitude/range below to set altitude/range</source>
-        <translation type="unfinished"></translation>
+        <translation>Awacs virtuel static sur le bulls pour chaque coalition|Utilise les paramètres de l&apos;awacs virtuel altitude/range</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="23"/>
         <source>Virtual awacs range</source>
-        <translation type="unfinished">Portée des AWACS virtuels</translation>
+        <translation>Portée de l&apos;AWACS virtuel</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="24"/>
         <source>Radius detection range in kilometer for virtual AWACS ( must be &gt; 5km )</source>
-        <translation type="unfinished"></translation>
+        <translation>Portée de détection en kilomètre de l&apos;AWACS virtuel (doit être &gt; 5km)</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="25"/>
         <source>Virtual awacs altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitude de l&apos;AWACS virtuel</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="26"/>
         <source>Altitude in meter for virtual AWACS (only use for bulls virtual awacs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitude en mètres de l&apos;AWACS virtuel (uniquement pour l&apos;awacs virtuel statique sur le bulls)</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="27"/>
         <source>Ignore radar name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorer le radar avec comme nom</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="28"/>
         <source>All units with name containing this string will never be part of radar coverage|Works on any unit (plane, SAM, ship...)|void text disables the feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Toutes les unités contenant cette chaine ne feront pas partie de la couverture radar|Fonctionne sur n&apos;importe quelle unité (avion, SAM, bateau...)|une chaine vide désactive</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="29"/>
         <source>Minimal detection range</source>
-        <translation type="unfinished"></translation>
+        <translation>Distance de détection minimale</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="30"/>
         <source>Minimal detection range in meters to be considered as part of|radar coverage by LotAtc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distance en mètre de détection minimale pour être considéré|comme un radar par LotAtc.</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="31"/>
         <source>Enable log</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer les logs</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="32"/>
         <source>Log generation for server, false to disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Génération des logs serveurs, off pour désactiver</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="33"/>
         <source>Enable chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer le chat</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="34"/>
         <source>Interact with DCS chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Interaction avec le chat de DCS</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="35"/>
         <source>Chat filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre du chat</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="36"/>
         <source>Filter command starting with, lua pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre les chat commençant par, lua pattern</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="37"/>
         <source>Show connect/disconnect message</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les messages de connexion/déconnection</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="38"/>
         <source>Show connect message in DCS|when LotAtc user connect/disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Affiche les messages de connexion/déconnection dans DCS|quand un utilisateur LotAtc se connecte/déconnecte</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="39"/>
         <source>Enable dedicated mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer le mode dédié</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="40"/>
         <source>DCS Dedicated mode enable|Profile will be set from the dedicated_profile below</source>
-        <translation type="unfinished"></translation>
+        <translation>DCS Dedicated mode activé|Le profile utilisé sera celui spécifié dans le champs dedicated_profile</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="41"/>
         <source>Dedicated profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Profile en mode dédié</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="42"/>
         <source>For dedicated mode only, use this profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour le mode dédié uniquement, utiliser ce profile</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="43"/>
         <source>Block connections for DCS pilots</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquer les connexions des pilotes DCS</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="44"/>
         <source>Block connections that are already connected as DCS pilots</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquer les connexions qui sont déjà connecté comme pilote DCS</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="45"/>
         <source>User password list file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier contenant la liste des utilisateurs/mot de passe</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="46"/>
         <source>User/password list|If a file is set, only user/password in this file could connect|this file define also whitelist/blacklist|For file path, path are relative to mods/LotAtc directoy|but you can set absolute path also|Format is JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste des utilisateurs/mot de passe|Le fichier définit également les whitelist/blacklist|Le chemin du fichier peut-être absolu ou relatif au chemin mods/LotAtc|Format JSON</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="47"/>
         <source>Enable admin commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer les commandes admin</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="48"/>
         <source>Server commands like pause/unpause from advanced client|To enable admin commands you must:| 1/ use_admin_commands = true| 2/ add users in a json file specified by allowed_users_file| 3/ use advanced client license</source>
-        <translation type="unfinished"></translation>
+        <translation>Les commandes admin sont par exemple pause/dépause depuis le client Advanced|Pour activer les commandes vous devez|1/use_admin_commands=true|2/Ajouter un utilisateur dans le fichier allowed_users_file|3/Avoir une licence Advanced</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="49"/>
         <source>Enable dump stats</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer la sortie des statistiques</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="50"/>
         <source>Dump stats in Json for external software</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortie des statistiques en format JSON pour une utilisation externe</translation>
     </message>
     <message>
         <location filename="../lotatc/out/build/app/i18n_files/config_lua.cpp" line="51"/>
