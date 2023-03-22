@@ -1560,7 +1560,7 @@ Désactiver</translation>
 <context>
     <name>ClientApp</name>
     <message>
-        <location filename="../lotatc/common/client/ClientApp.cpp" line="257"/>
+        <location filename="../lotatc/common/client/ClientApp.cpp" line="258"/>
         <source>Unknow</source>
         <translation>Inconnu</translation>
     </message>
@@ -1812,19 +1812,19 @@ Désactiver</translation>
 <context>
     <name>ConfigLua</name>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="7"/>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="8"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="7"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="8"/>
         <source>Enable LotAtc</source>
         <translation>Activer LotAtc</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="9"/>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="10"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="9"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="10"/>
         <source>LotAtc Server port</source>
         <translation>Port de LotAtc Server</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="11"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="11"/>
         <source>Red password</source>
         <translation>Mot de passe rouge</translation>
     </message>
@@ -1833,7 +1833,7 @@ Désactiver</translation>
         <translation type="vanished">Mot de passe rouge|Mettre &quot;&quot; pour le désactiver</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="13"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="13"/>
         <source>Blue password</source>
         <translation>Mot de passe bleu</translation>
     </message>
@@ -1846,398 +1846,398 @@ Désactiver</translation>
         <translation type="vanished">Mot de passe bleu|Mettre &apos;&apos; pour le désactiver</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="12"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="12"/>
         <source>Red password|Must NOT be void</source>
         <translation>Mot de passe rouge|Ne doit pas être vide</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="14"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="14"/>
         <source>Blue password|Must NOT be void</source>
         <translation>Mot de passe bleu|Ne dois pas être vide</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="15"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="15"/>
         <source>Limitations of red clients</source>
         <translation>Limitation des clients rouges</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="16"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="16"/>
         <source>Limitations of red clients|-1 means no limit</source>
         <translation>Limitation des clients rouges|-1 signifie sans limitation</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="17"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="17"/>
         <source>Limitations of blue clients</source>
         <translation>Limitation des clients bleus</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="18"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="18"/>
         <source>Limitations of blue clients|-1 means no limit</source>
         <translation>Limitation des clients bleus|-1 signifie sans limitation</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="19"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="19"/>
         <source>Virtual awacs name</source>
         <translation>Nom des Awacs virtuels</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="20"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="20"/>
         <source>All units with this name (or human pilot group) will be AWACS|void text disables the feature</source>
         <translation>Toutes les unités ayant ce nom (ou nom du groupe pour les humains) seront des AWACS|vide pour désactiver</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="21"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="21"/>
         <source>Virtual awacs static on bulls</source>
         <translation>Awacs virtuel statique sur le bulls</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="22"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="22"/>
         <source>Virtual awacs static on bulls for each coalition|Use virtual awacs altitude/range below to set altitude/range</source>
         <translation>Awacs virtuel static sur le bulls pour chaque coalition|Utilise les paramètres de l&apos;awacs virtuel altitude/range</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="23"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="23"/>
         <source>Virtual awacs range</source>
         <translation>Portée de l&apos;AWACS virtuel</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="24"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="24"/>
         <source>Radius detection range in kilometer for virtual AWACS ( must be &gt; 5km )</source>
         <translation>Portée de détection en kilomètre de l&apos;AWACS virtuel (doit être &gt; 5km)</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="25"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="25"/>
         <source>Virtual awacs altitude</source>
         <translation>Altitude de l&apos;AWACS virtuel</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="26"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="26"/>
         <source>Altitude in meter for virtual AWACS (only use for bulls virtual awacs)</source>
         <translation>Altitude en mètres de l&apos;AWACS virtuel (uniquement pour l&apos;awacs virtuel statique sur le bulls)</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="27"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="27"/>
         <source>Ignore radar name</source>
         <translation>Ignorer le radar avec comme nom</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="28"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="28"/>
         <source>All units with name containing this string will never be part of radar coverage|Works on any unit (plane, SAM, ship...)|void text disables the feature</source>
         <translation>Toutes les unités contenant cette chaine ne feront pas partie de la couverture radar|Fonctionne sur n&apos;importe quelle unité (avion, SAM, bateau...)|une chaine vide désactive</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="29"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="29"/>
         <source>Minimal detection range</source>
         <translation>Distance de détection minimale</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="30"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="30"/>
         <source>Minimal detection range in meters to be considered as part of|radar coverage by LotAtc.</source>
         <translation>Distance en mètre de détection minimale pour être considéré|comme un radar par LotAtc.</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="31"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="31"/>
         <source>Enable log</source>
         <translation>Activer les logs</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="32"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="32"/>
         <source>Log generation for server, false to disable</source>
         <translation>Génération des logs serveurs, off pour désactiver</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="33"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="33"/>
         <source>Enable chat</source>
         <translation>Activer le chat</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="34"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="34"/>
         <source>Interact with DCS chat</source>
         <translation>Interaction avec le chat de DCS</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="35"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="35"/>
         <source>Chat filter</source>
         <translation>Filtre du chat</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="36"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="36"/>
         <source>Filter command starting with, lua pattern</source>
         <translation>Filtre les chat commençant par, lua pattern</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="37"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="37"/>
         <source>Show connect/disconnect message</source>
         <translation>Afficher les messages de connexion/déconnection</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="38"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="38"/>
         <source>Show connect message in DCS|when LotAtc user connect/disconnect</source>
         <translation>Affiche les messages de connexion/déconnection dans DCS|quand un utilisateur LotAtc se connecte/déconnecte</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="39"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="39"/>
         <source>Enable dedicated mode</source>
         <translation>Activer le mode dédié</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="40"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="40"/>
         <source>DCS Dedicated mode enable|Profile will be set from the dedicated_profile below</source>
         <translation>DCS Dedicated mode activé|Le profile utilisé sera celui spécifié dans le champs dedicated_profile</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="41"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="41"/>
         <source>Dedicated profile</source>
         <translation>Profile en mode dédié</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="42"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="42"/>
         <source>For dedicated mode only, use this profile</source>
         <translation>Pour le mode dédié uniquement, utiliser ce profile</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="43"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="43"/>
         <source>Block connections for DCS pilots</source>
         <translation>Bloquer les connexions des pilotes DCS</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="44"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="44"/>
         <source>Block connections that are already connected as DCS pilots</source>
         <translation>Bloquer les connexions qui sont déjà connecté comme pilote DCS</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="45"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="45"/>
         <source>User password list file</source>
         <translation>Fichier contenant la liste des utilisateurs/mot de passe</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="46"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="46"/>
         <source>User/password list|If a file is set, only user/password in this file could connect|this file define also whitelist/blacklist|For file path, path are relative to mods/LotAtc directoy|but you can set absolute path also|Format is JSON</source>
         <translation>Liste des utilisateurs/mot de passe|Le fichier définit également les whitelist/blacklist|Le chemin du fichier peut-être absolu ou relatif au chemin mods/LotAtc|Format JSON</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="47"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="47"/>
         <source>Enable admin commands</source>
         <translation>Activer les commandes admin</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="48"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="48"/>
         <source>Server commands like pause/unpause from advanced client|To enable admin commands you must:| 1/ use_admin_commands = true| 2/ add users in a json file specified by allowed_users_file| 3/ use advanced client license</source>
         <translation>Les commandes admin sont par exemple pause/dépause depuis le client Advanced|Pour activer les commandes vous devez|1/use_admin_commands=true|2/Ajouter un utilisateur dans le fichier allowed_users_file|3/Avoir une licence Advanced</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="49"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="49"/>
         <source>Enable dump stats</source>
         <translation>Activer la sortie des statistiques</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="50"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="50"/>
         <source>Dump stats in Json for external software</source>
         <translation>Sortie des statistiques en format JSON pour une utilisation externe</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="51"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="51"/>
         <source>Dump json file</source>
         <translation>Exporter le fichier Json</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="52"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="52"/>
         <source>stats file path, path are relative to mods/LotAtc directoy|but you can set absolute path also</source>
         <translation>Chemin du fichier de stats, le chemin est relatif à Mods/LotAtc|Un chemin absolu est accepté</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="53"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="53"/>
         <source>Enable CSV file export</source>
         <translation>Activer l&apos;export CSV</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="54"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="54"/>
         <source>Enable CSV file export of the computed tactical situation|For monomodelisation, each radar will generate its own view + datalink</source>
         <translation>Activer le chemin CSV de la vue tactique|En mode monomodélisation, chaque radar exportera sa propre vue + datalink</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="55"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="55"/>
         <source>Enable TacView file export</source>
         <translation>Activer l&apos;export Tacview</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="56"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="56"/>
         <source>Enable TacView file export of the computed tactical situation|For monomodelisation, each radar will generate its own view + datalink</source>
         <translation>Activer l&apos;export Tacview de la vue tactique|En mode monomodélisation, chaque radar exportera sa propre vue + datalink</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="57"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="57"/>
         <source>Enable TacView RealTime export</source>
         <translation>Activer l&apos;export Tacview Temps réel</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="58"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="58"/>
         <source>Enable TacView Realtime export of the computed tactical situation|For monomodelisation, each radar will generate its own view + datalink</source>
         <translation>Activer l&apos;export Tacview Temps réel de la vue tactique|En mode monomodélisation, chaque radar exportera sa propre vue + datalink</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="59"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="59"/>
         <source>TacView RealTime port</source>
         <translation>Port du Tacview temps réel</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="60"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="60"/>
         <source>TacView Realtime port</source>
         <translation>Port du Tacview temps réel</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="61"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="61"/>
         <source>Enable transponder</source>
         <translation>Activer le transpondeur</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="62"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="62"/>
         <source>Enable SRS transponder function</source>
         <translation>Activer le transpondeur avec SRS</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="63"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="63"/>
         <source>Transponder SRS port</source>
         <translation>Port SRS pour le transpondeur</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="64"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="64"/>
         <source>SRS transponder port</source>
         <translation>Port SRS pour le transpondeur</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="65"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="65"/>
         <source>SRS server</source>
         <translation>Serveur SRS</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="66"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="66"/>
         <source>SRS server|By default use local SRS server on same computer than DCS host</source>
         <translation>Serveur SRS|Par défaut, utilise le serveur SRS local, même machine que le serveur DCS</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="67"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="67"/>
         <source>Enable LotAtc Link</source>
         <translation>Activer LotAtc Link</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="68"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="68"/>
         <source>Enable Json server used for LotAtc Link|WIP</source>
         <translation>Activer le serveur Json utilisé pour LotAtc Link| WIP</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="69"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="69"/>
         <source>Install automatically LotAtc Link Script in DCS World</source>
         <translation>Installer automatiquement le script LotAtc Link pour DCS World</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="70"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="70"/>
         <source>Enable LotAtc Link automatically when DCS starts</source>
         <translation>Activer automatiquement LotAtc Link au démarrage de DCS</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="71"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="71"/>
         <source>Slmod directory for automatic Slmod install</source>
         <translation>Répertoire de Slmod pour l&apos;installation automatique dans Slmod</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="72"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="72"/>
         <source>Enable LotAtc Link automatically when DCS starts when using SlMod|Enter the Slmod version (the name in saved games/&lt;your dcs&gt;/Scripts/net/&lt;THIS NAME&gt;/) for example &apos;Slmodv7_6&apos;</source>
         <translation>Activer automatiquement LotAtc Link au démarrage de DCS avec le mod Slmod|Entrer la version de Slmod utilisée (la version est visible dans saved games/&lt;votre dcs&gt;/Scripts/net/&lt;LA VERSION&gt;/) par exemple &apos;Slmodv7_6&apos;</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="73"/>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="74"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="73"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="74"/>
         <source>Port for Json communication</source>
         <translation>Port de communication pour le serveur JSOn</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="77"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="77"/>
         <source>Automatically import DCS IPs points</source>
         <translation>Import automatique des points d&apos;Ips de DCS</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="78"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="78"/>
         <source>Automatically import DCS Ips points as drawing in LotAtc</source>
         <translation>Import automatique des points d&apos;Ips de DCS comme dessins dans LotAtc</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="93"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="93"/>
         <source>info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="94"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="94"/>
         <source>Informations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="95"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="95"/>
         <source>filters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="96"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="96"/>
         <source>Filters</source>
         <translation type="unfinished">Filtres</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="97"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="97"/>
         <source>radar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="98"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="98"/>
         <source>Radar</source>
         <translation type="unfinished">Radar</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="99"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="99"/>
         <source>automatism</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="100"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="100"/>
         <source>Automation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="101"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="101"/>
         <source>airport</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="102"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="102"/>
         <source>Airport management</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="103"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="103"/>
         <source>datalink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="104"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="104"/>
         <source>Datalink</source>
         <translation type="unfinished">Datalink</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="105"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="105"/>
         <source>esm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="106"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="106"/>
         <source>ESM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="107"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="107"/>
         <source>advanced</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="108"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="108"/>
         <source>Advanced</source>
         <translation type="unfinished">Avancé</translation>
     </message>
@@ -2250,12 +2250,12 @@ Désactiver</translation>
         <translation type="vanished">Port de communication Json</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="75"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="75"/>
         <source>Automatically import DCS drawing</source>
         <translation>Import automatique des dessins de DCS</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="76"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="76"/>
         <source>Automatically import coalition and commun DCS draw as drawing in LotAtc</source>
         <translation>Import automatique des dessins DCS (coalition + commun) comme dessins dans LotAtc</translation>
     </message>
@@ -2268,72 +2268,72 @@ Désactiver</translation>
         <translation type="vanished">Import automatique des points d&apos;Ip de DCS comme dessins dans LotAtc</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="79"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="79"/>
         <source>Automatically import DCS Marks</source>
         <translation>Import automatique des marks de DCS</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="80"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="80"/>
         <source>Automatically import DCS Marks in LotAtc</source>
         <translation>Import automatique des marks de DCS dans LotAtc</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="81"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="81"/>
         <source>Update time</source>
         <translation>Temps de mise à jour</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="82"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="82"/>
         <source>Number of seconds between data extraction|Lower can reduce performances</source>
         <translation>Nombre de secondes entre les extractions de données|Une valeur plus faible peut affecter les performances</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="83"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="83"/>
         <source>New unit research time</source>
         <translation>Temps de recherche des nouvelles unitées</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="84"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="84"/>
         <source>Search for new unit every n seconds</source>
         <translation>Rechercher des nouvelles unitées toutes les n secondes</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="85"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="85"/>
         <source>Group units number</source>
         <translation>Nombre d&apos;unité par groupe</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="86"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="86"/>
         <source>Maximum number of units updated in each block of data</source>
         <translation>Nombre maximum d&apos;unités par bloc de données</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="87"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="87"/>
         <source>Minimum frame update</source>
         <translation>Temps minimum entre les mises à jour</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="88"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="88"/>
         <source>Minimum frame update time in seconds</source>
         <translation>Temps minimum entre les mises à jour en secondes</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="89"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="89"/>
         <source>Enable debug</source>
         <translation>Activer le debug</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="90"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="90"/>
         <source>Enable verbose output in dcs.log, useful to report problems|BIG PERFORMANCES IMPACT</source>
         <translation>Activer le mode verbose dans dcs.log, utile pour le report de bugs|DEGRADE LES PERFORMANCES</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="91"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="91"/>
         <source>Enable perfs tests</source>
         <translation>Activer les tests de performances</translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="92"/>
+        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="92"/>
         <source>Enable performances output, useful to report problems</source>
         <translation>Active les tests de performances, utile en cas de problèmes</translation>
     </message>
@@ -3447,7 +3447,7 @@ Désactiver</translation>
         <translation type="vanished">Définir comme %1</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="130"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="131"/>
         <source>Restore label visibility</source>
         <translation>Restaurer la visibilité de l&apos;étiquette</translation>
     </message>
@@ -3457,17 +3457,17 @@ Désactiver</translation>
         <translation>Classification...</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="160"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="167"/>
         <source>Instructor</source>
         <translation>Instructeur</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="160"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="167"/>
         <source>Unit</source>
         <translation>Unité</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="165"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="172"/>
         <source>Open instructor view</source>
         <translation>Ouvrir la vue instructeur</translation>
     </message>
@@ -3480,93 +3480,93 @@ Désactiver</translation>
         <translation type="vanished">Effacer cet objet</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="183"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="190"/>
         <source>Add a new %1 here...</source>
         <translation>Ajouter un nouveau %1 ici...</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="183"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="190"/>
         <source>object</source>
         <translation>objet</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="195"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="202"/>
         <source>Delete this object [%1]</source>
         <translation>Effacer cet objet [%1]</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="199"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="206"/>
         <source>Delete this object ?</source>
         <translation>Effacer cet objet?</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="199"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="206"/>
         <source>If yes, this object will be deleted on server</source>
         <translation>Si oui, cet objet va être effacé du serveur</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="213"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="220"/>
         <source>Draw</source>
         <translation>Dessin</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="234"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="241"/>
         <source>Add %1 at this point</source>
         <translation>Ajouter %1 à cet endroit</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="251"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="258"/>
         <source>Delete %1</source>
         <translation>Effacer %1</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="254"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="265"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="261"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="272"/>
         <source>Delete this draw?</source>
         <translation>Effacer ce dessin?</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="254"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="261"/>
         <source>The draw will be deleted locally only.</source>
         <translation>Le dessin va être effacé localement seulement.</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="262"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="269"/>
         <source>Delete %1 for all</source>
         <translation>Effacer %1 pour tous</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="265"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="272"/>
         <source>The draw will be deleted for all controllers.</source>
         <translation>Le dession va être effacé pour tous les contrôleurs.</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="275"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="282"/>
         <source>Bulls</source>
         <translation>Bulls</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="280"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="287"/>
         <source>Set bullseye here</source>
         <translation>Définir le bullseye ici</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="292"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="299"/>
         <source>Set %1 bullseye here</source>
         <translation>Définir le bullseye %1 ici</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="305"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="312"/>
         <source>Set bullseye on %1</source>
         <translation>Définir le bullseye sur %1</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="315"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="322"/>
         <source>Marks</source>
         <translation>Marks</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="318"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="325"/>
         <source>Add a mark here...</source>
         <translation>Ajouter une mark ici...</translation>
     </message>
@@ -7105,188 +7105,188 @@ cliquer Lancer l&apos;update, fermer la boite de dialogue pour annuler la mise �
         <translation>Entrer un nom</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="105"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="111"/>
         <source>Callsign</source>
         <translation>Callsign</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="110"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="116"/>
         <source>Enter a callsign</source>
         <translation>Entrer un callsign</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="119"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="125"/>
         <source>More...</source>
         <translation>Plus...</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="126"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="132"/>
         <source>Side number</source>
         <translation>Numéro de queue</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="131"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="137"/>
         <source>Enter a side number</source>
         <translation>Entrer un numéro de queue</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="138"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="144"/>
         <source>Group name</source>
         <translation>Nom du groupe</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="143"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="149"/>
         <source>Enter a group name</source>
         <translation>Entrer un nom de groupe</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="150"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="156"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="161"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="167"/>
         <source>Color</source>
         <translation>Couleur</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="172"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="178"/>
         <source>Classification</source>
         <translation>Classification</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="189"/>
         <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="195"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="201"/>
         <source>Coordinates</source>
         <translation>Coordonnées</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="223"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="235"/>
         <source>Heading</source>
         <translation>Cap</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="245"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="257"/>
         <source>Ground speed</source>
         <translation>Vitesse sol</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="270"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="282"/>
         <source>Transponder</source>
         <translation>Transpondeur</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="287"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="299"/>
         <source>Ranges</source>
         <translation>Distances</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="295"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="307"/>
         <source>Detection range</source>
         <translation>Distance de détection</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="312"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="324"/>
         <source>Threat range</source>
         <translation>Distance d&apos;attaque</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="332"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="344"/>
         <source>Parameters</source>
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="340"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="352"/>
         <source>RCS</source>
         <translation>SER</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="360"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="372"/>
         <source>Acceleration (km/h added by second</source>
         <translation>Accélération (km/h ajouter par seconde)</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="380"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="392"/>
         <source>Turn rate (eco/std/opt)</source>
         <translation>Taux de virage (eco/std/opt)</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="416"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="428"/>
         <source>Climb speed (eco/std/opt)</source>
         <translation>Taux de montée (eco/std/opt)</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="449"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="461"/>
         <source>Ground speed (eco/std/opt)</source>
         <translation>Vitesse sol (eco/std/opt)</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="483"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="495"/>
         <source>Radar</source>
         <translation>Radar</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="490"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="502"/>
         <source>Active</source>
         <translation>Actif</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="603"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="615"/>
         <source>Datalink</source>
         <translation>Datalink</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="610"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="622"/>
         <source>Active datalink</source>
         <translation>Activé le datalink</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="618"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="630"/>
         <source>Range</source>
         <translation>Portée</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="630"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="642"/>
         <source>Features</source>
         <translation>Fonctionnalitées</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="636"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="648"/>
         <source>Share</source>
         <translation>Partager</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="645"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="657"/>
         <source>Relay</source>
         <translation>Relai</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="654"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="666"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="665"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="677"/>
         <source>Payload</source>
         <translation>Emport</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="672"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="684"/>
         <source>Maximum internal fuel capacity</source>
         <translation>Capacité maximum interne en fuel</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="683"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="695"/>
         <source>Current fuel percentage</source>
         <translation>Pourcentage courant du fuel</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="699"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="711"/>
         <source>Pylons</source>
         <translation>Pylones</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="711"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/objecteditor/ObjectEditor.qml" line="723"/>
         <source>Create a new pylon</source>
         <translation>Créer un nouveau pylône</translation>
     </message>
@@ -7717,6 +7717,11 @@ cliquer Lancer l&apos;update, fermer la boite de dialogue pour annuler la mise �
         <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsGeneral.qml" line="107"/>
         <source>Letter for local time:</source>
         <translation>Lettre pour le temps local</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsGeneral.qml" line="120"/>
+        <source>Lock UI</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restore window position on startup</source>
@@ -8797,22 +8802,22 @@ cliquer Lancer l&apos;update, fermer la boite de dialogue pour annuler la mise �
 <context>
     <name>PCheck</name>
     <message>
-        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="347"/>
+        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="350"/>
         <source>This license is not compatible with this software</source>
         <translation>La licence n&apos;est pas compatible avec ce logiciel</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="353"/>
+        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="356"/>
         <source>License is invalid</source>
         <translation>Licence invalide</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="609"/>
+        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="612"/>
         <source>License file not found in %1</source>
         <translation>Fichier de licence non trouvé dans %1</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="624"/>
+        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="627"/>
         <source>Invalid license file</source>
         <translation>Fichier licence invalide</translation>
     </message>
@@ -9989,12 +9994,12 @@ cliquer Lancer l&apos;update, fermer la boite de dialogue pour annuler la mise �
         <translation>Epingler</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="222"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="243"/>
         <source>Make this object as new bullseye reference?</source>
         <translation>Faire de cet objet comme nouveau bullseye?</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="222"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="243"/>
         <source>If yes, bullseye will be set to this object (only for you)</source>
         <translation>Si oui, cet objet deviendra le nouveau bullseye (seulement pour vous)</translation>
     </message>
@@ -10009,32 +10014,32 @@ cliquer Lancer l&apos;update, fermer la boite de dialogue pour annuler la mise �
         <translation>Copier les coordonnées</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="195"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="216"/>
         <source>Set current virtual position at this object</source>
         <translation>Définir la position virtuelle sur cet objet</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="195"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="216"/>
         <source>Need radio enabled and an active radar unit</source>
         <translation>Nécessite que la radio soit active et que l&apos;unité soit un radar actif</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="205"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="226"/>
         <source>Display range rings at this object</source>
         <translation>Afficher le cercle des distances</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="219"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="240"/>
         <source>Set this object as bullseye reference</source>
         <translation>Faire de cet objet comme nouveau bullseye</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="229"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="250"/>
         <source>Edit this object</source>
         <translation>Editer cet objet</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="239"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageProperties.qml" line="260"/>
         <source>Lock view on this object</source>
         <translation>Verrouiller la vue sur cet unité</translation>
     </message>
