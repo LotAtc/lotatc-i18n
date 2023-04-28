@@ -164,12 +164,12 @@
 <context>
     <name>AdvancedFeature</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/AdvancedFeature.qml" line="33"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/AdvancedFeature.qml" line="34"/>
         <source>It is a LotAtc Advanced feature, it needs to upgrade your license</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/AdvancedFeature.qml" line="38"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/AdvancedFeature.qml" line="39"/>
         <source>Upgrade to LotAtc Advanced</source>
         <translation type="unfinished"></translation>
     </message>
@@ -315,37 +315,42 @@
         <translation type="vanished">当前空管</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/properties/AirportProperties.qml" line="151"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/properties/AirportProperties.qml" line="152"/>
         <source>METAR : %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/properties/AirportProperties.qml" line="169"/>
-        <source>Charts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/properties/AirportProperties.qml" line="170"/>
-        <source>Open a chart view</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/properties/AirportProperties.qml" line="177"/>
-        <source>Airport view</source>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/properties/AirportProperties.qml" line="157"/>
+        <source>Copy METAR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lotatc/common/client/resources/qml/software/rborn/common/properties/AirportProperties.qml" line="180"/>
+        <source>Charts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/properties/AirportProperties.qml" line="181"/>
+        <source>Open a chart view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/properties/AirportProperties.qml" line="188"/>
+        <source>Airport view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/properties/AirportProperties.qml" line="191"/>
         <source>You need to have a license to use airport view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/properties/AirportProperties.qml" line="182"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/properties/AirportProperties.qml" line="193"/>
         <source>Open airport view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/properties/AirportProperties.qml" line="199"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/properties/AirportProperties.qml" line="210"/>
         <source>Create ATIS on:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -538,12 +543,12 @@
 <context>
     <name>ApproachViewManager</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ApproachViewManager.qml" line="55"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ApproachViewManager.qml" line="54"/>
         <source>Approach</source>
         <translation type="unfinished">进近</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ApproachViewManager.qml" line="45"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ApproachViewManager.qml" line="44"/>
         <source>Approach %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -633,27 +638,27 @@
 <context>
     <name>BaseClientApplication</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/BaseClientApplication.qml" line="146"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/BaseClientApplication.qml" line="130"/>
         <source>THIS LICENSE HAS EXPIRATED AND WILL BE BLOCKED IN %1 days</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/BaseClientApplication.qml" line="148"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/BaseClientApplication.qml" line="132"/>
         <source>This license will expirate in %1 days</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/BaseClientApplication.qml" line="150"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/BaseClientApplication.qml" line="134"/>
         <source>(Not registered)</source>
         <translation type="unfinished">（未注册）</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/BaseClientApplication.qml" line="154"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/BaseClientApplication.qml" line="138"/>
         <source>License support has expirated, this version is unsupported - contact support</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/BaseClientApplication.qml" line="156"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/BaseClientApplication.qml" line="140"/>
         <source>This license update support will expirate in %1 days - DO NOT UPDATE IT</source>
         <translation type="unfinished"></translation>
     </message>
@@ -661,17 +666,17 @@
 <context>
     <name>BaseEditor</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/editor/BaseEditor.qml" line="144"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/editor/BaseEditor.qml" line="106"/>
         <source>Apply</source>
         <translation type="unfinished">确定</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/editor/BaseEditor.qml" line="155"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/editor/BaseEditor.qml" line="117"/>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/editor/BaseEditor.qml" line="161"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/editor/BaseEditor.qml" line="123"/>
         <source>Reset</source>
         <translation type="unfinished"></translation>
     </message>
@@ -707,7 +712,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/bdd/BddObject.cpp" line="106"/>
+        <location filename="../lotatc/common/common/bdd/BddObject.cpp" line="107"/>
         <source>Database is void, nothing loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1501,7 +1506,7 @@
 <context>
     <name>ClientApp</name>
     <message>
-        <location filename="../lotatc/common/client/ClientApp.cpp" line="258"/>
+        <location filename="../lotatc/common/client/ClientApp.cpp" line="264"/>
         <source>Unknow</source>
         <translation type="unfinished">未知</translation>
     </message>
@@ -1509,12 +1514,12 @@
 <context>
     <name>ClientApplication</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ClientApplication.qml" line="97"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ClientApplication.qml" line="80"/>
         <source>Draw</source>
         <translation type="unfinished">绘制</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ClientApplication.qml" line="105"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ClientApplication.qml" line="88"/>
         <source>Objects</source>
         <translation type="unfinished">目标</translation>
     </message>
@@ -1545,22 +1550,22 @@
 <context>
     <name>ClientServer</name>
     <message>
-        <location filename="../lotatc/common/server/ClientServer.cpp" line="597"/>
+        <location filename="../lotatc/common/server/ClientServer.cpp" line="596"/>
         <source>LotAtc controller %1 is disconnected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/server/ClientServer.cpp" line="665"/>
+        <location filename="../lotatc/common/server/ClientServer.cpp" line="664"/>
         <source>Error in registration process</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/server/ClientServer.cpp" line="741"/>
+        <location filename="../lotatc/common/server/ClientServer.cpp" line="740"/>
         <source>LotAtc controller %1 is connected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/server/ClientServer.cpp" line="953"/>
+        <location filename="../lotatc/common/server/ClientServer.cpp" line="952"/>
         <source>Bad version: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1626,22 +1631,22 @@
 <context>
     <name>ComboBoxSelector</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ComboBoxSelector.qml" line="25"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ComboBoxSelector.qml" line="24"/>
         <source>Click to select</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ComboBoxSelector.qml" line="124"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ComboBoxSelector.qml" line="123"/>
         <source>Choose</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ComboBoxSelector.qml" line="150"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ComboBoxSelector.qml" line="149"/>
         <source>Enter some terms to filter...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ComboBoxSelector.qml" line="155"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ComboBoxSelector.qml" line="154"/>
         <source>Clean</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1649,7 +1654,7 @@
 <context>
     <name>CommandLine</name>
     <message>
-        <location filename="../lotatc/common/tiler/qml/CommandLine.qml" line="55"/>
+        <location filename="../lotatc/common/tiler/qml/CommandLine.qml" line="54"/>
         <source>Move here</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2260,68 +2265,68 @@
         <translation type="vanished">加入书签</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="155"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="154"/>
         <source>The profile called %1 already exists</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="153"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="152"/>
         <source>The profile called %1 already exists, choose an another name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="32"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="31"/>
         <source>Delete the current bookmark called %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="32"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="31"/>
         <source>If yes, the bookmark %1 will be deleted definitely</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="179"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="178"/>
         <source>Save current bookmark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="74"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="73"/>
         <source>New bookmark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="81"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="80"/>
         <source>Clone bookmark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="91"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="90"/>
         <source>Delete current bookmark</source>
         <translation>删除当前书签</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="99"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="98"/>
         <source>Instructor mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="125"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="124"/>
         <source>Connect (NOT SAVED)</source>
         <comment>Connect with a profile not saved</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="127"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="126"/>
         <source>Connect</source>
         <translation>连接</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="129"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="128"/>
         <source>Waiting maps...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="139"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ConnectDlg.qml" line="138"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -2542,195 +2547,195 @@
 <context>
     <name>DCSConfigItem</name>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="427"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="426"/>
         <source>This directory will be move to trash!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="427"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="426"/>
         <source>This version is not managed by LotAtc Configurator, %1 will be moved to trash</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="118"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="117"/>
         <source>LotAtc Configurator will open the file %1 to add the following line:&lt;br/&gt;&lt;i&gt;dofile(lfs.writedir()..&quot;Mods/services/LotAtc/lua utils/lotatcMissionServer.lua&quot;)&lt;/i&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="116"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="115"/>
         <source>Click on ok to execute the changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="123"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="122"/>
         <source>Success</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="125"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="124"/>
         <source>Error, changes have not applied</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="139"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="138"/>
         <source>DCS is running</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="138"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="137"/>
         <source>DCS is running, cannot modify it, please stop it</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="204"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="203"/>
         <source>Saved games : %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="214"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="213"/>
         <source>Instance is running</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="218"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="217"/>
         <source>Instance is not running</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="235"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="234"/>
         <source>DCS used: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="241"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="240"/>
         <source>Launch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="285"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="284"/>
         <source>Current LotAtc version: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="290"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="289"/>
         <source>LotAtc is not installed on this instance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="316"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="315"/>
         <source>Install LotAtc %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="318"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="317"/>
         <source>Not installed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="374"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="373"/>
         <source>Modify</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="386"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="385"/>
         <source>Update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="399"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="398"/>
         <source>Uninstall</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="412"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="411"/>
         <source>Install</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="447"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="446"/>
         <source>Profile</source>
         <translation type="unfinished">档案</translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="456"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="455"/>
         <source>Current profile: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="466"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="465"/>
         <source>Config</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="466"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="465"/>
         <source>Create custom config</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="479"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="478"/>
         <source>This instance use common config</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="479"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="478"/>
         <source>This instance use custom config</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="503"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="502"/>
         <source>DCS is currently running, config and profile modification need a mission restart. You cannot install/uninstall/update LotAtc, close this DCS instance to modify it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="577"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="576"/>
         <source>LotAtc Link is not installed in %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="579"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="578"/>
         <source>LotAtc Link is not installed in %1 but detected in the dcs.log</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="572"/>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="581"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="571"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="580"/>
         <source>LotAtc Link is installed on port %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="539"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="538"/>
         <source>LotAtc Link auto install</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="568"/>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="575"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="567"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="574"/>
         <source>LotAtc Link is installed in %1 but not yet detected in the dcs.log (try relaunch DCS with a mission to update status)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="570"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="569"/>
         <source>LotAtc Link will be installed automatically in %1 at next DCS launch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="591"/>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="619"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="590"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="618"/>
         <source>Fix me</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="604"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="603"/>
         <source>Cannot determine the DCS used - Try to launch this instance once before try again</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="606"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="605"/>
         <source>DCS Running, cannot makes changes to script, try stop it before</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="632"/>
+        <location filename="../lotatc/configurator/resources/qml/DCSConfigItem.qml" line="631"/>
         <source>Seems to be a dedicated DCS Server instance, LotAtc not in dedicated mode</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2881,7 +2886,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/date/DatePicker.qml" line="150"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/date/DatePicker.qml" line="151"/>
         <source>Time:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2896,128 +2901,138 @@
 <context>
     <name>DefaultContextMenu</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="119"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="128"/>
         <source>Object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="122"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="131"/>
         <source>Open properties</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="131"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="140"/>
         <source>Restore label visibility</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="141"/>
-        <source>Classification...</source>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="151"/>
+        <source>Classification</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="167"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="154"/>
+        <source>Full classification...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="170"/>
+        <source>Reset classification to pending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="205"/>
         <source>Unit</source>
         <translation type="unfinished">单位</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="167"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="205"/>
         <source>Instructor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="172"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="210"/>
         <source>Open instructor view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="190"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="228"/>
         <source>Add a new %1 here...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="190"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="228"/>
         <source>object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="202"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="240"/>
         <source>Delete this object [%1]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="206"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="244"/>
         <source>Delete this object ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="206"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="244"/>
         <source>If yes, this object will be deleted on server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="220"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="258"/>
         <source>Draw</source>
         <translation type="unfinished">绘制</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="241"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="280"/>
         <source>Add %1 at this point</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="258"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="297"/>
         <source>Delete %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="261"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="272"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="300"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="311"/>
         <source>Delete this draw?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="261"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="300"/>
         <source>The draw will be deleted locally only.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="269"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="308"/>
         <source>Delete %1 for all</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="272"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="311"/>
         <source>The draw will be deleted for all controllers.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="282"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="321"/>
         <source>Bulls</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="287"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="326"/>
         <source>Set bullseye here</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="299"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="338"/>
         <source>Set %1 bullseye here</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="312"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="351"/>
         <source>Set bullseye on %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="322"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="361"/>
         <source>Marks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="325"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/DefaultContextMenu.qml" line="364"/>
         <source>Add a mark here...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3147,7 +3162,7 @@
 <context>
     <name>DockAreaChooserButton</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreaChooserButton.qml" line="38"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreaChooserButton.qml" line="37"/>
         <source>Hide</source>
         <translation type="unfinished">隐藏</translation>
     </message>
@@ -3162,17 +3177,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreaChooserButton.qml" line="50"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreaChooserButton.qml" line="51"/>
         <source>Move down</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreaChooserButton.qml" line="50"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreaChooserButton.qml" line="51"/>
         <source>Move right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreaChooserButton.qml" line="67"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreaChooserButton.qml" line="68"/>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3180,27 +3195,27 @@
 <context>
     <name>DockAreasChooserButton</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreasChooserButton.qml" line="82"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreasChooserButton.qml" line="81"/>
         <source>Hide</source>
         <translation type="unfinished">隐藏</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreasChooserButton.qml" line="89"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreasChooserButton.qml" line="88"/>
         <source>Move to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreasChooserButton.qml" line="112"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreasChooserButton.qml" line="113"/>
         <source>To a new window...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreasChooserButton.qml" line="118"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreasChooserButton.qml" line="120"/>
         <source>To a new floating...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreasChooserButton.qml" line="127"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockAreasChooserButton.qml" line="130"/>
         <source>To a new tab...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3277,12 +3292,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockMenuButton.qml" line="53"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockMenuButton.qml" line="54"/>
         <source>Docks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockMenuButton.qml" line="68"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockMenuButton.qml" line="69"/>
         <source>Show</source>
         <translation type="unfinished">显示</translation>
     </message>
@@ -3290,22 +3305,22 @@
 <context>
     <name>DockMoveMenu</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockMoveMenu.qml" line="27"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockMoveMenu.qml" line="26"/>
         <source>Move to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockMoveMenu.qml" line="97"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockMoveMenu.qml" line="98"/>
         <source>To a new window...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockMoveMenu.qml" line="103"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockMoveMenu.qml" line="105"/>
         <source>To a new floating...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockMoveMenu.qml" line="112"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/dock/DockMoveMenu.qml" line="115"/>
         <source>To a new tab...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3401,24 +3416,24 @@
 <context>
     <name>DrawingTextProperties</name>
     <message>
-        <location filename="../lotatc/common/tiler/qml/DrawingTextProperties.qml" line="26"/>
+        <location filename="../lotatc/common/tiler/qml/DrawingTextProperties.qml" line="25"/>
         <source>Text properties</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/DrawingTextProperties.qml" line="37"/>
+        <location filename="../lotatc/common/tiler/qml/DrawingTextProperties.qml" line="36"/>
         <source>Text</source>
         <translation type="unfinished">文字</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/DrawingTextProperties.qml" line="51"/>
-        <location filename="../lotatc/common/tiler/qml/DrawingTextProperties.qml" line="57"/>
+        <location filename="../lotatc/common/tiler/qml/DrawingTextProperties.qml" line="50"/>
+        <location filename="../lotatc/common/tiler/qml/DrawingTextProperties.qml" line="56"/>
         <source>Font</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/DrawingTextProperties.qml" line="69"/>
-        <location filename="../lotatc/common/tiler/qml/DrawingTextProperties.qml" line="78"/>
+        <location filename="../lotatc/common/tiler/qml/DrawingTextProperties.qml" line="68"/>
+        <location filename="../lotatc/common/tiler/qml/DrawingTextProperties.qml" line="77"/>
         <source>Font color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3433,7 +3448,7 @@
 <context>
     <name>EditorMap</name>
     <message>
-        <location filename="../lotatc/editor/resources/qml/EditorMap.qml" line="43"/>
+        <location filename="../lotatc/editor/resources/qml/EditorMap.qml" line="42"/>
         <source>Tactical View</source>
         <translation type="unfinished">战术视角</translation>
     </message>
@@ -3718,24 +3733,24 @@
 <context>
     <name>GroundSpeedSelector</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/GroundSpeedSelector.qml" line="75"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/GroundSpeedSelector.qml" line="76"/>
         <source>Speed</source>
         <translation type="unfinished">速度</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/GroundSpeedSelector.qml" line="116"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/GroundSpeedSelector.qml" line="118"/>
         <source>Eco</source>
         <comment>first letter of Eco</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/GroundSpeedSelector.qml" line="121"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/GroundSpeedSelector.qml" line="123"/>
         <source>Std</source>
         <comment>first letter of Standard</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/GroundSpeedSelector.qml" line="126"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/GroundSpeedSelector.qml" line="128"/>
         <source>Ops</source>
         <comment>first letter of Operationel</comment>
         <translation type="unfinished"></translation>
@@ -3997,171 +4012,168 @@
 <context>
     <name>Instructor</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="302"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="306"/>
         <source>Radio</source>
         <translation type="unfinished">无线电</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="98"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="312"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="99"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="316"/>
         <source>Show on map</source>
         <translation type="unfinished">在地图上显示</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="288"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="292"/>
         <source>Delete this object ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="288"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="292"/>
         <source>If yes, this object will be deleted on server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="115"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="116"/>
         <source>Nav</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="118"/>
-        <source>Sensors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="121"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="122"/>
         <source>TDL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="128"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="129"/>
         <source>Orders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="132"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="133"/>
         <source>Weapons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="270"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="274"/>
         <source>Resume Pattern</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="286"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="290"/>
         <source>Delete unit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="303"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="307"/>
         <source>Set current virtual position at this object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="303"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="307"/>
         <source>Need radio enabled and an active radar unit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="319"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="323"/>
         <source>Status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="320"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="324"/>
         <source>Make object active/inactive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="350"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="119"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="354"/>
         <source>IFF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="140"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="373"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="615"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="141"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="377"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="619"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="631"/>
         <source>Radar</source>
         <translation type="unfinished">雷达</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="136"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="599"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="137"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="603"/>
         <source>RWR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="336"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="340"/>
         <source>Reset classification to pending</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="399"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="403"/>
         <source>Datalink enable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="408"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="412"/>
         <source>Share</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="412"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="416"/>
         <source>Relay</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="434"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="438"/>
         <source>Available orders for this unit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="442"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="446"/>
         <source>RTB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="463"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="467"/>
         <source>RTB on airport</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="482"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="486"/>
         <source>CAP at this point</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="485"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="489"/>
         <source>CAP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="504"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="508"/>
         <source>Orbit at this point</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="507"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="511"/>
         <source>Orbit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="526"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="530"/>
         <source>Hold at this point</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="529"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="533"/>
         <source>Hold</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="549"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="553"/>
         <source>Available weapons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="577"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/Instructor.qml" line="581"/>
         <source>Shoot on %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4369,12 +4381,12 @@
 <context>
     <name>LabelGenEditor</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/editor/LabelGenEditor.qml" line="32"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/editor/LabelGenEditor.qml" line="33"/>
         <source>Change text format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/editor/LabelGenEditor.qml" line="45"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/editor/LabelGenEditor.qml" line="46"/>
         <source>Open help on this format</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4394,6 +4406,14 @@
     <message>
         <location filename="../lotatc/common/client/models/impl/LblLocationModel.cpp" line="18"/>
         <source>Corner - Choose a corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>LineEditor</name>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/editor/LineEditor.qml" line="20"/>
+        <source>Enter text...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4570,14 +4590,14 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="unfinished">代码</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="184"/>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="195"/>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="206"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="197"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="208"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="219"/>
         <source>from %1 (to %2) at %3%4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="235"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="248"/>
         <source>Heading</source>
         <translation type="unfinished">航向</translation>
     </message>
@@ -4597,48 +4617,53 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="unfinished">TACAN</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="129"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="130"/>
+        <source>Last report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="142"/>
         <source>QFE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="130"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="143"/>
         <source>QNH</source>
         <translation type="unfinished">修正海平面气压</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="138"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="151"/>
         <source>Weather</source>
         <translation type="unfinished">天气</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="146"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="159"/>
         <source>Temperature</source>
         <translation type="unfinished">温度</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="154"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="167"/>
         <source>Visibility</source>
         <translation type="unfinished">能见度</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="162"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="175"/>
         <source>Base</source>
         <translation type="unfinished">云底</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="170"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="183"/>
         <source>Thickness</source>
         <translation type="unfinished">厚度</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="189"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="202"/>
         <source>Wind on ground</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="200"/>
-        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="211"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="213"/>
+        <location filename="../lotatc/common/client/MapAirportProperties.cpp" line="224"/>
         <source>Wind at %1%2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4677,7 +4702,7 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>MapDrawingCircleProperties</name>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapDrawingCircleProperties.qml" line="23"/>
+        <location filename="../lotatc/common/tiler/qml/MapDrawingCircleProperties.qml" line="22"/>
         <source>Radius</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4685,17 +4710,17 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>MapDrawingCorridorProperties</name>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapDrawingCorridorProperties.qml" line="32"/>
+        <location filename="../lotatc/common/tiler/qml/MapDrawingCorridorProperties.qml" line="31"/>
         <source>Properties</source>
         <translation type="unfinished">属性</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapDrawingCorridorProperties.qml" line="36"/>
+        <location filename="../lotatc/common/tiler/qml/MapDrawingCorridorProperties.qml" line="35"/>
         <source>Radius</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapDrawingCorridorProperties.qml" line="57"/>
+        <location filename="../lotatc/common/tiler/qml/MapDrawingCorridorProperties.qml" line="56"/>
         <source>Points list:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4703,17 +4728,17 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>MapDrawingOrbitProperties</name>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapDrawingOrbitProperties.qml" line="24"/>
+        <location filename="../lotatc/common/tiler/qml/MapDrawingOrbitProperties.qml" line="23"/>
         <source>Length</source>
         <translation type="unfinished">跑道长度</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapDrawingOrbitProperties.qml" line="41"/>
+        <location filename="../lotatc/common/tiler/qml/MapDrawingOrbitProperties.qml" line="40"/>
         <source>Width</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapDrawingOrbitProperties.qml" line="58"/>
+        <location filename="../lotatc/common/tiler/qml/MapDrawingOrbitProperties.qml" line="57"/>
         <source>Heading</source>
         <translation type="unfinished">航向</translation>
     </message>
@@ -4721,12 +4746,12 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>MapDrawingPointProperties</name>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapDrawingPointProperties.qml" line="36"/>
+        <location filename="../lotatc/common/tiler/qml/MapDrawingPointProperties.qml" line="35"/>
         <source>Properties</source>
         <translation type="unfinished">属性</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapDrawingPointProperties.qml" line="41"/>
+        <location filename="../lotatc/common/tiler/qml/MapDrawingPointProperties.qml" line="40"/>
         <source>Center</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4734,7 +4759,7 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>MapDrawingPolylineProperties</name>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapDrawingPolylineProperties.qml" line="30"/>
+        <location filename="../lotatc/common/tiler/qml/MapDrawingPolylineProperties.qml" line="29"/>
         <source>Points list:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4742,17 +4767,17 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>MapDrawingSymbolProperties</name>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapDrawingSymbolProperties.qml" line="32"/>
+        <location filename="../lotatc/common/tiler/qml/MapDrawingSymbolProperties.qml" line="31"/>
         <source>Properties</source>
         <translation type="unfinished">属性</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapDrawingSymbolProperties.qml" line="37"/>
+        <location filename="../lotatc/common/tiler/qml/MapDrawingSymbolProperties.qml" line="36"/>
         <source>Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapDrawingSymbolProperties.qml" line="55"/>
+        <location filename="../lotatc/common/tiler/qml/MapDrawingSymbolProperties.qml" line="54"/>
         <source>Symbol</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4760,12 +4785,12 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>MapDrawingTextProperties</name>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapDrawingTextProperties.qml" line="36"/>
+        <location filename="../lotatc/common/tiler/qml/MapDrawingTextProperties.qml" line="35"/>
         <source>Properties</source>
         <translation type="unfinished">属性</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapDrawingTextProperties.qml" line="42"/>
+        <location filename="../lotatc/common/tiler/qml/MapDrawingTextProperties.qml" line="41"/>
         <source>Position</source>
         <translation type="unfinished">位置</translation>
     </message>
@@ -4783,7 +4808,7 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/tiler/qml/MapItem.qml" line="224"/>
+        <location filename="../lotatc/common/tiler/qml/MapItem.qml" line="225"/>
         <source>hidden</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4947,32 +4972,32 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>MapObject</name>
     <message>
-        <location filename="../lotatc/common/common/MapObject.cpp" line="333"/>
+        <location filename="../lotatc/common/common/MapObject.cpp" line="407"/>
         <source>Undetected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/MapObject.cpp" line="337"/>
+        <location filename="../lotatc/common/common/MapObject.cpp" line="411"/>
         <source>Hidden</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/MapObject.cpp" line="341"/>
+        <location filename="../lotatc/common/common/MapObject.cpp" line="415"/>
         <source>Ignore</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/MapObject.cpp" line="345"/>
+        <location filename="../lotatc/common/common/MapObject.cpp" line="419"/>
         <source>Spotted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/MapObject.cpp" line="349"/>
+        <location filename="../lotatc/common/common/MapObject.cpp" line="423"/>
         <source>Tracked</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/MapObject.cpp" line="353"/>
+        <location filename="../lotatc/common/common/MapObject.cpp" line="427"/>
         <source>Shared</source>
         <translation type="unfinished">已共享</translation>
     </message>
@@ -5016,7 +5041,7 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>MultiLineEditor</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/editor/MultiLineEditor.qml" line="27"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/editor/MultiLineEditor.qml" line="28"/>
         <source>Enter some text...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5155,54 +5180,54 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="obsolete">任务时间，显示/隐藏 精度秒</translation>
     </message>
     <message>
-        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="38"/>
+        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="37"/>
         <source>New scenario</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="45"/>
+        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="44"/>
         <source>Open scenario</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="52"/>
+        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="51"/>
         <source>Save scenario</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="59"/>
+        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="58"/>
         <source>Save scenario as</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="66"/>
-        <location filename="../lotatc/generator/resources/qml/MyHeaderMenu.qml" line="23"/>
+        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="65"/>
+        <location filename="../lotatc/generator/resources/qml/MyHeaderMenu.qml" line="22"/>
         <source>Open options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="73"/>
+        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="72"/>
         <source>Display online help</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="80"/>
-        <location filename="../lotatc/generator/resources/qml/MyHeaderMenu.qml" line="31"/>
+        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="79"/>
+        <location filename="../lotatc/generator/resources/qml/MyHeaderMenu.qml" line="30"/>
         <source>Information on this software</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="125"/>
+        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="124"/>
         <source>Unknown</source>
         <translation type="unfinished">未知的</translation>
     </message>
     <message>
-        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="125"/>
+        <location filename="../lotatc/editor/resources/qml/MyHeaderMenu.qml" line="124"/>
         <source>Current : %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/MyHeaderMenu.qml" line="63"/>
+        <location filename="../lotatc/generator/resources/qml/MyHeaderMenu.qml" line="62"/>
         <source>Server status</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5703,12 +5728,12 @@ click Launch to update, close this dialog to not update..</source>
     </message>
     <message>
         <location filename="../lotatc/common/common/net/NetObject.cpp" line="330"/>
-        <source>You try to connect to an older server incompatible version, client should be downgraded</source>
+        <source>The server you&apos;ve connected to is running an older version. Update your client to an older version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/net/NetObject.cpp" line="332"/>
-        <source>You try to connect to an newer server incompatible version, client should be upgraded</source>
+        <location filename="../lotatc/common/common/net/NetObject.cpp" line="333"/>
+        <source>The server you&apos;ve connected to is running a newer version. Update your client.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5722,42 +5747,42 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>NetWeather</name>
     <message>
-        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="448"/>
+        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="458"/>
         <source>Sky clear</source>
         <translation type="unfinished">晴天</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="448"/>
+        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="458"/>
         <source>Some clouds</source>
         <translation type="unfinished">少云</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="448"/>
+        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="458"/>
         <source>Clouds</source>
         <translation type="unfinished">多云</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="448"/>
+        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="458"/>
         <source>Overcast</source>
         <translation type="unfinished">阴天</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="449"/>
+        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="459"/>
         <source>Rain</source>
         <translation type="unfinished">雨天</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="449"/>
+        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="459"/>
         <source>Snow</source>
         <translation type="unfinished">雪天</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="449"/>
+        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="459"/>
         <source>Thunderstorms</source>
         <translation type="unfinished">雷雨</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="449"/>
+        <location filename="../lotatc/common/common/net/NetWeather.cpp" line="459"/>
         <source>Snow thunderstorms</source>
         <translation type="unfinished">暴风雪</translation>
     </message>
@@ -6027,88 +6052,98 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>OptionsBaseGeneral</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="44"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="65"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="55"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="76"/>
         <source>Please choose a file</source>
         <translation type="unfinished">请选择文件</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="81"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="92"/>
         <source>Choose a language:</source>
         <translation type="unfinished">选择语言：</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="100"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="111"/>
         <source>Interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="108"/>
-        <source>Choose a variant for the UI (size of the UI):</source>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="119"/>
+        <source>Choose a style for the application:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="144"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="134"/>
         <source>Choose a theme for the application:</source>
         <translation type="unfinished">选择一个主题：</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="160"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="150"/>
         <source>Choose a variation color for the application:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="180"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="167"/>
+        <source>Application font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="175"/>
+        <source>Default</source>
+        <translation type="unfinished">默认</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="188"/>
         <source>Restore window position on startup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="189"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="197"/>
         <source>Restore default dock and windows positions</source>
         <translation type="unfinished">恢复默认窗口和驻留窗口位置</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="194"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="202"/>
         <source>Click to reset</source>
         <translation type="unfinished">重置</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="205"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="213"/>
         <source>Check update at start</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="211"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="219"/>
         <source>Check update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="223"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="231"/>
         <source>Automatic crash dump upload (anonymous)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="250"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="258"/>
         <source>Backup settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="259"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="267"/>
         <source>Load all settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="264"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="272"/>
         <source>WARNING: Application will close itself after loading settings, it is normal, just relaunch it after</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="268"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="276"/>
         <source>Save all settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="286"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsBaseGeneral.qml" line="294"/>
         <source>(*) : Need application restart</source>
         <translation type="unfinished">(*) : 需要重启程序</translation>
     </message>
@@ -6500,162 +6535,167 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="vanished">选择中立方颜色</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="27"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="45"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="28"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="46"/>
         <source>Define color for classification</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="36"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="37"/>
         <source>Use advanced classification</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="50"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="51"/>
         <source>Please choose a color for pending unit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="65"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="66"/>
         <source>Please choose a color for %1 unit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="78"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="79"/>
         <source>Please choose a color for civil unit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="81"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="82"/>
         <source>Civil</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="94"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="95"/>
         <source>Items parameters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="109"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="110"/>
         <source>Define size of Item</source>
         <translation>设定符号大小</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="124"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="125"/>
         <source>Define line width of item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="142"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="143"/>
         <source>Show item background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="151"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="152"/>
         <source>Define speed vector mode (put at 0s to disable)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="197"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="198"/>
         <source>Show ghost line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="209"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="210"/>
         <source>Show ghost point</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="218"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="219"/>
         <source>Visual for ghost point</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="237"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="238"/>
         <source>Rectangle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="241"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="242"/>
         <source>Rectangle full</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="245"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="246"/>
         <source>Circle</source>
         <translation type="unfinished">圆圈</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="249"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="250"/>
         <source>Circle full</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="265"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="266"/>
         <source>Please choose a color for background in simple alert</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="268"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="269"/>
         <source>Background mode for low alert (ex: ident)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="276"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="277"/>
         <source>Please choose a color for background in alert</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="279"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="280"/>
         <source>Background mode for high alert (failure)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="286"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="287"/>
         <source>Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="290"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="291"/>
         <source>Pulse when select during (ms) :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="303"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="304"/>
         <source>Always show a circle around the selected item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="315"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="316"/>
         <source>Define opacity of circles</source>
         <translation>定义区域范围不透明度</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="321"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="322"/>
         <source>Detection:</source>
         <translation>探测：</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="339"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="340"/>
         <source>Threat:</source>
         <translation>威胁：</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="358"/>
+        <source>Airport:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Define speed vector mode (put at 0s for zoom independent)</source>
         <translation type="vanished">设定速度矢量显示模式（&apos;0秒&apos;为独立缩放模式）</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="170"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="171"/>
         <source>Zoom independent</source>
         <translation>独立缩放</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="170"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="171"/>
         <source>%1 seconds</source>
         <translation>%1 秒</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="174"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsItem.qml" line="175"/>
         <source>Define number of ghost</source>
         <translation>定义尾迹长度值</translation>
     </message>
@@ -6671,102 +6711,102 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="vanished">自定义敌方标签</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="34"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="33"/>
         <source>Parameters</source>
         <translation type="unfinished">参数</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="56"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="55"/>
         <source>Corner for friend</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="71"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="70"/>
         <source>Corner for ennemy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="87"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="86"/>
         <source>Behavior on overlap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="106"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="105"/>
         <source>Display</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="114"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="113"/>
         <source>Show background for label (Key: Alt+L)</source>
         <translation>显示标签背景（快捷键：Alt+L）</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="123"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="122"/>
         <source>Size of font label:</source>
         <translation>标签字体大小：</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="140"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="139"/>
         <source>Distance between item and label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="156"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="155"/>
         <source>Label follow item color:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="167"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="166"/>
         <source>Please choose a color for label foreground</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="171"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="170"/>
         <source>Foreground</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="179"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="178"/>
         <source>Please choose a color for label background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="182"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="181"/>
         <source>Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="190"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="189"/>
         <source>Define contents for labels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="199"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="198"/>
         <source>Use right-click to quick insert values!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="203"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="202"/>
         <source>Set values to void to disable label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="208"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="207"/>
         <source>Can support HTML subset now! With HTML, linebreak will no more work, add &lt;br/&gt; to create another line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="234"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="233"/>
         <source>Attribute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="237"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="236"/>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="258"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="256"/>
         <source>Full documentation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6775,7 +6815,7 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="obsolete">友军</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="240"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="239"/>
         <source>Options</source>
         <translation type="unfinished">选项</translation>
     </message>
@@ -6784,7 +6824,7 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="obsolete">敌方</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="223"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsLabel.qml" line="222"/>
         <source>Available values:</source>
         <translation>有效值：</translation>
     </message>
@@ -6796,264 +6836,270 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>OptionsMap</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="30"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="29"/>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="35"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="34"/>
         <source>Smooth zoom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="42"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="41"/>
         <source>Display</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="46"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="45"/>
         <source>Show airport code or name behavior</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="61"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="60"/>
         <source>When locked on unit, keep map aligned with unit heading</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="71"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="70"/>
         <source>Beacons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="78"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="77"/>
         <source>Show beacons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="85"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="84"/>
         <source>Show beacons name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="98"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="97"/>
         <source>Show Flight plan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="114"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="113"/>
         <source>Sensors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="121"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="120"/>
         <source>Show radar coverage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="136"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="135"/>
         <source>Show RWR lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="149"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="148"/>
         <source>Fade out RWR lines after a while</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="157"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="156"/>
         <source>Colors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="167"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="166"/>
         <source>Please choose a color for land</source>
         <translation type="unfinished">选择陆地颜色</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="170"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="169"/>
         <source>Land</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="179"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="178"/>
         <source>Please choose a color for sea</source>
         <translation type="unfinished">选择海洋颜色</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="182"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="181"/>
         <source>Sea</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="191"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="190"/>
         <source>Please choose a color for runway</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="194"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="193"/>
         <source>Runway</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="203"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="202"/>
         <source>Please choose a color for runway name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="206"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="205"/>
         <source>Runway label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="215"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="214"/>
         <source>Please choose a color for taxiway</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="218"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="217"/>
         <source>Taxiway</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="227"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="226"/>
         <source>Please choose a color for taxiway labels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="230"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="229"/>
         <source>Taxiway labels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="239"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="238"/>
         <source>Alternate taxiway names (Caucasus only)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="248"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="247"/>
         <source>Please choose a color for range rings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="251"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="250"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="569"/>
         <source>Range rings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="308"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="307"/>
         <source>Please choose a color for measure line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="517"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="516"/>
         <source>Title in BRAA panel:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="544"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="543"/>
         <source>Text (support subset of HTML4 format), %(source_name), %(source_callsign), %(source_type), %(source_tn) for respective name, callsign, type and track number of the source
 %(target_name), %(target_callsign), %(target_type), %(target_tn) for respective name, callsign, type and track number of the target</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="267"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="311"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="574"/>
+        <source>Show range rings radials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="266"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="310"/>
         <source>Measure line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="319"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="318"/>
         <source>Please choose a color for background measure line label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="322"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="321"/>
         <source>Measure line background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="327"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="326"/>
         <source>Size of font for measure line:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="362"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="361"/>
         <source>Measure line toggle (if activated, first click enable measure, second click will hide it)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="378"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="377"/>
         <source>Cursor label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="383"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="382"/>
         <source>Show bulls near mouse cursor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="424"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="423"/>
         <source>Size of font:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="344"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="441"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="548"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="343"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="440"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="547"/>
         <source>Example:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="273"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="392"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="272"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="391"/>
         <source>Text:</source>
         <translation type="unfinished">文字：</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="287"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="406"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="531"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="286"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="405"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="530"/>
         <source>Reset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="300"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="299"/>
         <source>%(bearing) is replaced by heading, %(distance) by distance, %(distance_unit) by distance unit, %(bullseye) by bullseye position</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="370"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="369"/>
         <source>Show measure line value on bottom of the window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="419"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="418"/>
         <source>Text (support subset of HTML4 format), %(bearing) is replaced by bearing, %(distance) by distance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="457"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="456"/>
         <source>BRAA</source>
         <translation type="unfinished">航向(B)/距离(R)/高度(A)/方位(A)</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="467"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="466"/>
         <source>Please choose a color for braa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="470"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="469"/>
         <source>BRAA line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="475"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="474"/>
         <source>Size of font for BRAA line:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="494"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsMap.qml" line="493"/>
         <source>Position of text on BRAA line</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7072,6 +7118,69 @@ click Launch to update, close this dialog to not update..</source>
     <message>
         <source>Contrast</source>
         <translation type="obsolete">对比度</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsRecord</name>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsRecord.qml" line="32"/>
+        <source>Options</source>
+        <translation type="unfinished">选项</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsRecord.qml" line="39"/>
+        <source>Autorecord when connected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsRecord.qml" line="47"/>
+        <source>Please choose the captures folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsRecord.qml" line="48"/>
+        <source>Capture folder:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsRecord.qml" line="57"/>
+        <source>Devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsRecord.qml" line="83"/>
+        <source>Audio input (use stereo mix or What you hear channel):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsRecord.qml" line="100"/>
+        <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsRecord.qml" line="107"/>
+        <source>Quality:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsRecord.qml" line="121"/>
+        <source>Framerate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsRecord.qml" line="130"/>
+        <source>Video codec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsRecord.qml" line="144"/>
+        <source>Audio codec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsRecord.qml" line="159"/>
+        <source>File format:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7150,15 +7259,15 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>OptionsTheme</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="47"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="66"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="86"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="105"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="46"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="65"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="85"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="104"/>
         <source>Please choose a file</source>
         <translation type="unfinished">请选择文件</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="118"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="117"/>
         <source>Theme</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7203,22 +7312,22 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="191"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="192"/>
         <source>Save your dock layout and load them quickly</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="196"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="197"/>
         <source>Load a dock layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="202"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="203"/>
         <source>Save a dock layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="221"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/options/OptionsTheme.qml" line="222"/>
         <source>Load</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7380,22 +7489,22 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>PCheck</name>
     <message>
-        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="350"/>
+        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="353"/>
         <source>This license is not compatible with this software</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="356"/>
+        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="359"/>
         <source>License is invalid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="612"/>
+        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="615"/>
         <source>License file not found in %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="627"/>
+        <location filename="../lotatc/common/pcheck/PCheck.cpp" line="630"/>
         <source>Invalid license file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7403,7 +7512,7 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>PageAirportView</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageAirportView.qml" line="186"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageAirportView.qml" line="185"/>
         <source>Click to open %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7626,7 +7735,7 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>PageDraw</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="366"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="365"/>
         <source>Draw</source>
         <translation>绘制</translation>
     </message>
@@ -7667,8 +7776,8 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="vanished">新绘图</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="109"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="132"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="108"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="131"/>
         <source>Please choose a file</source>
         <translation>请选择文件</translation>
     </message>
@@ -7741,92 +7850,92 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="vanished">选择字体</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="156"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="155"/>
         <source>Edit drawing (%1)</source>
         <comment>%1 is dynamically replace by shortcut</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="177"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="176"/>
         <source>Layer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="184"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="183"/>
         <source>Create a new layer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="191"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="190"/>
         <source>Remove a layer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="198"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="197"/>
         <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="415"/>
         <source>Remove this layer locally</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="207"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="206"/>
         <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="424"/>
         <source>Remove this layer for all</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="210"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="209"/>
         <source>Delete this layer?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="210"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="209"/>
         <source>The layer will be deleted for all controlers.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="219"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="218"/>
         <source>Load a new layer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="225"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="224"/>
         <source>Save...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="233"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="232"/>
         <source>Save a layer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="241"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="240"/>
         <source>Save all visible layer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="304"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="303"/>
         <source>Shared this layer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="314"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="313"/>
         <source>Show/Hide this layer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="324"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="323"/>
         <source>Change opacity of this layer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="335"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="504"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="334"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="507"/>
         <source>Move up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="343"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="512"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="342"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="515"/>
         <source>Move down</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7856,47 +7965,47 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="495"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="498"/>
         <source>Change layer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="546"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="549"/>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="563"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="566"/>
         <source>Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="570"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="573"/>
         <source>Id</source>
         <translation type="unfinished">机场编号</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="583"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="586"/>
         <source>Author</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="608"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="611"/>
         <source>Common</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="616"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="619"/>
         <source>Foreground color</source>
         <translation>前景颜色</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="635"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="638"/>
         <source>Background color</source>
         <translation>背景颜色</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="652"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageDraw.qml" line="655"/>
         <source>Line width</source>
         <translation>直线宽度</translation>
     </message>
@@ -7912,12 +8021,12 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="vanished">下滑道 %1</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="236"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="235"/>
         <source>Please choose a file</source>
         <translation>请选择文件</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="127"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="126"/>
         <source>Actions</source>
         <translation>动作</translation>
     </message>
@@ -7926,12 +8035,12 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="vanished">解除</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="130"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="129"/>
         <source>Save graph</source>
         <translation>保存图片</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="604"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="603"/>
         <source>Items</source>
         <translation type="unfinished">图标</translation>
     </message>
@@ -7940,7 +8049,7 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="obsolete">机场</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="720"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="719"/>
         <source>Show labels</source>
         <translation>显示标签</translation>
     </message>
@@ -7949,63 +8058,63 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="vanished">在地图上显示圆环</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="729"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="728"/>
         <source>Steady level:</source>
         <translation>稳定高度：</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="750"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="749"/>
         <source>Minima:</source>
         <translation>最小：</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="636"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="635"/>
         <source>Show</source>
         <translation>显示</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="305"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="304"/>
         <source>Glidepath</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="528"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="527"/>
         <source>Track</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="596"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="595"/>
         <source>You can zoom graph with Wheel and Shift+Wheel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="608"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="607"/>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="640"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="639"/>
         <source>Name</source>
         <translation>名字</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="644"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="643"/>
         <source>Callsign</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="648"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="647"/>
         <source>Distance(%1)</source>
         <comment>%1 will be replaced by unit: km</comment>
         <translation>距离（%1）</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="771"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="770"/>
         <source>Glide angle:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="804"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageGraph.qml" line="803"/>
         <source>LSLLC:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8058,22 +8167,22 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>PageMap</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMap.qml" line="59"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMap.qml" line="58"/>
         <source>Options</source>
         <translation>选项</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMap.qml" line="66"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMap.qml" line="65"/>
         <source>Filters</source>
         <translation>过滤</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMap.qml" line="107"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMap.qml" line="106"/>
         <source>Layers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMap.qml" line="162"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMap.qml" line="161"/>
         <source>Map parameters</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8166,7 +8275,7 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="vanished">图层：</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMap.qml" line="123"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMap.qml" line="122"/>
         <source>Please choose a color for layer</source>
         <translation>选择图层颜色</translation>
     </message>
@@ -8219,12 +8328,12 @@ click Launch to update, close this dialog to not update..</source>
         <translation>速度过滤</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMap.qml" line="56"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMap.qml" line="55"/>
         <source>Map</source>
         <translation>地图</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMap.qml" line="86"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMap.qml" line="85"/>
         <source>Choose a map:</source>
         <translation>选择地图：</translation>
     </message>
@@ -8262,33 +8371,33 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>PageMissionEditor</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMissionEditor.qml" line="41"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMissionEditor.qml" line="40"/>
         <source>Name of the mission:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMissionEditor.qml" line="50"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMissionEditor.qml" line="49"/>
         <source>Start at</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMissionEditor.qml" line="56"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMissionEditor.qml" line="55"/>
         <source>MM/dd/yyyy hh:mm:ssZ</source>
         <comment>dd for day, MM for month, yyyy for year, hh,mm,ss for hour,minute,second, Z is for &apos;Zulu&apos;</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMissionEditor.qml" line="66"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMissionEditor.qml" line="65"/>
         <source>Description:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMissionEditor.qml" line="105"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMissionEditor.qml" line="104"/>
         <source>Time settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMissionEditor.qml" line="164"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMissionEditor.qml" line="163"/>
         <source>Show trace:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8297,7 +8406,7 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="obsolete">描述</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMissionEditor.qml" line="110"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageMissionEditor.qml" line="109"/>
         <source>Time factor:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8309,28 +8418,33 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="vanished">目标</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageObjects.qml" line="85"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageObjects.qml" line="86"/>
         <source>Enter text to filter...</source>
         <translation>向过滤器输入文字...</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageObjects.qml" line="92"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageObjects.qml" line="93"/>
         <source>Double-click on item to fast selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageObjects.qml" line="170"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageObjects.qml" line="171"/>
         <source>Hide aircraft with no speed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageObjects.qml" line="180"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageObjects.qml" line="181"/>
         <source>Classification</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageObjects.qml" line="205"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageObjects.qml" line="206"/>
         <source>Dimension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageObjects.qml" line="261"/>
+        <source>Show neutral</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8342,7 +8456,7 @@ click Launch to update, close this dialog to not update..</source>
         <translation type="vanished">种类</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageObjects.qml" line="230"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageObjects.qml" line="231"/>
         <source>Human</source>
         <translation>玩家</translation>
     </message>
@@ -8350,7 +8464,7 @@ click Launch to update, close this dialog to not update..</source>
 <context>
     <name>PageOrders</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageOrders.qml" line="46"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageOrders.qml" line="45"/>
         <source>Orders</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8641,52 +8755,52 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
 <context>
     <name>PageSitac</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="163"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="157"/>
         <source>Map</source>
         <translation type="unfinished">地图</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="175"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="169"/>
         <source>Tactical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="198"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="192"/>
         <source>Left area on window %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="198"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="192"/>
         <source>Left area</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="214"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="208"/>
         <source>Top area on window %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="214"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="208"/>
         <source>Top area</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="239"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="233"/>
         <source>Bottom area on window %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="239"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="233"/>
         <source>Bottom area</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="253"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="247"/>
         <source>Right area on window %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="253"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageSitac.qml" line="247"/>
         <source>Right area</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8753,7 +8867,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageTraffic.qml" line="118"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageTraffic.qml" line="135"/>
         <source>Show traffic on map</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8780,11 +8894,42 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
     </message>
     <message>
         <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageTraffic.qml" line="111"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageTraffic.qml" line="119"/>
         <source>Remove a traffic template</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageTraffic.qml" line="170"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageTraffic.qml" line="123"/>
+        <source>Remove ALL Traffic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageTraffic.qml" line="126"/>
+        <source>Delete all traffic?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageTraffic.qml" line="126"/>
+        <source>All traffic will be removed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageTraffic.qml" line="141"/>
+        <source>Dynamic traffic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageTraffic.qml" line="148"/>
+        <source>Generate traffic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageTraffic.qml" line="156"/>
+        <source>Clear traffic in mission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageTraffic.qml" line="209"/>
         <source>Show/Hide this template</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8866,37 +9011,37 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="vanished">METAR天气预报格式</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageWeather.qml" line="87"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageWeather.qml" line="101"/>
         <source>Visibility</source>
         <translation>能见度</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageWeather.qml" line="98"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageWeather.qml" line="112"/>
         <source>Base</source>
         <translation>云底</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageWeather.qml" line="109"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageWeather.qml" line="123"/>
         <source>Thickness</source>
         <translation>厚度</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageWeather.qml" line="122"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageWeather.qml" line="136"/>
         <source>QNH</source>
         <translation>修正海平面气压</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageWeather.qml" line="133"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageWeather.qml" line="147"/>
         <source>Temperature</source>
         <translation>温度</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageWeather.qml" line="151"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageWeather.qml" line="165"/>
         <source>Wind at %1%2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageWeather.qml" line="157"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/pages/PageWeather.qml" line="171"/>
         <source>from %1 (to %2) at %3%4</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9195,12 +9340,12 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="vanished">值</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="32"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="31"/>
         <source>Do you really want to stop %1 server?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="30"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="29"/>
         <source>%1 server will be stopped!!!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9215,83 +9360,88 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="63"/>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="89"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="62"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="88"/>
         <source>Server settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="66"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="65"/>
         <source>Profile used</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="69"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="68"/>
         <source>Server administration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="92"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="91"/>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="96"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="95"/>
         <source>Marks feature</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="100"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="99"/>
         <source>Human feature</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="104"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="103"/>
         <source>Can change AI transponder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="108"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="107"/>
         <source>Instructor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="133"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="121"/>
+        <source>Use fine controls in instructor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="137"/>
         <source>Server running LotAtc %1 - Profile name is %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="148"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="152"/>
         <source>Admin commandes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="153"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="158"/>
         <source>Admin commands are only available in LotAtc Advanced and user authorized</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="156"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="161"/>
         <source>Server commands take some time to be executed, that is normal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="197"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="209"/>
         <source>Current mission:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="204"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="216"/>
         <source>Open server mission list</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="213"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="226"/>
         <source>You are not allowed on server side to modify user flags</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="218"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/ProfileDlg.qml" line="231"/>
         <source>Open user flags editor</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9304,58 +9454,58 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="unfinished">档案</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="88"/>
+        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="92"/>
         <source>Select a profile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="115"/>
-        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="121"/>
+        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="119"/>
+        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="125"/>
         <source>(current)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="141"/>
+        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="145"/>
         <source>Clone and edit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="150"/>
+        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="155"/>
         <source>Rename</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="158"/>
+        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="163"/>
         <source>Validate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="170"/>
+        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="175"/>
         <source>Cancel</source>
         <translation type="unfinished">取消</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="177"/>
+        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="182"/>
         <source>Delete</source>
         <translation type="unfinished">删除</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="188"/>
+        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="193"/>
         <source>Set current</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="198"/>
+        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="203"/>
         <source>Load</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="209"/>
+        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="214"/>
         <source>Current profile parameters:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="43"/>
+        <location filename="../lotatc/common/serverconfig/qml/ProfileEdt.qml" line="47"/>
         <source>Set new name:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9949,6 +10099,34 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
     </message>
 </context>
 <context>
+    <name>RecorderQt</name>
+    <message>
+        <location filename="../lotatc/common/recorder/RecorderQt.cpp" line="45"/>
+        <source>Very low</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/recorder/RecorderQt.cpp" line="46"/>
+        <source>Low</source>
+        <translation type="unfinished">低画质</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/recorder/RecorderQt.cpp" line="47"/>
+        <source>Normal</source>
+        <translation type="unfinished">简洁</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/recorder/RecorderQt.cpp" line="48"/>
+        <source>High</source>
+        <translation type="unfinished">高画质</translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/recorder/RecorderQt.cpp" line="49"/>
+        <source>Very High</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ReliefManager</name>
     <message>
         <location filename="../lotatc/common/common/ReliefManager.cpp" line="131"/>
@@ -9990,7 +10168,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
 <context>
     <name>ScenarioOrder</name>
     <message>
-        <location filename="../lotatc/common/scenario/ScenarioOrder.cpp" line="265"/>
+        <location filename="../lotatc/common/scenario/ScenarioOrder.cpp" line="271"/>
         <source>%1&apos;s order</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10546,11 +10724,6 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="unfinished">深色</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/models/impl/ThemeModel.cpp" line="18"/>
-        <source>System</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../lotatc/common/client/models/impl/ThemeModel.cpp" line="21"/>
         <source>Red</source>
         <translation type="unfinished">红方</translation>
@@ -10838,12 +11011,12 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
 <context>
     <name>TrafficGenerator</name>
     <message>
-        <location filename="../lotatc/common/scenario/traffic/TrafficGenerator.cpp" line="268"/>
+        <location filename="../lotatc/common/scenario/traffic/TrafficGenerator.cpp" line="324"/>
         <source>T/O from %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/scenario/traffic/TrafficGenerator.cpp" line="324"/>
+        <location filename="../lotatc/common/scenario/traffic/TrafficGenerator.cpp" line="385"/>
         <source>Land at %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10882,31 +11055,41 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
     </message>
     <message>
         <location filename="../lotatc/common/client/resources/qml/software/rborn/common/traffic/TrafficProperties.qml" line="101"/>
+        <source>Possible callsigns (delimited by a ;):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/traffic/TrafficProperties.qml" line="113"/>
         <source>Information:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/traffic/TrafficProperties.qml" line="116"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/traffic/TrafficProperties.qml" line="123"/>
+        <source>Altitude limits (0=no limits):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/traffic/TrafficProperties.qml" line="148"/>
         <source>Add a waypoint from</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/traffic/TrafficProperties.qml" line="136"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/traffic/TrafficProperties.qml" line="168"/>
         <source>No waypoints defined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/traffic/TrafficProperties.qml" line="169"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/traffic/TrafficProperties.qml" line="202"/>
         <source>Spawn parameters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/traffic/TrafficProperties.qml" line="175"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/traffic/TrafficProperties.qml" line="208"/>
         <source>Number of minutes minimum and maximum before spawing a new unit after last one :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/traffic/TrafficProperties.qml" line="199"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/traffic/TrafficProperties.qml" line="232"/>
         <source>Maximum spawn units at same time (0=no limit):</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11093,44 +11276,12 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
 <context>
     <name>UiModeModel</name>
     <message>
-        <location filename="../lotatc/common/client/models/impl/UiModeModel.cpp" line="16"/>
-        <source>Normal - Small font</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/common/client/models/impl/UiModeModel.cpp" line="17"/>
         <source>Normal</source>
-        <translation type="unfinished">简洁</translation>
+        <translation type="obsolete">简洁</translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/models/impl/UiModeModel.cpp" line="18"/>
-        <source>Normal - Large font</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/common/client/models/impl/UiModeModel.cpp" line="19"/>
-        <source>Normal - Very large font</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/common/client/models/impl/UiModeModel.cpp" line="20"/>
-        <source>Dense - Small font</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/common/client/models/impl/UiModeModel.cpp" line="21"/>
         <source>Dense</source>
-        <translation type="unfinished">密集</translation>
-    </message>
-    <message>
-        <location filename="../lotatc/common/client/models/impl/UiModeModel.cpp" line="22"/>
-        <source>Dense - Large font</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../lotatc/common/client/models/impl/UiModeModel.cpp" line="23"/>
-        <source>Dense - Very large font</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">密集</translation>
     </message>
 </context>
 <context>
@@ -11223,7 +11374,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
 <context>
     <name>WaypointsListProperties</name>
     <message>
-        <location filename="../lotatc/common/tiler/qml/WaypointsListProperties.qml" line="47"/>
+        <location filename="../lotatc/common/tiler/qml/WaypointsListProperties.qml" line="48"/>
         <source>no name</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11302,29 +11453,29 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
 <context>
     <name>fastInstr</name>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/fastInstr.js" line="109"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/fastInstr.js" line="93"/>
         <source>right</source>
         <comment>turn right</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/fastInstr.js" line="110"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/fastInstr.js" line="96"/>
         <source>left</source>
         <comment>turn left</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/fastInstr.js" line="115"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/fastInstr.js" line="104"/>
         <source>Change heading to %1°</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/fastInstr.js" line="172"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/fastInstr.js" line="158"/>
         <source>Not water</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/fastInstr.js" line="181"/>
+        <location filename="../lotatc/common/client/resources/qml/software/rborn/common/fastInstr.js" line="167"/>
         <source>Not ground</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11360,55 +11511,55 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="obsolete">天气</translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/main.qml" line="36"/>
+        <location filename="../lotatc/configurator/resources/qml/main.qml" line="32"/>
         <source>LotAtc Configurator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/main.qml" line="73"/>
+        <location filename="../lotatc/configurator/resources/qml/main.qml" line="69"/>
         <location filename="../lotatc/editor/resources/qml/main.qml" line="242"/>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="118"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="112"/>
         <source>General</source>
         <translation type="unfinished">常规</translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/main.qml" line="156"/>
+        <location filename="../lotatc/configurator/resources/qml/main.qml" line="152"/>
         <source>Open options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/main.qml" line="181"/>
-        <location filename="../lotatc/configurator/resources/qml/main.qml" line="191"/>
+        <location filename="../lotatc/configurator/resources/qml/main.qml" line="177"/>
+        <location filename="../lotatc/configurator/resources/qml/main.qml" line="187"/>
         <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/main.qml" line="203"/>
+        <location filename="../lotatc/configurator/resources/qml/main.qml" line="199"/>
         <source>Dedicated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/main.qml" line="210"/>
+        <location filename="../lotatc/configurator/resources/qml/main.qml" line="206"/>
         <source>Check update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/main.qml" line="217"/>
+        <location filename="../lotatc/configurator/resources/qml/main.qml" line="213"/>
         <source>Refresh</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/main.qml" line="249"/>
+        <location filename="../lotatc/configurator/resources/qml/main.qml" line="245"/>
         <source>LotAtc Server status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/main.qml" line="250"/>
+        <location filename="../lotatc/configurator/resources/qml/main.qml" line="246"/>
         <source>Install/update/uninstall/check status for all DCS instances</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/main.qml" line="250"/>
+        <location filename="../lotatc/configurator/resources/qml/main.qml" line="246"/>
         <source>Status is update automatically, hit refresh button to refresh status, LotAtc Configurator read dcs.log to get status.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11710,7 +11861,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
     </message>
     <message>
         <location filename="../lotatc/client-remote/resources/qml/main.qml" line="52"/>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="73"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="69"/>
         <source>Error</source>
         <translation type="unfinished">错误</translation>
     </message>
@@ -11725,7 +11876,7 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/configurator/resources/qml/main.qml" line="197"/>
+        <location filename="../lotatc/configurator/resources/qml/main.qml" line="193"/>
         <source>Default</source>
         <translation type="unfinished">默认</translation>
     </message>
@@ -11735,84 +11886,89 @@ This project is currently in Beta phase and made by Tacno from &lt;a href=&apos;
         <translation type="unfinished">请选择文件</translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="60"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="56"/>
         <source>LotAtc Generator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="122"/>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="307"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="116"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="306"/>
         <source>Configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="126"/>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="312"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="120"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="311"/>
         <source>Profile</source>
         <translation type="unfinished">档案</translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="130"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="124"/>
         <source>Paths</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="156"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="150"/>
         <source>Database:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="159"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="153"/>
         <source>Number of objects : %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="162"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="157"/>
         <source>Number of airports: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="170"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="161"/>
+        <source>Number of weapons: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="169"/>
         <source>Scenario:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="173"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="172"/>
         <source>Number of objects: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="176"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="175"/>
         <source>Blue connected: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="179"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="178"/>
         <source>Red connected: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="207"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="206"/>
         <source>Server controls:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="237"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="236"/>
         <source>Time factor:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="287"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="286"/>
         <source>No database/scenario/tracks folder set, go in options &gt; paths</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="293"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="292"/>
         <source>Current parameters:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/generator/resources/qml/main.qml" line="332"/>
+        <location filename="../lotatc/generator/resources/qml/main.qml" line="331"/>
         <source>License not found</source>
         <translation type="unfinished"></translation>
     </message>
