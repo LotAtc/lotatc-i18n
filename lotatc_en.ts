@@ -1347,500 +1347,500 @@
 <context>
     <name>ConfigLua</name>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="7"/>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="8"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="7"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="8"/>
         <source>Enable LotAtc</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="9"/>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="10"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="9"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="10"/>
         <source>LotAtc Server port</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="11"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="11"/>
         <source>Red password</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="13"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="13"/>
         <source>Blue password</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="12"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="12"/>
         <source>Red password|Must NOT be void</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="14"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="14"/>
         <source>Blue password|Must NOT be void</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="15"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="15"/>
         <source>Limitations of red clients</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="16"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="16"/>
         <source>Limitations of red clients|-1 means no limit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="17"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="17"/>
         <source>Limitations of blue clients</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="18"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="18"/>
         <source>Limitations of blue clients|-1 means no limit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="19"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="19"/>
         <source>Virtual awacs name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="20"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="20"/>
         <source>All units with this name (or human pilot group) will be AWACS|void text disables the feature</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="21"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="21"/>
         <source>Virtual awacs static on bulls</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="22"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="22"/>
         <source>Virtual awacs static on bulls for each coalition|Use virtual awacs altitude/range below to set altitude/range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="23"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="23"/>
         <source>Virtual awacs range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="24"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="24"/>
         <source>Radius detection range in kilometer for virtual AWACS ( must be &gt; 5km )</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="25"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="25"/>
         <source>Virtual awacs altitude</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="26"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="26"/>
         <source>Altitude in meter for virtual AWACS (only use for bulls virtual awacs)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="27"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="27"/>
         <source>Ignore radar name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="28"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="28"/>
         <source>All units with name containing this string will never be part of radar coverage|Works on any unit (plane, SAM, ship...)|void text disables the feature</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="29"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="29"/>
         <source>Minimal detection range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="30"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="30"/>
         <source>Minimal detection range in meters to be considered as part of|radar coverage by LotAtc.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="31"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="31"/>
         <source>Enable log</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="32"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="32"/>
         <source>Log generation for server, false to disable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="33"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="33"/>
         <source>Enable chat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="34"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="34"/>
         <source>Interact with DCS chat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="35"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="35"/>
         <source>Chat filter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="36"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="36"/>
         <source>Filter command starting with, lua pattern</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="37"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="37"/>
         <source>Show connect/disconnect message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="38"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="38"/>
         <source>Show connect message in DCS|when LotAtc user connect/disconnect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="39"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="39"/>
         <source>Enable dedicated mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="40"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="40"/>
         <source>DCS Dedicated mode enable|Profile will be set from the dedicated_profile below</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="41"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="41"/>
         <source>Dedicated profile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="42"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="42"/>
         <source>For dedicated mode only, use this profile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="43"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="43"/>
         <source>Block connections for DCS pilots</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="44"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="44"/>
         <source>Block connections that are already connected as DCS pilots</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="45"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="45"/>
         <source>User password list file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="46"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="46"/>
         <source>User/password list|If a file is set, only user/password in this file could connect|this file define also whitelist/blacklist|For file path, path are relative to mods/LotAtc directoy|but you can set absolute path also|Format is JSON</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="47"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="47"/>
         <source>Enable admin commands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="48"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="48"/>
         <source>Server commands like pause/unpause from advanced client|To enable admin commands you must:| 1/ use_admin_commands = true| 2/ add users in a json file specified by allowed_users_file| 3/ use advanced client license</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="49"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="49"/>
         <source>Enable dump stats</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="50"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="50"/>
         <source>Dump stats in Json for external software</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="51"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="51"/>
         <source>Dump json file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="52"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="52"/>
         <source>stats file path, path are relative to mods/LotAtc directoy|but you can set absolute path also</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="53"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="53"/>
         <source>Enable CSV file export</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="54"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="54"/>
         <source>Enable CSV file export of the computed tactical situation|For monomodelisation, each radar will generate its own view + datalink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="55"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="55"/>
         <source>Enable TacView file export</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="56"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="56"/>
         <source>Enable TacView file export of the computed tactical situation|For monomodelisation, each radar will generate its own view + datalink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="57"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="57"/>
         <source>Enable TacView RealTime export</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="58"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="58"/>
         <source>Enable TacView Realtime export of the computed tactical situation|For monomodelisation, each radar will generate its own view + datalink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="59"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="59"/>
         <source>TacView RealTime port</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="60"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="60"/>
         <source>TacView Realtime port</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="61"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="61"/>
         <source>Enable transponder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="62"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="62"/>
         <source>Enable SRS transponder function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="63"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="63"/>
         <source>Transponder SRS port</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="64"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="64"/>
         <source>SRS transponder port</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="65"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="65"/>
         <source>SRS server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="66"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="66"/>
         <source>SRS server|By default use local SRS server on same computer than DCS host</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="67"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="67"/>
         <source>Enable LotAtc Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="68"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="68"/>
         <source>Enable Json server used for LotAtc Link|WIP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="69"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="69"/>
         <source>Install automatically LotAtc Link Script in DCS World</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="70"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="70"/>
         <source>Enable LotAtc Link automatically when DCS starts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="71"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="71"/>
         <source>Slmod directory for automatic Slmod install</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="72"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="72"/>
         <source>Enable LotAtc Link automatically when DCS starts when using SlMod|Enter the Slmod version (the name in saved games/&lt;your dcs&gt;/Scripts/net/&lt;THIS NAME&gt;/) for example &apos;Slmodv7_6&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="73"/>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="74"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="73"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="74"/>
         <source>Port for Json communication</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="77"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="77"/>
         <source>Automatically import DCS IPs points</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="78"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="78"/>
         <source>Automatically import DCS Ips points as drawing in LotAtc</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="93"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="93"/>
         <source>info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="94"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="94"/>
         <source>Informations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="95"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="95"/>
         <source>filters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="96"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="96"/>
         <source>Filters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="97"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="97"/>
         <source>radar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="98"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="98"/>
         <source>Radar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="99"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="99"/>
         <source>automatism</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="100"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="100"/>
         <source>Automation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="101"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="101"/>
         <source>airport</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="102"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="102"/>
         <source>Airport management</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="103"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="103"/>
         <source>datalink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="104"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="104"/>
         <source>Datalink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="105"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="105"/>
         <source>esm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="106"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="106"/>
         <source>ESM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="107"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="107"/>
         <source>advanced</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="108"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="108"/>
         <source>Advanced</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="75"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="75"/>
         <source>Automatically import DCS drawing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="76"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="76"/>
         <source>Automatically import coalition and commun DCS draw as drawing in LotAtc</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="79"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="79"/>
         <source>Automatically import DCS Marks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="80"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="80"/>
         <source>Automatically import DCS Marks in LotAtc</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="81"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="81"/>
         <source>Update time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="82"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="82"/>
         <source>Number of seconds between data extraction|Lower can reduce performances</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="83"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="83"/>
         <source>New unit research time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="84"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="84"/>
         <source>Search for new unit every n seconds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="85"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="85"/>
         <source>Group units number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="86"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="86"/>
         <source>Maximum number of units updated in each block of data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="87"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="87"/>
         <source>Minimum frame update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="88"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="88"/>
         <source>Minimum frame update time in seconds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="89"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="89"/>
         <source>Enable debug</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="90"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="90"/>
         <source>Enable verbose output in dcs.log, useful to report problems|BIG PERFORMANCES IMPACT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="91"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="91"/>
         <source>Enable perfs tests</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lotatc/out/build/final_app/i18n_files/config_lua.cpp" line="92"/>
+        <location filename="../lotatc/out/build/final_server/i18n_files/config_lua.cpp" line="92"/>
         <source>Enable performances output, useful to report problems</source>
         <translation type="unfinished"></translation>
     </message>
